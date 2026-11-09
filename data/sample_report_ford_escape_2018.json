@@ -1,0 +1,53 @@
+{
+  "note": "Real Vin AI report snapshot (server cache, English) for the app's free sample car. Do not change the facts.",
+  "vin": "1FMCU9HD3JUA50412",
+  "vehicle": {
+    "year": "2018", "make": "FORD", "model": "Escape", "trim": "SEL",
+    "body": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+    "fuel": "Gasoline", "doors": "4", "cylinders": "4", "displacement": "1.5",
+    "driveType": "4WD/4-Wheel Drive/4x4", "transmission": "Automatic",
+    "manufacturer": "FORD MOTOR COMPANY", "country": "UNITED STATES (USA)"
+  },
+  "ai": {
+    "summary": "This is a 2018 Ford Escape SEL, a compact SUV with a 1.5L 4-cylinder gasoline engine, equipped with automatic transmission and 4-wheel drive.",
+    "verdict": "Proceed with caution; the vehicle is suitable if well maintained and inspected carefully before purchase.",
+    "verdict_level": "caution",
+    "inspection_score": 55,
+    "reliability": "The 2018 Ford Escape has a moderate reliability record with some reported issues in the 1.5L EcoBoost engine and transmission components; overall, it is average for its class and age.",
+    "risk": "Potential risks include turbo engine reliability concerns, transmission issues, and higher maintenance costs associated with 4WD systems.",
+    "ownership_cost": "Medium — maintenance and repair costs are typical for a compact SUV with a turbocharged engine and 4WD system.",
+    "budget_warning": "Expect moderate ongoing costs due to turbocharged engine maintenance and potential 4WD system repairs.",
+    "best_for": "Ideal for buyers seeking a compact 4WD SUV with moderate power who are willing to invest in thorough inspection and maintenance.",
+    "should_visit": "Maybe — get proof first; ensure maintenance records and inspection reports are available before committing to a visit.",
+    "red_flags": [
+      "Missing or incomplete maintenance records.",
+      "Signs of transmission slipping or rough shifting.",
+      "Unusual noises or performance issues from the turbo engine."
+    ],
+    "weak_points": [
+      "1.5L EcoBoost turbo engine reliability concerns.",
+      "Automatic transmission durability under 4WD conditions.",
+      "Potential higher maintenance costs for 4WD components."
+    ],
+    "what_to_check": [
+      "Turbocharger condition and boost pressure consistency.",
+      "Transmission operation and fluid condition.",
+      "4WD system engagement and differential function.",
+      "Overall vehicle service history and any past repairs."
+    ],
+    "questions_to_ask": [
+      "Has the turbocharger or transmission ever been repaired or replaced?",
+      "Can you provide a complete maintenance and service history?",
+      "Are there any outstanding recalls or unresolved issues?",
+      "Has the 4WD system been regularly serviced and tested?",
+      "Has the vehicle been involved in any accidents or had major repairs?"
+    ],
+    "negotiation_tips": [
+      "Use any known turbo or transmission issues as leverage for price reduction.",
+      "Request discounts if maintenance records are incomplete or missing.",
+      "Negotiate based on the cost of potential 4WD system repairs.",
+      "Consider the vehicle's mileage and condition relative to asking price."
+    ],
+    "advice": "1. Obtain a full service history and verify regular maintenance. 2. Have a qualified mechanic inspect the turbocharged engine and transmission thoroughly. 3. Check for any recalls or service bulletins related to the 2018 Escape. 4. Test drive to assess 4WD operation and transmission shifting quality."
+  }
+}

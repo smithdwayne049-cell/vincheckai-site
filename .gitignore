@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+test-results/
+qa/
+__pycache__/
+TASK*.md
+codex_run*.log
+codex_start.txt
+.npm-cache/
