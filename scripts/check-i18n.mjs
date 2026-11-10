@@ -80,7 +80,7 @@ try {
   await context.close();
   assert.deepEqual(errors,[]);
   const xml=await fs.readFile('sitemap.xml','utf8');
-  assert.equal((xml.match(/<url>/g)||[]).length,20);
-  assert.equal((xml.match(/xhtml:link/g)||[]).length,220);
+  assert.equal((xml.match(/<url>/g)||[]).length,40);
+  assert.equal((xml.match(/xhtml:link/g)||[]).length,440);
   console.log('PASS: 20 localized pages at 360px and 1440px, metadata, reciprocal hreflang, sitemap, full AI translations, FAQ/schema consistency, switcher navigation, Play locales, images, reduced motion, nested 3D, no browser errors.');
 }finally{await browser.close();}

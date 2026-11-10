@@ -138,4 +138,6 @@ revise(ROOT)
 from revision5 import revise as revision5
 revision5(ROOT)
 from localize import build as localize
+from revision7 import revise as revision7
+revision7(ROOT)
 localize(ROOT)

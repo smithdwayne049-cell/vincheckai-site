@@ -12,7 +12,7 @@ LANGUAGES = {'en': 'English', 'ru': 'Русский', 'de': 'Deutsch', 'es': 'Es
              'ko': '한국어', 'zh': '中文'}
 BASE = 'https://vincheckai.com/'
 LOCALES = {'zh': 'zh-CN', 'pt': 'pt-BR'}
-ATTRS = {'alt', 'aria-label', 'title'}
+ATTRS = {'alt', 'aria-label', 'title', 'placeholder'}
 
 def route(lang, page):
     return ('' if lang == 'en' else lang + '/') + page
@@ -58,7 +58,7 @@ class Localizer(HTMLParser):
             attrs['href'] = BASE + route(self.lang, self.page)
         for key in ('src', 'srcset', 'href'):
             value = attrs.get(key, '')
-            if self.lang != 'en' and (value.startswith('assets/') or value in ('styles.css', 'app.js', 'report.js')):
+            if self.lang != 'en' and (value.startswith('assets/') or value in ('styles.css', 'app.js', 'report.js', 'decoder.js')):
                 attrs[key] = '../' + value
             if value.startswith('https://play.google.com/'):
                 parts = urlsplit(value)
@@ -104,7 +104,7 @@ class Localizer(HTMLParser):
         self.output.append('<!--' + data + '-->')
 
 def build(root):
-    sources = {page: (root / (page or 'index.html')).read_text(encoding='utf-8') for page in ('', 'sample.html')}
+    sources = {page: (root / (page or 'index.html')).read_text(encoding='utf-8') for page in ('', 'sample.html', 'decode.html', 'pricing.html')}
     english = {}
     # NHTSA official text is explicitly marked and kept verbatim in all languages.
     nhtsa = json.loads((root / 'data/nhtsa_ford_escape_2018.json').read_text(encoding='utf-8'))
@@ -140,4 +140,4 @@ def build(root):
             for alt in [*LANGUAGES, 'x-default']:
                 ET.SubElement(node, '{http://www.w3.org/1999/xhtml}link', rel='alternate', hreflang=alt, href=BASE + route('en' if alt == 'x-default' else alt, page))
     ET.ElementTree(sitemap).write(root / 'sitemap.xml', encoding='utf-8', xml_declaration=True)
-    print('Built 20 localized pages and multilingual sitemap.')
+    print('Built 40 localized pages and multilingual sitemap.')
