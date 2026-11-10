@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "build": "python scripts/build.py",
+    "build:screens": "node scripts/render-phone-screens.mjs",
+    "check:revision8": "node scripts/check-revision8.mjs",
     "preview": "python -m http.server 4173",
     "check": "node scripts/check.mjs",
     "check:i18n": "node scripts/check-i18n.mjs",

@@ -1,3 +1,4 @@
+import {phoneAsset} from './phone-assets.js';
 const stage = document.querySelector('#phone-stage');
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 const weak = (navigator.deviceMemory && navigator.deviceMemory < 4) || (navigator.hardwareConcurrency && navigator.hardwareConcurrency < 4) || navigator.connection?.saveData;
@@ -36,7 +37,7 @@ async function startScene() {
     shape.quadraticCurveTo(-w/2,-h/2,-w/2+r,-h/2);
     const body = new THREE.Mesh(new THREE.ExtrudeGeometry(shape,{depth:.13, bevelEnabled:true, bevelSegments:3, steps:1, bevelSize:.045, bevelThickness:.045, curveSegments:12}),new THREE.MeshStandardMaterial({color:0x443d50,metalness:.85,roughness:.23}));
     phone.add(body);
-    const texture = await new THREE.TextureLoader().loadAsync(new URL('./assets/web/phone.webp', import.meta.url).href);
+    const texture = await new THREE.TextureLoader().loadAsync(phoneAsset());
     const textures = new Map([[0,texture]]);
     const pendingTextures = new Set();
     texture.colorSpace = THREE.SRGBColorSpace;
@@ -59,15 +60,17 @@ async function startScene() {
     function resize(){if(disposed)return;const {width,height}=stage.getBoundingClientRect();renderer.setSize(width,height,false);camera.aspect=width/height;camera.updateProjectionMatrix();}
     const resizeObserver = new ResizeObserver(resize);resizeObserver.observe(stage);resize();
     function render(){
-      if(disposed||!visible||document.hidden||reduced.matches){frame=0;return;}
+      // Also check at the frame boundary: browser media events can arrive after
+      // ScrollTrigger has already reverted the pinned stage and resized it.
+      if(reduced.matches){sceneCleanup?.();frame=0;return;}
+      if(disposed||!visible||document.hidden){frame=0;return;}
       const time=clock.getElapsedTime();
       const scroll=stage.motion?.progress ?? Math.min(window.scrollY / innerHeight,1);
       const screen=stage.motion?.screen ?? 0;
       if(textures.has(screen)) {front.material.map=textures.get(screen);stage.dataset.renderedScreen=String(screen);}
       else if(!pendingTextures.has(screen)){
         pendingTextures.add(screen);
-        const name=['phone','phone-specs','phone-flags','phone-compare'][screen];
-        new THREE.TextureLoader().loadAsync(new URL(`./assets/web/${name}.webp`,import.meta.url).href).then(next=>{
+        new THREE.TextureLoader().loadAsync(phoneAsset(screen)).then(next=>{
           if(disposed){next.dispose();return;}
           next.colorSpace=THREE.SRGBColorSpace;next.anisotropy=texture.anisotropy;textures.set(screen,next);
         }).catch(()=>{});

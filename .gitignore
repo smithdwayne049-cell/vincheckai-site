@@ -7,3 +7,4 @@ TASK*.md
 codex_run*.log
 codex_start.txt
 .npm-cache/
+data/app_strings/

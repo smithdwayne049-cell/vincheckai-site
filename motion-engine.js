@@ -1,3 +1,4 @@
+import {phoneAsset} from './phone-assets.js';
 // Local exact-version libraries. All motion is scoped to the OS motion preference.
 const vendor = new URL('./assets/vendor/', import.meta.url);
 const weak = (navigator.deviceMemory && navigator.deviceMemory < 4) ||
@@ -103,7 +104,7 @@ export async function startMotion() {
         stage.dataset.phoneProgress=progress.value.toFixed(3);stage.dataset.phoneScreen=String(index);
         if(index!==fallbackScreen){
           fallbackScreen=index;
-          stage.querySelector('.phone-fallback').src=new URL(`./assets/web/${['phone','phone-specs','phone-flags','phone-compare'][index]}.webp`,import.meta.url).href;
+          stage.querySelector('.phone-fallback').src=phoneAsset(index);
         }
         chapters.forEach((c,i)=>c.classList.toggle('active',i===index));
       };
@@ -203,7 +204,7 @@ export async function startMotion() {
       featureStage?.classList.remove('horizontal-features');
       for(const [h,html]of originalHeadings)h.innerHTML=html;
       counters.forEach(el=>{el.textContent=originals.get(el);el.style.removeProperty('min-width');});
-      if(stage){delete stage.motion;delete stage.dataset.phoneScreen;delete stage.dataset.phoneProgress;stage.querySelector('.phone-fallback').src=new URL('./assets/web/phone.webp',import.meta.url).href;}
+      if(stage){delete stage.motion;delete stage.dataset.phoneScreen;delete stage.dataset.phoneProgress;stage.querySelector('.phone-fallback').src=phoneAsset();}
       document.querySelectorAll('.phone-chapter').forEach((c,i)=>c.classList.toggle('active',i===0));
     };
   });

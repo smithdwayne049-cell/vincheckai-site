@@ -58,6 +58,12 @@ class Localizer(HTMLParser):
             attrs['href'] = BASE + route(self.lang, self.page)
         for key in ('src', 'srcset', 'href'):
             value = attrs.get(key, '')
+            if key == 'src':
+                # Rebuilding starts from English assets; localization selects its own set.
+                match = re.fullmatch(r'assets/web/(?:screens/en/)?(phone(?:-specs|-flags|-compare)?|scan|specs|flags|compare)\.webp', value)
+                if match:
+                    value = f'assets/web/screens/{self.lang}/{match[1]}.webp'
+                    attrs[key] = value
             if self.lang != 'en' and (value.startswith('assets/') or value in ('styles.css', 'app.js', 'report.js', 'decoder.js')):
                 attrs[key] = '../' + value
             if value.startswith('https://play.google.com/'):
