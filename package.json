@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "check:revision9": "node scripts/check-revision9.mjs",
+    "lighthouse:revision9": "node scripts/lighthouse-revision9.mjs",
     "build": "python scripts/build.py",
     "build:screens": "node scripts/render-phone-screens.mjs",
     "check:revision8": "node scripts/check-revision8.mjs",

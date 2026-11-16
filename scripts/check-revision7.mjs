@@ -117,6 +117,6 @@ try {
   await page.close();
   assert.deepEqual(errors,[]);
   const sitemap=await fs.readFile('sitemap.xml','utf8');
-  assert.equal((sitemap.match(/<loc>/g)||[]).length,40);
+  assert.equal((sitemap.match(/<loc>/g)||[]).length,100);
   console.log('Revision 7 passed: live Ford/European VINs, validation, retry, API errors, all 40 new page/viewport combinations, en/ru/zh results and homepage.');
 } finally {await browser.close();}

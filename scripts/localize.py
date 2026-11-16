@@ -110,7 +110,8 @@ class Localizer(HTMLParser):
         self.output.append('<!--' + data + '-->')
 
 def build(root):
-    sources = {page: (root / (page or 'index.html')).read_text(encoding='utf-8') for page in ('', 'sample.html', 'decode.html', 'pricing.html')}
+    from revision9 import PAGES
+    sources = {page: (root / (page or 'index.html')).read_text(encoding='utf-8') for page in ('', 'sample.html', 'decode.html', 'pricing.html', *PAGES)}
     english = {}
     # NHTSA official text is explicitly marked and kept verbatim in all languages.
     nhtsa = json.loads((root / 'data/nhtsa_ford_escape_2018.json').read_text(encoding='utf-8'))
@@ -146,4 +147,4 @@ def build(root):
             for alt in [*LANGUAGES, 'x-default']:
                 ET.SubElement(node, '{http://www.w3.org/1999/xhtml}link', rel='alternate', hreflang=alt, href=BASE + route('en' if alt == 'x-default' else alt, page))
     ET.ElementTree(sitemap).write(root / 'sitemap.xml', encoding='utf-8', xml_declaration=True)
-    print('Built 40 localized pages and multilingual sitemap.')
+    print(f'Built {len(sources) * len(LANGUAGES)} localized pages and multilingual sitemap.')

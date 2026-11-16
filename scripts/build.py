@@ -83,7 +83,7 @@ def head(title,description,path,schema=None,noindex=False):
 <link rel="stylesheet" href="styles.css">{f'<script type="application/ld+json">{json.dumps(schema)}</script>' if schema else ''}</head><body>
 <a href="#main" class="skip">Skip to content</a><header class="nav wrap"><a class="brand" href="./" aria-label="Vin AI home"><img src="assets/favicon.png" width="38" height="38" alt=""><span>Vin <span>AI</span></span></a><nav class="navlinks" aria-label="Main navigation"><a href="./#features">Features</a><a href="sample.html">Sample report</a><a href="./#faq">FAQ</a><a class="nav-cta" href="{PLAY}">Get the app <span aria-hidden="true">↗</span></a></nav></header>'''
 def footer():
-    return '<footer class="footer wrap"><span>© 2026 Vin AI. A little insight. A better decision.</span><div class="footer-links"><a href="https://privacy.vincheckai.com">Privacy policy</a><a href="sample.html">Sample report</a><a href="./#faq">FAQ</a></div></footer></body></html>'
+    return '<footer class="footer wrap"><span>© 2026 Vin AI. A little insight. A better decision.</span><div class="footer-links"><a href="https://vincheckai.com/privacy.html">Privacy policy</a><a href="sample.html">Sample report</a><a href="./#faq">FAQ</a></div></footer></body></html>'
 def finalcta():
     return f'<section class="final-cta"><div class="eyebrow">Your next car. Your call.</div><h2>Good decisions start<br>with <span class="chrome">better questions.</span></h2><p>Want this for YOUR car? Enter your own VIN in the app.</p>{play()}<p class="micro">Free basic decode · $3.99 full AI report · No subscription needed</p></section>'
 
@@ -140,4 +140,6 @@ revision5(ROOT)
 from localize import build as localize
 from revision7 import revise as revision7
 revision7(ROOT)
+from revision9 import revise as revision9
+revision9(ROOT)
 localize(ROOT)
