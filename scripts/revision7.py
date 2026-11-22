@@ -56,11 +56,11 @@ def revise(root):
          '<div class="tool-heading"><div class="eyebrow">Free VIN decoder</div><h1>Start with the VIN.</h1><p>Decode basic vehicle specifications for free.</p></div>'+form()+locked())
     common = ['AI verdict + score 0–100', 'Red flags', 'What to check', 'Questions to ask the seller', 'Negotiation tips', 'Market value', 'Safety recalls & owner complaints', 'Crash rating', 'Fuel economy']
     body = '<div class="tool-heading"><div class="eyebrow">Pricing</div><h1>A clearer decision.<br><span class="chrome">One-time payment.</span></h1><p>No subscription.</p></div><div class="pricing-grid">'
-    for name,price,unit,features in [('Full AI report','3.99','One VIN',common), ('Compare two cars','5.99','Two cars', ['Two cars side by side', 'Vehicle specifications and AI insights'])]:
+    for name,price,unit,features in [('Full AI report','4.99','One VIN',common), ('Compare two cars','8.99','Two cars', ['Two cars side by side', 'Vehicle specifications and AI insights'])]:
         body += f'<section class="pricing-card"><h2>{name}</h2><p class="price-tag">${price} <span>USD</span></p><p>{unit}</p><p class="micro">One-time payment. No subscription.</p><ul>'+''.join('<li>'+s+'</li>' for s in features)+'</ul>'+play()+'</section>'
     body += '</div><section class="pricing-explainer"><h2>How it works</h2><p>Buy in the app — your next decoded VIN opens as a full report.</p><p>Free: basic VIN decode.</p><a class="text-link" href="decode.html">Free VIN decoder</a><p class="micro">Data availability varies by vehicle and source.</p></section>'
-    schema = {'@context':'https://schema.org','@graph':[{'@type':'Product','name':name,'description':unit,'brand':{'@type':'Brand','name':'Vin AI'},'offers':{'@type':'Offer','price':price,'priceCurrency':'USD','url':PLAY}} for name,price,unit in [('Full AI report','3.99','One VIN'),('Compare two cars','5.99','Two cars')]]}
-    page('pricing.html','Vin AI Pricing | Full AI Reports & Car Comparison','Free basic VIN decode. Full AI report $3.99 for one VIN or compare two cars $5.99. One-time purchases in the Vin AI app. No subscription.',body,schema)
+    schema = {'@context':'https://schema.org','@graph':[{'@type':'Product','name':name,'description':unit,'brand':{'@type':'Brand','name':'Vin AI'},'offers':{'@type':'Offer','price':price,'priceCurrency':'USD','url':PLAY}} for name,price,unit in [('Full AI report','4.99','One VIN'),('Compare two cars','8.99','Two cars')]]}
+    page('pricing.html','Vin AI Pricing | Full AI Reports & Car Comparison','Free basic VIN decode. Full AI report $4.99 for one VIN or compare two cars $8.99. One-time purchases in the Vin AI app. No subscription.',body,schema)
     (root/'index.html').write_text(index,encoding='utf-8')
     for filename in ('index.html','sample.html','404.html','decode.html','pricing.html'):
         path=root/filename

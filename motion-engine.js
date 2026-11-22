@@ -88,7 +88,7 @@ export async function startMotion() {
       const words=title?[...title.querySelectorAll('.motion-word')].filter(w=>!w.closest('em')):[];
       const intro=gsap.timeline({defaults:{ease:'power3.out'}});
       intro.from(words,{y:touch?14:30,opacity:.65,filter:touch?'none':'blur(5px)',duration:.65,stagger:.045});
-      if(title?.querySelector('em'))intro.from(title.querySelector('em'),{opacity:.25,textShadow:'0 0 30px #ff00cc',duration:.65},'-=.2');
+      if(title?.querySelector('em'))intro.from(title.querySelector('em'),{opacity:.25,textShadow:'0 0 30px #ffffff',duration:.65},'-=.2');
       intro.from(document.querySelectorAll('.hero .actions,.report-head .actions'),{y:16,opacity:.4,duration:.55},'-=.35');
       if(stage)intro.from(stage,{y:28,opacity:.4,duration:.8},'-=.4');
       introPlayed=true;
@@ -137,8 +137,8 @@ export async function startMotion() {
     });
     const kinetic=document.querySelector('.kinetic');
     if(kinetic){
-      gsap.fromTo(kinetic.querySelectorAll('.motion-word'),{opacity:.3,color:'#8f7ba7',textShadow:'0 0 0px transparent'},
-        {opacity:1,color:'#ffe5fa',textShadow:'0 0 28px #ff00cc88',stagger:1,ease:'none',
+      gsap.fromTo(kinetic.querySelectorAll('.motion-word'),{opacity:.3,color:'#6f6f6f',textShadow:'0 0 0px transparent'},
+        {opacity:1,color:'#ffffff',textShadow:'0 0 28px #ffffff66',stagger:1,ease:'none',
           scrollTrigger:{trigger:kinetic,start:'top 78%',end:'bottom 35%',scrub:.5}});
     }
     document.querySelectorAll('.cinema').forEach(photo=>{

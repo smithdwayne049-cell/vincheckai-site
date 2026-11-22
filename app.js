@@ -23,10 +23,10 @@ async function startScene() {
     const scene = new THREE.Scene();
     const camera = new THREE.PerspectiveCamera(39, 1, .1, 100);
     camera.position.set(0, 0, 9.4);
-    scene.add(new THREE.AmbientLight(0xe6d6ff, 2.2));
+    scene.add(new THREE.AmbientLight(0xffffff, 1.6));
     const key = new THREE.DirectionalLight(0xffffff, 4); key.position.set(3, 5, 6); scene.add(key);
-    const pink = new THREE.PointLight(0xff00cc, 25, 20); pink.position.set(-4, 1, 3); scene.add(pink);
-    const violet = new THREE.PointLight(0x9977ff, 30, 20); violet.position.set(4, -2, 2); scene.add(violet);
+    const pink = new THREE.PointLight(0xffffff, 18, 20); pink.position.set(-4, 1, 3); scene.add(pink);
+    const violet = new THREE.PointLight(0xdfe6ff, 22, 20); violet.position.set(4, -2, 2); scene.add(violet);
     const phone = new THREE.Group(); scene.add(phone);
     const shape = new THREE.Shape();
     const w=2.42, h=5.02, r=.34;
@@ -35,7 +35,7 @@ async function startScene() {
     shape.quadraticCurveTo(w/2,h/2,w/2-r,h/2); shape.lineTo(-w/2+r,h/2);
     shape.quadraticCurveTo(-w/2,h/2,-w/2,h/2-r); shape.lineTo(-w/2,-h/2+r);
     shape.quadraticCurveTo(-w/2,-h/2,-w/2+r,-h/2);
-    const body = new THREE.Mesh(new THREE.ExtrudeGeometry(shape,{depth:.13, bevelEnabled:true, bevelSegments:3, steps:1, bevelSize:.045, bevelThickness:.045, curveSegments:12}),new THREE.MeshStandardMaterial({color:0x443d50,metalness:.85,roughness:.23}));
+    const body = new THREE.Mesh(new THREE.ExtrudeGeometry(shape,{depth:.13, bevelEnabled:true, bevelSegments:3, steps:1, bevelSize:.045, bevelThickness:.045, curveSegments:12}),new THREE.MeshStandardMaterial({color:0x9a9aa0,metalness:1,roughness:.16}));
     phone.add(body);
     const texture = await new THREE.TextureLoader().loadAsync(phoneAsset());
     const textures = new Map([[0,texture]]);
@@ -44,7 +44,7 @@ async function startScene() {
     texture.anisotropy = Math.min(renderer.capabilities.getMaxAnisotropy(),4);
     const front = new THREE.Mesh(new THREE.PlaneGeometry(2.43,5.022),new THREE.MeshBasicMaterial({map:texture,transparent:true,depthWrite:false}));
     front.position.z=.184; phone.add(front);
-    const buttonMaterial = new THREE.MeshStandardMaterial({color:0x887d9e, metalness:.9, roughness:.2});
+    const buttonMaterial = new THREE.MeshStandardMaterial({color:0xc8c8cc, metalness:1, roughness:.2});
     for (const [x,y,len] of [[1.24,.65,.52],[-1.24,.9,.3],[-1.24,.4,.3]]) {
       const button = new THREE.Mesh(new THREE.BoxGeometry(.04,len,.1),buttonMaterial);
       button.position.set(x,y,.05); phone.add(button);
@@ -54,7 +54,7 @@ async function startScene() {
     for(let i=0;i<54;i++){positions[i*3]=Math.sin(i*71.23)*5; positions[i*3+1]=Math.cos(i*24.8)*4; positions[i*3+2]=-1-Math.abs(Math.sin(i))*3;}
     const particlesGeometry = new THREE.BufferGeometry();
     particlesGeometry.setAttribute('position',new THREE.BufferAttribute(positions,3));
-    const particles = new THREE.Points(particlesGeometry,new THREE.PointsMaterial({color:0xb488ea,size:.017,transparent:true,opacity:.65}));scene.add(particles);
+    const particles = new THREE.Points(particlesGeometry,new THREE.PointsMaterial({color:0xffffff,size:.015,transparent:true,opacity:.65}));scene.add(particles);
     let visible = false, disposed = false, frame = 0, pointerX=0, pointerY=0;
     const clock = new THREE.Clock();
     function resize(){if(disposed)return;const {width,height}=stage.getBoundingClientRect();renderer.setSize(width,height,false);camera.aspect=width/height;camera.updateProjectionMatrix();}

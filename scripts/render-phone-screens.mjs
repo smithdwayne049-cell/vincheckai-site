@@ -31,6 +31,7 @@ try{
    compare:bar('compare_report_title')+`<div class="content compare-content"><div class="cars">${['A','B'].map((v,i)=>`<section class="car ${i?'b':''}"><span class="letter">${v}</span><div class="year">2018</div><strong>${i?'Mercedes-Benz':'BMW'}</strong><div class="model">${i?'C 220d':'320d'}</div><p>${t('report_label_body')}: <b>Sedan</b></p><p>${t('report_label_fuel')}: <b>Diesel</b></p><p>${t('report_label_country')}: <b>Germany</b></p></section>`).join('')}</div><section class="card comparison"><div class="result-title">${icon('trophy')}<span data-fit>${t('compare_result_header').toLocaleUpperCase(lang)}</span><span class="badge">${t('common_level_high').toLocaleUpperCase(lang)}</span></div><div class="result-body"><div class="winner"><span class="trophy">${svg('trophy')}</span><div><small>${t('compare_winner_label').toLocaleUpperCase(lang)}</small>${t('common_vehicle_a')} — 2018 BMW 320d</div></div><p>${esc(copy[lang][8])}</p></div></section><section class="card">${heading('report_market_value_title','money')}${pair(['EUR 21,300','EUR 22,800'])}</section><section class="card">${heading('report_stolen_check_title','shield')}${pair([t('report_stolen_check_unavailable_region'),t('report_stolen_check_unavailable_region')])}</section></div>`
   };
   for(const [name,body] of Object.entries(screens)){
+   if(process.env.ONLY&&!process.env.ONLY.split(',').includes(name))continue;
    const file=path.join(out,`${lang}-${name}.html`);
    await fs.writeFile(file,`<!doctype html><html lang="${lang}"><meta charset="utf-8"><link rel="stylesheet" href="../../scripts/phone-screen.css"><body><main class="screen ${name}" lang="${lang}">${body}</main></body></html>`);
    await page.goto(pathToFileURL(file).href);await page.evaluate(()=>document.fonts.ready);
@@ -47,4 +48,4 @@ try{
  }
  await fs.writeFile(path.join(out,'fit.json'),JSON.stringify(fit,null,2));
 }finally{await browser.close();}
-execFileSync('python',[path.join(root,'scripts/compress-phone-screens.py')],{stdio:'inherit'});
+if(!process.env.ONLY)execFileSync('python',[path.join(root,'scripts/compress-phone-screens.py')],{stdio:'inherit'});

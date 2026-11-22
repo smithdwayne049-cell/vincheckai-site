@@ -22,7 +22,7 @@ Enter 17 letters and digits. I, O and Q are not allowed.
 Enter a VIN
 Free VIN Decoder | Vin AI
 Free VIN decoder
-Free basic VIN decode. Full AI report $3.99 for one VIN or compare two cars $5.99. One-time purchases in the Vin AI app. No subscription.
+Free basic VIN decode. Full AI report $4.99 for one VIN or compare two cars $8.99. One-time purchases in the Vin AI app. No subscription.
 Free basic specifications · Source: NHTSA (US data). Coverage varies.
 Free: basic VIN decode.
 Fuel economy
@@ -72,7 +72,7 @@ COPY = {
 Введи VIN
 Бесплатная расшифровка VIN | Vin AI
 Бесплатная расшифровка VIN
-Базовая расшифровка VIN бесплатно. Полный отчёт ИИ — $3.99 за один VIN, сравнение двух авто — $5.99. Разовая покупка в Vin AI, без подписки.
+Базовая расшифровка VIN бесплатно. Полный отчёт ИИ — $4.99 за один VIN, сравнение двух авто — $8.99. Разовая покупка в Vin AI, без подписки.
 Основные характеристики бесплатно · Источник: NHTSA (данные США). Покрытие различается.
 Бесплатно: базовая расшифровка VIN.
 Расход топлива
@@ -120,7 +120,7 @@ Antriebsart
 VIN eingeben
 Kostenloser VIN-Decoder | Vin AI
 Kostenloser VIN-Decoder
-VIN-Basisdaten kostenlos. Vollständiger KI-Bericht $3.99 pro VIN oder zwei Autos vergleichen für $5.99. Einmalkauf in Vin AI, ohne Abo.
+VIN-Basisdaten kostenlos. Vollständiger KI-Bericht $4.99 pro VIN oder zwei Autos vergleichen für $8.99. Einmalkauf in Vin AI, ohne Abo.
 Kostenlose Basisdaten · Quelle: NHTSA (US-Daten). Abdeckung variiert.
 Kostenlos: grundlegende VIN-Entschlüsselung.
 Kraftstoffverbrauch
@@ -168,7 +168,7 @@ Introduce 17 letras y números. No se permiten I, O ni Q.
 Introduce un VIN
 Decodificador VIN gratuito | Vin AI
 Decodificador VIN gratuito
-Datos VIN básicos gratis. Informe de IA completo por $3.99 por VIN o compara dos coches por $5.99. Compra única en Vin AI, sin suscripción.
+Datos VIN básicos gratis. Informe de IA completo por $4.99 por VIN o compara dos coches por $8.99. Compra única en Vin AI, sin suscripción.
 Datos básicos gratis · Fuente: NHTSA (datos de EE. UU.). La cobertura varía.
 Gratis: decodificación VIN básica.
 Consumo de combustible
@@ -216,7 +216,7 @@ Saisissez 17 lettres et chiffres. I, O et Q sont interdits.
 Saisissez un VIN
 Décodeur VIN gratuit | Vin AI
 Décodeur VIN gratuit
-Décodage VIN de base gratuit. Rapport IA complet à $3.99 par VIN ou comparaison de deux voitures à $5.99. Achat unique dans Vin AI, sans abonnement.
+Décodage VIN de base gratuit. Rapport IA complet à $4.99 par VIN ou comparaison de deux voitures à $8.99. Achat unique dans Vin AI, sans abonnement.
 Données de base gratuites · Source : NHTSA (données américaines). Couverture variable.
 Gratuit : décodage VIN de base.
 Consommation de carburant
@@ -264,7 +264,7 @@ Inserisci 17 lettere e cifre. I, O e Q non sono consentite.
 Inserisci un VIN
 Decoder VIN gratuito | Vin AI
 Decoder VIN gratuito
-Decodifica VIN di base gratuita. Rapporto IA completo a $3.99 per VIN o confronto di due auto a $5.99. Acquisto unico in Vin AI, senza abbonamento.
+Decodifica VIN di base gratuita. Rapporto IA completo a $4.99 per VIN o confronto di due auto a $8.99. Acquisto unico in Vin AI, senza abbonamento.
 Specifiche di base gratuite · Fonte: NHTSA (dati USA). Copertura variabile.
 Gratis: decodifica VIN di base.
 Consumo di carburante
@@ -312,7 +312,7 @@ Digite 17 letras e números. I, O e Q não são permitidos.
 Digite um VIN
 Decodificador VIN gratuito | Vin AI
 Decodificador VIN gratuito
-Decodificação VIN básica grátis. Relatório completo de IA por $3.99 por VIN ou comparação de dois carros por $5.99. Compra única no Vin AI, sem assinatura.
+Decodificação VIN básica grátis. Relatório completo de IA por $4.99 por VIN ou comparação de dois carros por $8.99. Compra única no Vin AI, sem assinatura.
 Dados básicos grátis · Fonte: NHTSA (dados dos EUA). A cobertura varia.
 Grátis: decodificação VIN básica.
 Consumo de combustível
@@ -360,7 +360,7 @@ Bu VIN için ayrıntılı veriler Vin AI uygulamasında mevcut
 VIN gir
 Ücretsiz VIN Çözücü | Vin AI
 Ücretsiz VIN çözücü
-Temel VIN çözümleme ücretsiz. Bir VIN için tam yapay zekâ raporu $3.99, iki araç karşılaştırma $5.99. Vin AI’da tek seferlik satın alma, abonelik yok.
+Temel VIN çözümleme ücretsiz. Bir VIN için tam yapay zekâ raporu $4.99, iki araç karşılaştırma $8.99. Vin AI’da tek seferlik satın alma, abonelik yok.
 Ücretsiz temel özellikler · Kaynak: NHTSA (ABD verileri). Kapsam değişir.
 Ücretsiz: temel VIN çözümleme.
 Yakıt tüketimi
@@ -408,7 +408,7 @@ VIN 해독 중…
 VIN 입력
 무료 VIN 해독기 | Vin AI
 무료 VIN 해독기
-기본 VIN 해독은 무료입니다. VIN 1개 전체 AI 보고서 $3.99, 두 차량 비교 $5.99. Vin AI 앱에서 일회성 구매, 구독 없음.
+기본 VIN 해독은 무료입니다. VIN 1개 전체 AI 보고서 $4.99, 두 차량 비교 $8.99. Vin AI 앱에서 일회성 구매, 구독 없음.
 무료 기본 제원 · 출처: NHTSA (미국 데이터). 제공 범위는 다릅니다.
 무료: 기본 VIN 해독.
 연비
@@ -456,7 +456,7 @@ AI判断 + 0–100评分
 输入VIN
 免费VIN解码器 | Vin AI
 免费VIN解码器
-基础VIN解码免费。单个VIN完整AI报告$3.99，两车对比$5.99。在Vin AI应用内一次性购买，无需订阅。
+基础VIN解码免费。单个VIN完整AI报告$4.99，两车对比$8.99。在Vin AI应用内一次性购买，无需订阅。
 免费基本参数 · 来源：NHTSA（美国数据）。覆盖范围有所不同。
 免费：基础VIN解码。
 燃油经济性
