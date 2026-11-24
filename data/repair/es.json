@@ -1,0 +1,957 @@
+{
+  "lang": "es",
+  "country": "España",
+  "price_format": "{n} €",
+  "thousands": ".",
+  "ui": {
+    "hub_title": "Cuánto cuesta reparar un coche en 2026: precios justos",
+    "hub_description": "Precios orientativos en España en 2026 para frenos, batería, embrague, parabrisas y más. Rangos con fuentes y consejos para no pagar de más.",
+    "hub_h1": "Precios de reparación de coches",
+    "hub_intro": "Rangos de precio reales en España para las reparaciones más buscadas, con las fuentes y consejos para no pagar de más.",
+    "table_item": "Parte del trabajo",
+    "table_low": "Mínimo",
+    "table_high": "Máximo",
+    "factors_title": "Qué cambia el precio",
+    "tips_title": "Cómo no pagar de más",
+    "cta_title": "¿No sabes si tu presupuesto es justo?",
+    "cta_text": "Haz una foto del problema con Vin AI. Te dice qué es probable que falle y cuánto cuesta una reparación justa. Tu primera comprobación con foto es gratis.",
+    "cta_button": "Consigue Vin AI en Google Play",
+    "faq_title": "Preguntas frecuentes",
+    "sources_label": "Fuentes de precios",
+    "disclaimer": "Estimaciones para {country}, noviembre de 2026. Los precios reales dependen del coche, la región y el taller.",
+    "related_title": "Otros precios de reparación",
+    "footer_link": "Precios de reparación de coches",
+    "home": "Inicio"
+  },
+  "topics": [
+    {
+      "slug": "brake-pad-replacement-cost",
+      "skip": false,
+      "title": "Cambiar pastillas de freno: precio 2026",
+      "description": "Cuánto cuesta cambiar las pastillas de freno en España en 2026: precio por eje con y sin discos, qué lo cambia y cómo no pagar de más.",
+      "h1": "Cambiar pastillas de freno: precio en España",
+      "answer": "En España, cambiar las pastillas de freno de un eje suele costar entre 50 y 150 € con montaje, y entre 120 y 600 € si también se cambian los discos. Un juego para los dos ejes ronda los 100 a 300 € solo en pastillas. El precio final depende del coche y del taller.",
+      "rows": [
+        [
+          "Pastillas (pieza, un eje)",
+          30,
+          100
+        ],
+        [
+          "Pastillas con montaje, un eje",
+          50,
+          150
+        ],
+        [
+          "Pastillas y discos con montaje, un eje",
+          120,
+          600
+        ],
+        [
+          "Total, un eje (con o sin discos)",
+          50,
+          600
+        ]
+      ],
+      "factors": [
+        "Si se cambian solo las pastillas o también los discos",
+        "Eje delantero o trasero",
+        "Tamaño y tipo de coche (utilitario, SUV, premium)",
+        "Freno de estacionamiento eléctrico, que exige diagnosis",
+        "Calidad de las pastillas y tipo de taller (oficial o independiente)"
+      ],
+      "tips": [
+        "Pide presupuesto desglosado en dos o tres talleres",
+        "Pregunta si los discos están dentro de la medida de desgaste antes de cambiarlos",
+        "No retrases el cambio: el disco dañado puede duplicar la factura",
+        "Compara pastillas de marca reconocida frente a las más baratas"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar las pastillas de freno?",
+          "Cambiar solo las pastillas de un eje cuesta entre 50 y 150 € en España, con pieza y montaje. Si hace falta cambiar también los discos, el total por eje sube a entre 120 y 600 €."
+        ],
+        [
+          "¿Cuánto cuesta cambiar pastillas y discos de freno?",
+          "Cambiar pastillas y discos de un eje cuesta entre 120 y 600 € en España, según el modelo y el taller. En un compacto suele quedar en la parte baja del rango."
+        ],
+        [
+          "¿Cada cuánto hay que cambiar las pastillas de freno?",
+          "Depende del uso y del coche, pero la señal habitual es un chirrido al frenar o el aviso del cuadro. Un taller puede medir el desgaste en una revisión rápida; no conviene esperar a que toque el disco."
+        ],
+        [
+          "¿Puedo cambiar las pastillas yo mismo para ahorrar?",
+          "Hay fuentes que sitúan el coste de hacerlo uno mismo entre 10 y 60 €, frente a 70 a 120 € en taller. Es un componente de seguridad, así que solo conviene si tienes experiencia y herramientas."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Total Renting",
+          "url": "https://totalrenting.es/reparacion/mantenimiento/cuanto-cuesta-cambiar-frenos-coche/"
+        },
+        {
+          "name": "Motor16",
+          "url": "https://www.motor16.com/mantenimiento/cambio-pastillas-freno-precio-itv-3/"
+        },
+        {
+          "name": "Motor.es",
+          "url": "https://www.motor.es/noticias/cuanto-cuesta-cambiar-las-pastillas-de-freno-202067565.html"
+        }
+      ]
+    },
+    {
+      "slug": "car-battery-replacement-cost",
+      "skip": false,
+      "title": "Cambiar batería del coche: precio 2026",
+      "description": "Cuánto cuesta cambiar la batería de 12 V del coche en España: precio de la batería, montaje y coches con start-stop (AGM).",
+      "h1": "Cambiar la batería del coche: precio en España",
+      "answer": "Cambiar la batería de 12 V de un coche suele costar entre 75 y 180 € en España, con la batería y el montaje. Los coches con start-stop necesitan una batería AGM o EFB, más cara, y a veces la codificación en el taller. Las cifras publicadas son de 2019 y 2024, así que hoy pueden ser algo más altas.",
+      "rows": [
+        [
+          "Batería estándar (compacto)",
+          70,
+          100
+        ],
+        [
+          "Batería AGM o EFB (start-stop)",
+          130,
+          150
+        ],
+        [
+          "Montaje en taller",
+          0,
+          30
+        ],
+        [
+          "Total, batería instalada",
+          75,
+          180
+        ]
+      ],
+      "factors": [
+        "Tamaño y capacidad de la batería (Ah)",
+        "Coche con start-stop (AGM o EFB)",
+        "Si hay que registrar o codificar la batería nueva con diagnosis",
+        "Marca de la batería y garantía",
+        "Si el montaje está incluido o se cobra aparte"
+      ],
+      "tips": [
+        "Compra en una red de talleres con ofertas y garantía de dos o tres años",
+        "Pregunta si el montaje va incluido",
+        "Pide que midan la batería antes de cambiarla; a veces solo falla la carga",
+        "Elige la batería que indica el fabricante para tu coche, sobre todo con start-stop"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar la batería del coche?",
+          "En España, una batería de 12 V instalada suele costar entre 75 y 180 €. La parte baja corresponde a un compacto sin start-stop y la alta a una batería AGM con montaje."
+        ],
+        [
+          "¿Cuánto cuesta una batería start-stop?",
+          "Una batería AGM para coches con start-stop ronda los 130 a 150 € solo la pieza, según un artículo de 2024. Con montaje y, si hace falta, codificación, el total puede acercarse a los 180 €."
+        ],
+        [
+          "¿Cuánto cobran por montar una batería?",
+          "El montaje cuesta entre 0 y 30 € en España. Algunos talleres no lo cobran si compras la batería allí."
+        ],
+        [
+          "¿Cuánto dura la batería de un coche?",
+          "Depende del uso y del clima, y la garantía suele ser de dos a tres años según la red de talleres. Si el coche arranca con dificultad, un taller puede medir la batería gratis o por poco dinero."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Highmotor",
+          "url": "https://www.highmotor.com/cambiar-bateria-coche-precio.html"
+        },
+        {
+          "name": "Uppers",
+          "url": "https://uppers.es/motor-y-movilidad/motor/20240412/cuesta-cambiar-bateria-coche-start-stop-be5m_18_011715711.html"
+        },
+        {
+          "name": "Autofácil",
+          "url": "https://www.autofacil.es/cambiar-bateria-coche/"
+        }
+      ]
+    },
+    {
+      "slug": "clutch-replacement-cost",
+      "skip": false,
+      "title": "Cambiar embrague: precio 2026",
+      "description": "Cuánto cuesta cambiar el embrague en España en 2026: precio con y sin volante bimasa, mano de obra y qué incluye el presupuesto.",
+      "h1": "Cambiar el embrague: precio en España",
+      "answer": "Cambiar el embrague de un turismo suele costar entre 500 y 1.200 € en España, con piezas y mano de obra. Si el coche lleva volante bimasa, el total sube a unos 1.200 a 2.000 €. En coches pequeños hay presupuestos más bajos y en premium pueden ser más altos.",
+      "rows": [
+        [
+          "Kit de embrague (pieza)",
+          200,
+          900
+        ],
+        [
+          "Mano de obra",
+          300,
+          600
+        ],
+        [
+          "Total, embrague convencional",
+          500,
+          1200
+        ],
+        [
+          "Total, con volante bimasa",
+          1200,
+          2000
+        ]
+      ],
+      "factors": [
+        "Si el coche lleva volante bimasa",
+        "Tamaño del coche y tipo de caja",
+        "Horas de mano de obra y tarifa del taller",
+        "Calidad del kit (original o equivalente)",
+        "Provincia y tipo de taller (oficial o independiente)"
+      ],
+      "tips": [
+        "Pide presupuesto que diga si incluye volante bimasa y el cojinete",
+        "Compara al menos tres talleres, porque los precios varían mucho",
+        "Pregunta por kits de calidad equivalente a la original",
+        "Cambia el kit completo en la misma intervención para no pagar la mano de obra dos veces"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar el embrague?",
+          "En España, cambiar el embrague cuesta entre 500 y 1.200 € en un turismo habitual, con piezas y mano de obra. Con volante bimasa el total ronda los 1.200 a 2.000 €."
+        ],
+        [
+          "¿Cuánto cuesta cambiar el volante bimasa?",
+          "Si el coche lleva volante bimasa, el cambio completo de embrague sube a unos 1.200 a 2.000 € en España. Es la diferencia principal entre presupuestos."
+        ],
+        [
+          "¿Cuánto cuesta la mano de obra de un embrague?",
+          "La mano de obra suele estar entre 300 y 600 € según el coche. El taller tiene que desmontar la caja de cambios, por eso las horas pesan en el total."
+        ],
+        [
+          "¿Cómo sé que el embrague está gastado?",
+          "Los síntomas habituales son que patina al acelerar, el pedal queda blando o duro, o cuesta meter las marchas. Un taller puede confirmarlo antes de presupuestar."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Total Renting",
+          "url": "https://totalrenting.es/informacion/precio-cambiar-embrague/"
+        },
+        {
+          "name": "Zurich",
+          "url": "https://www.zurich.es/blog/embrague-de-coche-gastado-sintomas"
+        },
+        {
+          "name": "Autofácil",
+          "url": "https://www.autofacil.es/cuesta-cambiar-embrague-coche/"
+        }
+      ],
+      "total": [
+        "Total, cambio de embrague",
+        500,
+        2000
+      ]
+    },
+    {
+      "slug": "shock-absorber-replacement-cost",
+      "skip": false,
+      "title": "Cambiar amortiguadores: precio 2026",
+      "description": "Cuánto cuesta cambiar los amortiguadores en España: precio por eje, media de talleres, diferencias por ciudad y cómo ahorrar.",
+      "h1": "Cambiar amortiguadores: precio en España",
+      "answer": "En España, cambiar los amortiguadores de un eje suele costar entre 225 y 400 €, con piezas y montaje. Un estudio de Tallerator cifra la media en unos 316 € el eje delantero y 261 € el trasero. Conviene cambiarlos siempre por pares en el mismo eje.",
+      "rows": [
+        [
+          "Eje delantero (media Tallerator)",
+          316,
+          316
+        ],
+        [
+          "Eje trasero (media Tallerator)",
+          261,
+          261
+        ],
+        [
+          "Otras referencias, un eje",
+          225,
+          400
+        ],
+        [
+          "Total, un eje con montaje",
+          225,
+          400
+        ]
+      ],
+      "factors": [
+        "Eje delantero o trasero",
+        "Tipo de amortiguador (gas, hidráulico, regulable)",
+        "Modelo del coche y si lleva suspensión electrónica",
+        "Ciudad: Madrid y Barcelona suelen salir más caros",
+        "Si se cambian también copelas y topes"
+      ],
+      "tips": [
+        "Pide presupuesto por eje con las piezas especificadas",
+        "Cambia siempre los dos del mismo eje",
+        "Compara marcas de calidad equivalente a la original",
+        "Pide que revisen copelas y topes para no volver al taller"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar los amortiguadores?",
+          "En España, cambiar los amortiguadores de un eje cuesta entre 225 y 400 € con montaje, según las fuentes. Los dos ejes pueden acercarse a los 500 a 800 €."
+        ],
+        [
+          "¿Cuánto cuesta cambiar los amortiguadores delanteros?",
+          "La media de Tallerator para el eje delantero es de unos 316 € en España. Madrid ronda los 369 € y varía por ciudad."
+        ],
+        [
+          "¿Cuánto cuesta cambiar los amortiguadores traseros?",
+          "La media de Tallerator para el eje trasero es de unos 261 € en España. Como en el delantero, depende del coche y del taller."
+        ],
+        [
+          "¿Se pueden cambiar solo uno o dos amortiguadores?",
+          "Los expertos recomiendan cambiar siempre los dos del mismo eje para mantener el comportamiento del coche. Por eso el presupuesto se calcula por eje."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Autofácil",
+          "url": "https://www.autofacil.es/cuesta-cambiar-amortiguadores-coche/"
+        },
+        {
+          "name": "Bumper",
+          "url": "https://www.bumper.co/es/blog/cuanto-cuesta-cambiar-amortiguadores"
+        },
+        {
+          "name": "Testcoches",
+          "url": "https://testcoches.es/ayuda/precio-amortiguadores/"
+        }
+      ]
+    },
+    {
+      "slug": "water-pump-replacement-cost",
+      "skip": false,
+      "title": "Cambiar bomba de agua: precio 2026",
+      "description": "Cuánto cuesta cambiar la bomba de agua del coche en España: precio de la pieza, con correa de distribución y mano de obra.",
+      "h1": "Cambiar la bomba de agua: precio en España",
+      "answer": "En España, la bomba de agua cuesta entre 60 y 160 € como pieza. Cuando va con la distribución, cambiar la bomba junto con la correa suele costar entre 300 y 800 € en total, y hasta 1.000 € en algunos coches. La media de un estudio de Tallerator ronda los 481 €.",
+      "rows": [
+        [
+          "Bomba de agua (pieza)",
+          60,
+          160
+        ],
+        [
+          "Kit de distribución con bomba, montaje incluido",
+          300,
+          1000
+        ],
+        [
+          "Total, bomba con correa de distribución",
+          300,
+          1000
+        ]
+      ],
+      "factors": [
+        "Si la bomba va accionada por la correa de distribución",
+        "Marca, modelo y acceso al motor",
+        "Si se cambian también correa, tensores y termostato",
+        "Taller oficial o independiente",
+        "Provincia y tarifa de mano de obra"
+      ],
+      "tips": [
+        "Cambia la bomba junto con la distribución para pagar la mano de obra una sola vez",
+        "Pide presupuesto desglosado que diga si incluye tensores y rodillos",
+        "Compara talleres independientes y oficiales",
+        "No retrases la distribución: una rotura puede costar miles de euros"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar la bomba de agua?",
+          "La pieza cuesta entre 60 y 160 € en España. Con la correa de distribución y el montaje, el total suele estar entre 300 y 800 €."
+        ],
+        [
+          "¿Cuánto cuesta cambiar la bomba de agua y la distribución?",
+          "Un estudio de Tallerator sitúa la media en unos 481 € en España. Otras fuentes dan entre 300 y 700 € y, según el coche, hasta 1.000 €."
+        ],
+        [
+          "¿Hay que cambiar la bomba de agua con la correa de distribución?",
+          "Muchos fabricantes y talleres lo recomiendan si la bomba va por la distribución, porque el desmontaje es el mismo. Así se evita pagar dos veces la mano de obra."
+        ],
+        [
+          "¿Cómo sé que la bomba de agua falla?",
+          "Los síntomas habituales son fuga de refrigerante, sobrecalentamiento o ruido de rodamiento. Si el coche se calienta, conviene parar y revisar antes de seguir conduciendo."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Motor16",
+          "url": "https://www.motor16.com/las-ultimas-noticias/bomba-agua-averia-correa/"
+        },
+        {
+          "name": "Bumper",
+          "url": "https://www.bumper.co/es/blog/coste-bomba-agua-espana"
+        },
+        {
+          "name": "Autohero",
+          "url": "https://www.autohero.com/es/consejos/post-compra/mantenimiento-coche/reparacion/cambiar-correa-de-distribucion/"
+        },
+        {
+          "name": "Motor.es",
+          "url": "https://www.motor.es/noticias/precio-cambio-correa-distribucion-202064518.html"
+        }
+      ]
+    },
+    {
+      "slug": "car-dent-repair-cost",
+      "skip": false,
+      "title": "Quitar un bollo del coche: precio 2026",
+      "description": "Cuánto cuesta quitar un bollo del coche en España: desabollado sin pintura, reparación con pintura y qué cambia el precio.",
+      "h1": "Quitar un bollo del coche: precio en España",
+      "answer": "En España, quitar un bollo pequeño sin pintura (desabollado con varillas) suele costar entre 50 y 200 €. Si hay que rellenar y pintar la pieza, el precio ronda los 150 a 500 €, y un daño grande puede superar los 800 €. No hay una tarifa oficial y las fuentes son de blogs y anuncios.",
+      "rows": [
+        [
+          "Bollo pequeño sin pintura",
+          50,
+          200
+        ],
+        [
+          "Bollo mediano con repintado",
+          150,
+          500
+        ],
+        [
+          "Daño grande o complejo",
+          500,
+          820
+        ],
+        [
+          "Total, según tamaño y pintura",
+          50,
+          820
+        ]
+      ],
+      "factors": [
+        "Tamaño, profundidad y zona del bollo",
+        "Si la pintura está intacta o dañada",
+        "Material de la pieza (acero o aluminio)",
+        "Si hay que desmontar la pieza",
+        "Tipo de taller y zona"
+      ],
+      "tips": [
+        "Pide presupuesto a un especialista en desabollado sin pintura antes que a un taller de chapa",
+        "Si la pintura está intacta, pregunta primero por la reparación sin pintar",
+        "Compara dos o tres talleres con fotos del daño",
+        "Pregunta si la pintura va incluida en el precio"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta quitar un bollo del coche?",
+          "Un bollo pequeño sin pintura dañada suele costar entre 50 y 200 € en España. Con repintado, el precio sube a entre 150 y 500 €."
+        ],
+        [
+          "¿Cuánto cuesta el desabollado sin pintura?",
+          "El desabollado sin pintura está entre unos 50 y 200 € para daños pequeños, según blogs y servicios a domicilio. Solo se puede hacer si la pintura no está rota."
+        ],
+        [
+          "¿Cuánto cuesta pintar una pieza del coche?",
+          "Pintar una pieza en un taller ronda los 100 a 150 € de media según una guía de Autofácil. Si además hay que reparar el bollo, el total sube."
+        ],
+        [
+          "¿Se puede quitar un bollo en casa?",
+          "Hay kits de entre unos 6 y 50 € que funcionan en bollos pequeños sin pintura dañada. Si la pintura está rota o el bollo es grande, conviene un taller."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Total Renting",
+          "url": "https://totalrenting.es/reparacion/como-quitar-bollos-coche/"
+        },
+        {
+          "name": "Academia X-Ray",
+          "url": "https://academiaxray.cl/blog/arreglar-bollo-coche/"
+        },
+        {
+          "name": "Autofácil",
+          "url": "https://www.autofacil.es/servicios-a-domicilio/"
+        }
+      ]
+    },
+    {
+      "slug": "car-scratch-repair-cost",
+      "skip": false,
+      "title": "Reparar un arañazo del coche: precio 2026",
+      "description": "Cuánto cuesta reparar un arañazo del coche en España: pulido, retoque y pintura de pieza. Rangos, factores y consejos.",
+      "h1": "Reparar un arañazo del coche: precio en España",
+      "answer": "En España, reparar un arañazo en un taller suele costar entre 100 y 400 €, según sea superficial (pulido) o llegue a la pintura. Pintar una pieza ronda los 100 a 150 € y un pulido profesional entre 150 y 400 €. No hay tarifas públicas por arañazo y las fuentes son orientativas.",
+      "rows": [
+        [
+          "Pintar una pieza",
+          100,
+          150
+        ],
+        [
+          "Reparar y pintar un arañazo en un paragolpes (mínimo habitual)",
+          150,
+          200
+        ],
+        [
+          "Pulido profesional",
+          150,
+          400
+        ],
+        [
+          "Total, un arañazo",
+          100,
+          400
+        ]
+      ],
+      "factors": [
+        "Profundidad: superficial, hasta la imprimación o hasta el metal",
+        "Zona y tamaño del arañazo",
+        "Color de la pintura (metalizado o nacarado)",
+        "Si hay que pintar la pieza entera",
+        "Tipo de taller y ciudad"
+      ],
+      "tips": [
+        "Prueba primero un pulido si el arañazo no se nota con la uña",
+        "Pide presupuesto a dos o tres talleres de chapa y pintura",
+        "Pregunta si pintan solo la zona dañada o la pieza completa",
+        "Para rayas superficiales, los kits caseros cuestan entre 3 y 15 €"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta reparar un arañazo del coche?",
+          "Entre 100 y 400 € en un taller de España, según la profundidad. Un retoque pequeño puede costar menos y una pieza repintada, más."
+        ],
+        [
+          "¿Cuánto cuesta pulir un coche?",
+          "El pulido profesional para arañazos finos y swirls cuesta entre 150 y 400 € según el estado de la pintura. No sirve si el arañazo llega al metal."
+        ],
+        [
+          "¿Cuánto cuesta pintar una pieza del coche?",
+          "Pintar una pieza ronda los 100 a 150 € de media en España según Autofácil. Con reparación previa, el total sube."
+        ],
+        [
+          "¿Se puede reparar un arañazo uno mismo?",
+          "Los arañazos superficiales se pueden disimular con kits de entre 3 y 15 €. Si llega a la imprimación o al metal, conviene un taller."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Motor16",
+          "url": "https://www.motor16.com/las-ultimas-noticias/quitar-swirls-coche-pulir-taller"
+        },
+        {
+          "name": "Autofácil",
+          "url": "https://www.autofacil.es/servicios-a-domicilio/"
+        },
+        {
+          "name": "Total Renting",
+          "url": "https://totalrenting.es/informacion/precio-pintar-coche-espana/"
+        }
+      ]
+    },
+    {
+      "slug": "bumper-repair-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "windshield-replacement-cost",
+      "skip": false,
+      "title": "Cambiar parabrisas: precio 2026",
+      "description": "Cuánto cuesta cambiar el parabrisas en España: precio con calibración ADAS, reparar un impacto y cuándo cubre el seguro de lunas.",
+      "h1": "Cambiar el parabrisas: precio en España",
+      "answer": "En España, cambiar el parabrisas cuesta entre 300 y 1.200 €, según el modelo y los sensores. La calibración ADAS añade de 150 a 300 €, y reparar un impacto con resina cuesta entre 40 y 120 €. Con seguro de lunas, el cambio puede salirte gratis.",
+      "rows": [
+        [
+          "Reparar impacto con resina",
+          40,
+          120
+        ],
+        [
+          "Calibración ADAS",
+          150,
+          300
+        ],
+        [
+          "Sustitución con calibración",
+          300,
+          1200
+        ],
+        [
+          "Total, sustitución",
+          300,
+          1200
+        ]
+      ],
+      "factors": [
+        "Modelo del coche y tipo de luna",
+        "Sensores de lluvia, cámara o calefacción",
+        "Calibración ADAS tras el cambio",
+        "Si el impacto es reparable o hay que sustituir",
+        "Cobertura del seguro de lunas"
+      ],
+      "tips": [
+        "Mira tu póliza: muchos seguros cubren la reparación o el cambio",
+        "Repara el impacto pronto con resina para evitar el cambio",
+        "Pide presupuesto que diga si incluye la calibración",
+        "Compara un especialista en lunas con el taller oficial"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar el parabrisas?",
+          "En España, cambiar un parabrisas cuesta entre 300 y 1.200 € con montaje y calibración. El precio sube con sensores y cámaras."
+        ],
+        [
+          "¿Cuánto cuesta reparar un impacto en el parabrisas?",
+          "Reparar un impacto con resina cuesta entre 40 y 120 € en España. Solo es posible si el daño es pequeño y está lejos del borde."
+        ],
+        [
+          "¿Cuánto cuesta la calibración ADAS?",
+          "La calibración de los sistemas de ayuda a la conducción tras cambiar la luna cuesta entre 150 y 300 € en España. Hay casos que llegan a 500 € según los sensores."
+        ],
+        [
+          "¿Cubre el seguro el parabrisas?",
+          "Muchos seguros incluyen la cobertura de lunas, incluso a terceros ampliado. Un seguro de lunas suelto cuesta entre 20 y 40 € al año según Motor16."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Motor16",
+          "url": "https://www.motor16.com/las-ultimas-noticias/calibracion-adas-cambiar-parabrisas/"
+        },
+        {
+          "name": "Motor16",
+          "url": "https://www.motor16.com/las-ultimas-noticias/seguro-lunas-cuando-compensa-parabrisas/"
+        },
+        {
+          "name": "Carglass",
+          "url": "https://www.carglass.es/blog/?p=2378"
+        }
+      ]
+    },
+    {
+      "slug": "headlight-replacement-cost",
+      "skip": false,
+      "title": "Cambiar un faro del coche: precio 2026",
+      "description": "Cuánto cuesta cambiar un faro del coche en España: halógeno, xenón y LED. Precio de la pieza, bombilla y montaje.",
+      "h1": "Cambiar un faro del coche: precio en España",
+      "answer": "En España, cambiar un faro suele costar entre 100 y 400 € en modelos sencillos con pieza y montaje. Un faro halógeno completo puede salir por 210 a 620 € y uno LED desde unos 610 € hasta más de 1.600 €. Solo cambiar la bombilla cuesta entre 10 y 50 €. Los precios de pieza son de 2019, así que hoy pueden ser más altos.",
+      "rows": [
+        [
+          "Bombilla",
+          10,
+          50
+        ],
+        [
+          "Faro halógeno (pieza)",
+          210,
+          621
+        ],
+        [
+          "Faro LED (pieza)",
+          612,
+          1635
+        ],
+        [
+          "Total, un faro con montaje",
+          100,
+          1635
+        ]
+      ],
+      "factors": [
+        "Tecnología: halógeno, xenón, LED o matricial",
+        "Modelo y marca del coche",
+        "Faro original o equivalente",
+        "Si hay que codificar o calibrar el faro",
+        "Si basta con pulir o reparar el faro"
+      ],
+      "tips": [
+        "Pregunta si basta con cambiar la bombilla o pulir el faro",
+        "Compara faro original con equivalente homologado",
+        "Pide presupuesto con matrícula para la pieza exacta",
+        "Pregunta por desguace solo si el faro está garantizado"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar un faro del coche?",
+          "Entre 100 y 400 € por faro en modelos sencillos, y bastante más en LED. Incluye la pieza y la mano de obra del taller."
+        ],
+        [
+          "¿Cuánto cuesta un faro LED?",
+          "Un faro LED completo cuesta entre unos 610 y 1.635 € solo la pieza según datos de 2019. Hoy puede ser más."
+        ],
+        [
+          "¿Cuánto cuesta cambiar solo la bombilla?",
+          "Una bombilla cuesta entre 10 y 50 € en España. En faros LED o láser normalmente no se puede cambiar solo la fuente de luz."
+        ],
+        [
+          "¿Se pueden reparar los faros opacos?",
+          "Sí, el pulido en taller suele bastar y tarda unos 30 a 35 minutos. Un faro opaco puede ser motivo de ITV desfavorable."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Autofácil",
+          "url": "https://www.autofacil.es/cuesta-cambiar-faro-normal-xenon/"
+        },
+        {
+          "name": "Bumper",
+          "url": "https://www.bumper.co/es/blog/coste-sustitucion-bombillas-faros-delanteros"
+        },
+        {
+          "name": "Sensor Automotriz",
+          "url": "https://sensorautomotriz.com/preguntas-frecuentes/cuanto-cuesta-cambiar-un-faro-del-coche"
+        }
+      ]
+    },
+    {
+      "slug": "toyota-camry-water-pump-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "toyota-corolla-brake-pad-replacement-cost",
+      "skip": true,
+      "title": "Pastillas de freno Toyota Corolla: precio 2026",
+      "description": "Cuánto cuesta cambiar las pastillas de freno de un Toyota Corolla en España: precio de referencia para un compacto, con y sin discos.",
+      "h1": "Pastillas de freno Toyota Corolla: precio",
+      "answer": "Para un compacto como el Toyota Corolla, cambiar las pastillas delanteras cuesta unos 120 a 180 € en España. Con discos delanteros, el total sube a entre 150 y 400 €. No hay una tarifa publicada solo del Corolla, así que son cifras de compactos.",
+      "rows": [
+        [
+          "Pastillas delanteras, compacto",
+          120,
+          180
+        ],
+        [
+          "Pastillas y discos delanteros",
+          150,
+          400
+        ],
+        [
+          "Total, eje delantero",
+          120,
+          400
+        ]
+      ],
+      "factors": [
+        "Generación y versión del Corolla",
+        "Si se cambian solo pastillas o también discos",
+        "Eje delantero o trasero",
+        "Tipo de taller (oficial o independiente)",
+        "Calidad de las pastillas"
+      ],
+      "tips": [
+        "Pide presupuesto con la matrícula a dos o tres talleres",
+        "Pregunta si los discos están aún en medida",
+        "Compara oficial frente a taller independiente",
+        "No esperes al chirrido: el disco se daña y sube la factura"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar las pastillas de un Toyota Corolla?",
+          "Cambiar las pastillas delanteras de un compacto como el Corolla cuesta entre 120 y 180 € en España. Con discos, el total sube a 150 a 400 €."
+        ],
+        [
+          "¿Cuánto cuesta cambiar pastillas y discos de freno en un Corolla?",
+          "Entre 150 y 400 € en el eje delantero para un compacto, según el taller. Los datos son de compactos, no una tarifa específica del Corolla."
+        ],
+        [
+          "¿Cuánto cuesta el cambio en taller oficial Toyota?",
+          "No tenemos tarifas oficiales publicadas. Normalmente el taller oficial cobra más que uno independiente, así que pide presupuesto a ambos."
+        ],
+        [
+          "¿Cada cuánto hay que cambiar las pastillas?",
+          "Depende del uso. El aviso del cuadro o un chirrido al frenar suelen indicar que toca revisarlas."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Motor16",
+          "url": "https://www.motor16.com/mantenimiento/cambio-pastillas-freno-precio-itv-3/"
+        },
+        {
+          "name": "Total Renting",
+          "url": "https://totalrenting.es/reparacion/mantenimiento/cuanto-cuesta-cambiar-frenos-coche/"
+        }
+      ]
+    },
+    {
+      "slug": "honda-civic-clutch-replacement-cost",
+      "skip": true,
+      "title": "Cambiar embrague Honda Civic: precio 2026",
+      "description": "Cuánto cuesta cambiar el embrague de un Honda Civic en España: precio de referencia para un compacto, con y sin volante bimasa.",
+      "h1": "Cambiar el embrague del Honda Civic: precio",
+      "answer": "Para un compacto como el Honda Civic, cambiar el embrague cuesta entre 500 y 1.200 € en España con piezas y mano de obra. Si lleva volante bimasa, el total sube a 1.200 a 2.000 €. No hay una tarifa publicada solo del Civic, así que son cifras generales de turismos.",
+      "rows": [
+        [
+          "Kit de embrague (pieza)",
+          200,
+          900
+        ],
+        [
+          "Mano de obra",
+          300,
+          600
+        ],
+        [
+          "Total, embrague convencional",
+          500,
+          1200
+        ],
+        [
+          "Total, con volante bimasa",
+          1200,
+          2000
+        ]
+      ],
+      "factors": [
+        "Generación y motor del Civic",
+        "Si el volante es bimasa",
+        "Horas de mano de obra del taller",
+        "Calidad del kit",
+        "Taller oficial o independiente"
+      ],
+      "tips": [
+        "Pregunta si el presupuesto incluye volante bimasa",
+        "Compara tres talleres con la matrícula",
+        "Pide kit de calidad equivalente a la original",
+        "Cambia el kit completo en una sola intervención"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar el embrague de un Honda Civic?",
+          "Entre 500 y 1.200 € con piezas y mano de obra en España para un compacto. Con volante bimasa sube a unos 1.200 a 2.000 €."
+        ],
+        [
+          "¿Lleva el Civic volante bimasa?",
+          "Depende de la versión y el motor. Pregunta al taller con la matrícula antes de aceptar el presupuesto."
+        ],
+        [
+          "¿Cuánto tarda el cambio de embrague?",
+          "Es un trabajo de varias horas porque hay que desmontar la caja de cambios. Pregunta al taller por el plazo."
+        ],
+        [
+          "¿Cuáles son los síntomas de un embrague gastado?",
+          "El coche patina al acelerar, el pedal cambia o cuesta meter las marchas. Un taller puede confirmarlo."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Total Renting",
+          "url": "https://totalrenting.es/informacion/precio-cambiar-embrague/"
+        },
+        {
+          "name": "Zurich",
+          "url": "https://www.zurich.es/blog/embrague-de-coche-gastado-sintomas"
+        },
+        {
+          "name": "Autofácil",
+          "url": "https://www.autofacil.es/cuesta-cambiar-embrague-coche/"
+        }
+      ]
+    },
+    {
+      "slug": "hyundai-elantra-battery-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "volkswagen-golf-timing-belt-replacement-cost",
+      "skip": true,
+      "title": "Correa de distribución VW Golf: precio 2026",
+      "description": "Cuánto cuesta cambiar la correa de distribución de un Volkswagen Golf en España: kit, bomba de agua y mano de obra.",
+      "h1": "Correa de distribución VW Golf: precio",
+      "answer": "En España, cambiar el kit de distribución de un Volkswagen Golf suele costar entre 300 y 600 € con montaje, y entre 300 y 800 € si incluye la bomba de agua. Un estudio de Autofácil de 2018 daba 340 € para el kit del Golf, hoy probablemente más alto. El motor concreto cambia el precio.",
+      "rows": [
+        [
+          "Kit de distribución con montaje",
+          300,
+          600
+        ],
+        [
+          "Kit con bomba de agua",
+          300,
+          800
+        ],
+        [
+          "Total, kit con bomba",
+          300,
+          800
+        ]
+      ],
+      "factors": [
+        "Motor (gasolina o diésel) y generación del Golf",
+        "Si se cambia también la bomba de agua",
+        "Si hay correas auxiliares",
+        "Taller oficial o independiente",
+        "Provincia y tarifa de mano de obra"
+      ],
+      "tips": [
+        "Cambia el kit completo con la bomba para pagar la mano de obra una vez",
+        "Pide presupuesto desglosado",
+        "Consulta el manual para el intervalo de tu motor",
+        "Compara oficial frente a independiente"
+      ],
+      "faq": [
+        [
+          "¿Cuánto cuesta cambiar la correa de distribución de un VW Golf?",
+          "Entre 300 y 600 € con montaje en España, y hasta 800 € si incluye la bomba de agua. Depende del motor y del taller."
+        ],
+        [
+          "¿Cada cuántos kilómetros se cambia la correa del Golf?",
+          "Depende del motor. Algunas fuentes citan 90.000 km para el Golf 5 y hasta 210.000 km en otros. Consulta el manual de tu coche."
+        ],
+        [
+          "¿Hay que cambiar la bomba de agua con la correa?",
+          "Las fuentes recomiendan cambiar el kit completo, incluida la bomba, para evitar un segundo desmontaje."
+        ],
+        [
+          "¿Cuánto cuesta una rotura de correa?",
+          "Una rotura puede costar varios miles de euros en algunos motores. Por eso el cambio a tiempo suele compensar."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Total Renting",
+          "url": "https://totalrenting.es/piezas/correa-distribucion-volkswagen/"
+        },
+        {
+          "name": "Autofácil",
+          "url": "https://www.autofacil.es/talleres/2018/07/16/cuestan-reparaciones-comunes-coches-vendidos/45298.html"
+        },
+        {
+          "name": "Motor16",
+          "url": "https://www.motor16.com/las-ultimas-noticias/correa-distribucion-cambiar/"
+        }
+      ]
+    }
+  ]
+}

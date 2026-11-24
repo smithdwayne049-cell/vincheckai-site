@@ -1,0 +1,1123 @@
+{
+  "lang": "de",
+  "country": "Deutschland",
+  "price_format": "{n} €",
+  "thousands": ".",
+  "ui": {
+    "hub_title": "Autoreparatur Kosten 2026: Was ein fairer Preis ist",
+    "hub_description": "Was kosten Bremsen, Batterie, Kupplung und mehr in Deutschland 2026? Preisspannen mit Quellen und Tipps, nicht zu viel zu bezahlen.",
+    "hub_h1": "Autoreparatur Kosten",
+    "hub_intro": "Preisspannen für häufige Reparaturen in Deutschland, 2026, aus Preisportalen und Ratgebern. So erkennen Sie, ob ein Angebot fair ist.",
+    "table_item": "Teil der Arbeit",
+    "table_low": "Niedrig",
+    "table_high": "Hoch",
+    "factors_title": "Was den Preis beeinflusst",
+    "tips_title": "So zahlen Sie nicht zu viel",
+    "cta_title": "Unsicher, ob Ihr Angebot fair ist?",
+    "cta_text": "Fotografieren Sie das Problem in Vin AI. Die App zeigt, was wahrscheinlich defekt ist und was eine faire Reparatur kostet. Ihre erste Foto-Prüfung ist kostenlos.",
+    "cta_button": "Vin AI bei Google Play laden",
+    "faq_title": "Häufige Fragen",
+    "sources_label": "Preisquellen",
+    "disclaimer": "Schätzungen für {country}, November 2026. Die tatsächlichen Preise hängen von Fahrzeug, Region und Werkstatt ab.",
+    "related_title": "Weitere Reparaturkosten",
+    "footer_link": "Autoreparatur Kosten",
+    "home": "Startseite"
+  },
+  "topics": [
+    {
+      "slug": "brake-pad-replacement-cost",
+      "skip": false,
+      "title": "Bremsbeläge wechseln: Kosten 2026",
+      "description": "Bremsbeläge wechseln in Deutschland 2026: 70 bis 300 € pro Achse, mit Scheiben 250 bis 500 €. Preise, Einflussfaktoren und Spartipps.",
+      "h1": "Bremsbeläge wechseln: Kosten 2026",
+      "answer": "Der Wechsel der Bremsbeläge kostet in einer deutschen Werkstatt 2026 meist 70 bis 300 € pro Achse inklusive Teile und Arbeit. Müssen auch die Bremsscheiben getauscht werden, liegen die Kosten je Achse bei etwa 250 bis 500 €, bei Premium- und Performance-Modellen deutlich höher.",
+      "rows": [
+        [
+          "Bremsbeläge (nur Teile, pro Achse)",
+          50,
+          150
+        ],
+        [
+          "Beläge und Scheiben, Kompaktklasse (pro Achse)",
+          250,
+          500
+        ],
+        [
+          "Gesamt, nur Beläge pro Achse (Teile und Arbeit)",
+          70,
+          300
+        ]
+      ],
+      "factors": [
+        "Fahrzeugmodell und Fahrzeugklasse",
+        "Qualität der Beläge (Original oder Zubehör)",
+        "Scheiben- oder Trommelbremse an der Hinterachse",
+        "Werkstatttyp: Vertragswerkstatt oder freie Werkstatt",
+        "Ob Bremsscheiben oder Sensoren mitgetauscht werden müssen",
+        "Stundenverrechnungssatz in Ihrer Region"
+      ],
+      "tips": [
+        "Mindestens zwei bis drei Kostenvoranschläge einholen, denn die Arbeitskosten sind oft der größere Posten.",
+        "Nach dem Preis für Beläge und Arbeit getrennt fragen.",
+        "Beläge rechtzeitig wechseln, damit die Scheiben nicht mitgeschädigt werden.",
+        "Eine freie Werkstatt ist meist günstiger als die Vertragswerkstatt.",
+        "Nicht ohne Prüfung zusätzlich neue Scheiben verkaufen lassen, wenn die Scheiben noch die Mindestdicke haben."
+      ],
+      "faq": [
+        [
+          "Was kostet es, Bremsbeläge zu wechseln?",
+          "Bremsbeläge wechseln kostet in Deutschland meist 70 bis 300 € pro Achse inklusive Einbau. Bei Vorderachse und Hinterachse zusammen verdoppelt sich der Betrag ungefähr."
+        ],
+        [
+          "Was kostet der Wechsel von Bremsbelägen und Bremsscheiben?",
+          "Beläge und Scheiben zusammen kosten je Achse etwa 250 bis 500 €, bei der Kompaktklasse eher im unteren Bereich. In der Mittelklasse-Premium sind laut einem Kfz-Betrieb 550 bis 900 € möglich."
+        ],
+        [
+          "Wie lange dauert der Bremsbelagwechsel?",
+          "Pro Achse braucht eine Werkstatt in der Regel etwa ein bis zwei Stunden. Der Gesamtpreis von 70 bis 300 € hängt daher stark vom Stundensatz ab."
+        ],
+        [
+          "Kann ich Bremsbeläge selbst wechseln?",
+          "Technisch ist das möglich, aber die Bremse ist sicherheitsrelevant und muss danach exakt eingestellt werden. Laien sollten den Wechsel besser einer Werkstatt überlassen, die Kosten liegen dort meist bei 70 bis 300 € pro Achse."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "ADAC: Bremsbeläge und Bremsscheiben",
+          "url": "https://www.adac.de/rund-ums-fahrzeug/reparatur-pflege-wartung/wartung-inspektion/bremsbelaege-bremsscheiben/"
+        },
+        {
+          "name": "repareo: Bremsbeläge wechseln Kosten",
+          "url": "https://www.repareo.de/kostencheck/bremsbelaege-wechseln-kosten/"
+        },
+        {
+          "name": "Kfz Dietrich: Bremsen wechseln Kosten 2026",
+          "url": "https://kfz-dietrich.com/blog/bremsen-wechseln-kosten-uebersicht-2026/"
+        }
+      ]
+    },
+    {
+      "slug": "car-battery-replacement-cost",
+      "skip": false,
+      "title": "Autobatterie wechseln: Kosten 2026",
+      "description": "Autobatterie wechseln 2026: meist 100 bis 300 € inklusive Einbau. Batteriepreise, Anlernen, Werkstatt oder selbst tauschen.",
+      "h1": "Autobatterie wechseln: Kosten 2026",
+      "answer": "Eine neue Autobatterie kostet in Deutschland 2026 inklusive Einbau in der Werkstatt meist 100 bis 300 €. Die Batterie selbst liegt bei etwa 80 bis 250 €, Einbau und Anlernen kommen mit 30 bis 50 € oder mehr dazu.",
+      "rows": [
+        [
+          "Gesamt, Batterie mit Einbau",
+          100,
+          300
+        ]
+      ],
+      "factors": [
+        "Batterietyp: Standard, AGM oder EFB für Start-Stopp",
+        "Kapazität und Größe der Batterie",
+        "Ob die Batterie angelernt oder codiert werden muss",
+        "Vertragswerkstatt oder freie Werkstatt",
+        "Zugänglichkeit: Batterie im Kofferraum oder unter dem Sitz",
+        "Altbatterie-Pfand (wird gutgeschrieben)"
+      ],
+      "tips": [
+        "Preise für Batterie und Einbau getrennt vergleichen.",
+        "Bei Werkstätten fragen, ob eine selbst gekaufte Batterie eingebaut wird.",
+        "Batterie vorher testen lassen, oft ist nur ein Ladegerät nötig.",
+        "Auf den richtigen Typ achten, Start-Stopp-Autos brauchen AGM oder EFB.",
+        "Die Altbatterie zurückgeben, damit das Pfand angerechnet wird."
+      ],
+      "faq": [
+        [
+          "Was kostet eine neue Autobatterie mit Einbau?",
+          "In der Werkstatt zahlt man meist 100 bis 300 € für Batterie und Einbau. Manche Ratgeber nennen auch schon 50 € als Untergrenze."
+        ],
+        [
+          "Was kostet das Anlernen der Autobatterie?",
+          "Das reine Anlernen kostet in der Werkstatt in der Regel 30 bis 50 €. Bei einem Komplettservice mit Einbau können 100 € und mehr anfallen."
+        ],
+        [
+          "Wie teuer ist eine Batterie für Start-Stopp?",
+          "Batterien für Autos mit Start-Stopp-Automatik gibt es ab gut 120 €. Mit Einbau liegt der Gesamtpreis meist innerhalb der üblichen 100 bis 300 €."
+        ],
+        [
+          "Kann ich die Autobatterie selbst wechseln?",
+          "Bei vielen Autos geht das, bei manchen muss die neue Batterie aber angelernt werden. Ohne Werkstattkosten zahlt man dann nur die Batterie von etwa 80 bis 250 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "FairGarage: Autobatterie wechseln Kosten",
+          "url": "https://www.fairgarage.com/de-de/autobatterie-wechsel"
+        },
+        {
+          "name": "Meister-Job: Autobatterie wechseln",
+          "url": "https://meister-job.de/was-kosten-autobatterie-wechseln/"
+        },
+        {
+          "name": "Auto Zeitung: Batterie anlernen",
+          "url": "https://www.autozeitung.de/batterie-anlernen-203656.html"
+        }
+      ]
+    },
+    {
+      "slug": "clutch-replacement-cost",
+      "skip": false,
+      "title": "Kupplung wechseln: Kosten 2026",
+      "description": "Kupplung wechseln 2026: meist 600 bis 2.500 € inklusive Teile und Arbeit. Mit Zweimassenschwungrad deutlich teurer.",
+      "h1": "Kupplung wechseln: Kosten 2026",
+      "answer": "Ein Kupplungswechsel kostet in Deutschland 2026 meist 600 bis 2.500 € inklusive Teile und Arbeit. Bei Kleinwagen liegt der Preis eher bei 600 bis 1.000 €, bei einem Zweimassenschwungrad oder in der Vertragswerkstatt wird es deutlich teurer.",
+      "rows": [
+        [
+          "Arbeitskosten (je nach Stundensatz)",
+          240,
+          1440
+        ],
+        [
+          "Zweimassenschwungrad (falls nötig, zusätzlich)",
+          400,
+          1200
+        ],
+        [
+          "Gesamt, Kupplungswechsel",
+          600,
+          2500
+        ]
+      ],
+      "factors": [
+        "Fahrzeugmodell und Getriebeart",
+        "Ob ein Zweimassenschwungrad mitgetauscht wird",
+        "Teilequalität: Original oder Zubehör",
+        "Vertragswerkstatt ist laut Ratgebern 20 bis 40 % teurer als freie Werkstatt",
+        "Stundensatz der Werkstatt (60 bis 120 €)",
+        "Zusatzarbeiten wie Geberzylinder, Nehmerzylinder oder Getriebedichtungen"
+      ],
+      "tips": [
+        "Mehrere Angebote einholen und nach einem Festpreis inklusive Schwungrad fragen.",
+        "Fragen, ob das Schwungrad wirklich getauscht werden muss.",
+        "Eine freie Werkstatt anfragen, sie ist oft deutlich günstiger.",
+        "Nach Markenteilen im Kupplungssatz fragen, nicht nach dem billigsten Satz.",
+        "Schleifende Kupplung früh prüfen lassen, bevor Folgeschäden entstehen."
+      ],
+      "faq": [
+        [
+          "Was kostet ein Kupplungswechsel?",
+          "Ein Kupplungswechsel kostet in Deutschland meist 600 bis 2.500 €. Für einen Mittelklassewagen in einer freien Werkstatt sind etwa 800 bis 1.500 € üblich."
+        ],
+        [
+          "Was kostet der Kupplungswechsel bei einem Kleinwagen?",
+          "Bei Kleinwagen nennt Auto Bild Kosten von 600 bis 1.000 €. Die Angabe ist undatiert, ein aktuelles Angebot bleibt nötig."
+        ],
+        [
+          "Was kostet ein Zweimassenschwungrad zusätzlich?",
+          "Wird das Zweimassenschwungrad mitgetauscht, kommen oft 400 bis 1.200 € hinzu. Der Gesamtpreis steigt damit in den oberen Bereich der Spanne von 600 bis 2.500 €."
+        ],
+        [
+          "Wie lange dauert ein Kupplungswechsel?",
+          "Der Wechsel dauert meist einen Arbeitstag. Die Arbeitskosten liegen je nach Stundensatz bei etwa 240 bis 1.440 €, der Gesamtpreis bei 600 bis 2.500 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "motor.com.de: Kupplung wechseln Kosten",
+          "url": "https://motor.com.de/ratgeber/kupplung-wechseln-kosten"
+        },
+        {
+          "name": "Meister-Job: Kupplung wechseln",
+          "url": "https://meister-job.de/was-kosten-kupplung-wechseln/"
+        },
+        {
+          "name": "mobile.de: Kupplung erneuern",
+          "url": "https://www.mobile.de/magazin/artikel/defekte-kupplung-erneuern-16722"
+        }
+      ]
+    },
+    {
+      "slug": "shock-absorber-replacement-cost",
+      "skip": false,
+      "title": "Stoßdämpfer wechseln: Kosten 2026",
+      "description": "Stoßdämpfer wechseln 2026: etwa 300 bis 600 € pro Achse, beide Achsen 600 bis 1.200 €. Preise und Spartipps.",
+      "h1": "Stoßdämpfer wechseln: Kosten 2026",
+      "answer": "Der Stoßdämpferwechsel kostet in Deutschland 2026 pro Achse meist etwa 300 bis 600 € inklusive Einbau. Dazu kommt die Achsvermessung mit 80 bis 150 €, und für beide Achsen sind grob 600 bis 1.200 € realistisch.",
+      "rows": [
+        [
+          "Material, zwei Stoßdämpfer",
+          100,
+          500
+        ],
+        [
+          "Achsvermessung",
+          80,
+          150
+        ],
+        [
+          "Gesamt, eine Achse (Schätzung aus den Quellen)",
+          300,
+          600
+        ]
+      ],
+      "factors": [
+        "Fahrzeugmodell und Fahrwerkstyp",
+        "Qualität der Stoßdämpfer",
+        "Vorder- oder Hinterachse",
+        "Ob Federn, Domlager oder Staubschutz mitgetauscht werden",
+        "Pflichtige Achsvermessung nach dem Wechsel",
+        "Stundensatz der Werkstatt"
+      ],
+      "tips": [
+        "Immer beide Stoßdämpfer einer Achse zusammen wechseln.",
+        "Mehrere Angebote vergleichen, auch mit Teilen im Komplettsatz.",
+        "Achsvermessung gleich mit anfragen, nicht erst später.",
+        "Zustand der Stoßdämpfer prüfen lassen, bevor eine Komplettlösung verkauft wird.",
+        "Auf bekannte Hersteller achten statt auf den billigsten Satz."
+      ],
+      "faq": [
+        [
+          "Was kostet es, Stoßdämpfer zu wechseln?",
+          "Pro Achse sind in der Werkstatt grob 300 bis 600 € üblich. Für beide Achsen liegt die Schätzung bei etwa 600 bis 1.200 €."
+        ],
+        [
+          "Was kosten Stoßdämpfer vorne?",
+          "Die Autozeitung nennt für die Vorderachse 300 bis 500 €. Je nach Modell kann es mehr werden, die Hinterachse ist oft etwas günstiger."
+        ],
+        [
+          "Muss ich nach dem Stoßdämpferwechsel zur Achsvermessung?",
+          "Ja, nach dem Wechsel wird eine Achsvermessung empfohlen und kostet etwa 80 bis 150 €. Sie ist im reinen Werkstattpreis von 300 bis 600 € pro Achse oft nicht enthalten."
+        ],
+        [
+          "Wann müssen Stoßdämpfer gewechselt werden?",
+          "Typische Zeichen sind ein weiches Fahrverhalten, Ölspuren am Dämpfer und ungleichmäßiger Reifenverschleiß. Eine Werkstatt prüft das bei der Inspektion, ein Wechsel kostet pro Achse etwa 300 bis 600 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Auto Zeitung: Stoßdämpfer Kosten",
+          "url": "https://www.autozeitung.de/defekte-stossdaempfer-wechseln-kosten-205514.html"
+        },
+        {
+          "name": "Meister-Job: Stoßdämpfer wechseln",
+          "url": "https://meister-job.de/?p=88414"
+        },
+        {
+          "name": "FairGarage: Stoßdämpfer wechseln Kosten",
+          "url": "https://www.fairgarage.com/de-de/stossdaempfer-wechseln-kosten"
+        }
+      ]
+    },
+    {
+      "slug": "water-pump-replacement-cost",
+      "skip": false,
+      "title": "Wasserpumpe wechseln: Kosten 2026",
+      "description": "Wasserpumpe wechseln 2026: meist 300 bis 800 € in der Werkstatt. Mit Zahnriemen günstiger kombinierbar. Preise und Tipps.",
+      "h1": "Wasserpumpe wechseln: Kosten 2026",
+      "answer": "Der Wechsel der Wasserpumpe kostet in Deutschland meist 300 bis 800 € inklusive Teil und Arbeitszeit. Die Pumpe selbst kostet 80 bis 400 €, bei Kleinwagen liegen die Gesamtkosten oft eher bei 250 bis 500 €.",
+      "rows": [
+        [
+          "Wasserpumpe (nur Teil)",
+          80,
+          400
+        ],
+        [
+          "Einbau und Kühlmittel",
+          100,
+          400
+        ],
+        [
+          "Gesamt, Wasserpumpe wechseln",
+          300,
+          800
+        ]
+      ],
+      "factors": [
+        "Fahrzeugmodell und Motor",
+        "Pumpentyp: mechanisch, elektrisch oder geregelt",
+        "Ob die Pumpe mit dem Zahnriemen getauscht wird",
+        "Zugänglichkeit im Motorraum und damit die Arbeitszeit",
+        "Kühlmittel, Thermostat und Dichtungen",
+        "Vertragswerkstatt oder freie Werkstatt"
+      ],
+      "tips": [
+        "Wasserpumpe nach Möglichkeit mit dem Zahnriemen wechseln, das spart Arbeitszeit.",
+        "Angebote mit und ohne Zusatzteile vergleichen.",
+        "Nach der Teilemarke fragen, Markenpumpen halten länger.",
+        "Bei Kühlmittelverlust früh in die Werkstatt, bevor der Motor überhitzt.",
+        "Freie Werkstatt anfragen, sie ist oft günstiger."
+      ],
+      "faq": [
+        [
+          "Was kostet es, die Wasserpumpe zu wechseln?",
+          "In der Werkstatt kostet der Wechsel meist 300 bis 800 € inklusive Teil und Einbau. Kleinwagen liegen oft bei 250 bis 500 €."
+        ],
+        [
+          "Was kostet eine Wasserpumpe als Teil?",
+          "Je nach Modell und Pumpentyp liegen die Teilekosten bei 80 bis 400 €. Mechanische Pumpen sind günstiger als elektrische oder geregelte Pumpen."
+        ],
+        [
+          "Sollte ich Wasserpumpe und Zahnriemen zusammen wechseln?",
+          "Viele Quellen raten dazu, weil der Arbeitsaufwand zum großen Teil derselbe ist. Der Gesamtpreis liegt dann höher, aber unter der Summe von zwei getrennten Jobs."
+        ],
+        [
+          "Wie erkenne ich eine defekte Wasserpumpe?",
+          "Typische Anzeichen sind Kühlmittelverlust, Geräusche und überhitzender Motor. Ein Wechsel kostet meist 300 bis 800 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "FairGarage: Wasserpumpe wechseln Kosten",
+          "url": "https://www.fairgarage.com/de-de/wasserpumpe-wechseln-kosten"
+        },
+        {
+          "name": "Bumper: Wasserpumpe prüfen",
+          "url": "https://www.bumper.co/de/blog/wie-sie-ihre-wasserpumpe-auf-fehler-ueberpruefen"
+        },
+        {
+          "name": "Auto Zeitung: Wasserpumpe Ratgeber",
+          "url": "https://www.autozeitung.de/wasserpumpe-im-auto-ratgeber-203838.html"
+        }
+      ]
+    },
+    {
+      "slug": "car-dent-repair-cost",
+      "skip": false,
+      "title": "Delle ausbeulen: Kosten 2026",
+      "description": "Delle ausbeulen ohne Lackieren 2026: kleine Dellen 50 bis 120 €, mittlere bis 200 €. Mit Lackschaden bis 500 €. Preise im Überblick.",
+      "h1": "Delle ausbeulen: Kosten 2026",
+      "answer": "Eine kleine Delle ohne Lackschaden lässt sich in Deutschland 2026 meist für 50 bis 120 € ausbeulen. Mittlere Dellen kosten etwa 80 bis 200 €, größere Dellen mit Lackschaden eher 200 bis 500 €.",
+      "rows": [
+        [
+          "Kleine Delle (2 bis 3 cm), ohne Lackieren",
+          50,
+          120
+        ],
+        [
+          "Mittlere Delle (5 bis 10 cm), ohne Lackieren",
+          80,
+          200
+        ],
+        [
+          "Große Delle mit Lackschaden",
+          200,
+          500
+        ],
+        [
+          "Gesamt, typische Delle je nach Größe",
+          50,
+          500
+        ]
+      ],
+      "factors": [
+        "Größe, Tiefe und Lage der Delle",
+        "Ob der Lack intakt ist",
+        "Blechteil: Tür, Motorhaube, Kante oder Falz",
+        "Methode: Ausbeulen ohne Lackieren oder Spachteln und Lackieren",
+        "Anzahl der Dellen, zum Beispiel bei Hagel",
+        "Region und Werkstatt"
+      ],
+      "tips": [
+        "Vor Ort ein Angebot einholen, die Spanne ist groß.",
+        "Ausbeulen ohne Lackieren ist nur bei intaktem Lack möglich und deutlich günstiger.",
+        "Bei Hagel nach Preis pro Delle und Grundgebühr fragen.",
+        "Mehrere Betriebe vergleichen, auch Smart-Repair-Anbieter.",
+        "Bei Versicherungsschäden die Selbstbeteiligung gegen die Reparaturkosten abwägen."
+      ],
+      "faq": [
+        [
+          "Was kostet es, eine Delle ausbeulen zu lassen?",
+          "Kleine Dellen ohne Lackschaden kosten meist 50 bis 120 €, mittlere 80 bis 200 €. Bei Lackschaden liegt der Preis eher bei 200 bis 500 €."
+        ],
+        [
+          "Was kostet Dellen entfernen ohne Lackieren?",
+          "Ein Anbieter nennt einen Einstiegspreis von rund 103 € je Karosserieteil. Der ADAC nennt für eine Delle mit 25 mm Durchmesser und 3 mm Tiefe 30 bis 100 €."
+        ],
+        [
+          "Was kostet Hagelschaden ausbeulen?",
+          "Bei Hagel wird oft eine Grundgebühr von etwa 52 € plus etwa 23 € je weiterer Delle am selben Teil genannt. Der Preis hängt stark von der Zahl der Dellen ab."
+        ],
+        [
+          "Wann geht Ausbeulen ohne Lackieren nicht?",
+          "Wenn der Lack gerissen oder abgesplittert ist, ist das klassische Ausbeulen meist nicht möglich. Dann kommen Spachteln und Lackieren dazu und der Preis steigt auf etwa 200 bis 500 € oder mehr."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "motor.com.de: Auto Beule ausbeulen",
+          "url": "https://motor.com.de/ratgeber/auto-beule-ausbeulen"
+        },
+        {
+          "name": "Bumper: Preisführer Dellenentfernung",
+          "url": "https://bumper.co/de/blog/preisfuehrer-dellenentfernung-autotueren"
+        },
+        {
+          "name": "ADAC: Smart Repair",
+          "url": "https://www.adac.de/rund-ums-fahrzeug/reparatur-pflege-wartung/reparatur-rueckruf/smart-repair/"
+        }
+      ]
+    },
+    {
+      "slug": "car-scratch-repair-cost",
+      "skip": false,
+      "title": "Kratzer im Lack entfernen: Kosten 2026",
+      "description": "Kratzer im Lack entfernen 2026: Politur 10 bis 30 €, Smart Repair 40 bis 150 €, Teillackierung 300 bis 500 €. Preise im Überblick.",
+      "h1": "Kratzer im Lack entfernen: Kosten 2026",
+      "answer": "Kleine Kratzer lassen sich in Deutschland 2026 selbst für 10 bis 40 € mit Politur oder Lackstift beheben. Ein Profi mit Smart Repair verlangt meist 40 bis 150 €, eine Teillackierung eines Teils etwa 300 bis 500 €.",
+      "rows": [
+        [
+          "Politur oder Lackstift (selbst gemacht)",
+          10,
+          40
+        ],
+        [
+          "Smart Repair, kleiner Kratzer (Profi)",
+          40,
+          150
+        ],
+        [
+          "Teillackierung, zum Beispiel Kotflügel",
+          300,
+          500
+        ],
+        [
+          "Gesamt, je nach Tiefe des Kratzers",
+          40,
+          500
+        ]
+      ],
+      "factors": [
+        "Tiefe des Kratzers: Klarlack, Farbe, Grundierung oder Blech",
+        "Größe der Schadstelle",
+        "Lackfarbe und Effektlack",
+        "Methode: Smart Repair oder Lackieren des ganzen Teils",
+        "Lage am Auto",
+        "Region und Werkstatt"
+      ],
+      "tips": [
+        "Mit dem Fingernagel testen, ob der Kratzer nur im Klarlack liegt, dann reicht oft Politur.",
+        "Für kleine Stellen nach Smart Repair fragen, es ist deutlich günstiger als Lackieren.",
+        "Den Lackcode vor dem Kauf eines Lackstifts prüfen.",
+        "Zwei bis drei Angebote vergleichen.",
+        "Tiefe Kratzer bis aufs Blech schnell behandeln lassen, sonst droht Rost."
+      ],
+      "faq": [
+        [
+          "Was kostet es, einen Kratzer im Lack auszubessern?",
+          "Ein kleiner Kratzer kostet beim Profi meist 40 bis 150 €. Selbst mit Politur oder Lackstift zahlt man etwa 10 bis 40 €."
+        ],
+        [
+          "Was kostet ein Kratzer mit Smart Repair?",
+          "Repareo und mobile.de nennen für kleine Kratzer oder einen einfachen Lackschaden von etwa drei Zentimetern rund 40 bis 80 €. Ein anderer Ratgeber nennt 50 bis 150 € für Smart Repair beim Profi."
+        ],
+        [
+          "Was kostet eine Teillackierung?",
+          "Eine Teillackierung eines Teils wie des Kotflügels kostet nach einem Ratgeber etwa 300 bis 500 €. Spot-Reparaturen an größeren Stellen liegen bei 150 bis 300 €."
+        ],
+        [
+          "Wann reicht Politur und wann braucht es den Profi?",
+          "Reicht der Kratzer nur bis in den Klarlack, hilft meist Politur. Geht er bis zur Grundierung oder zum Blech, ist der Profi besser, und die Kosten liegen bei etwa 40 bis 500 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "motor.com.de: Lackschäden ausbessern",
+          "url": "https://motor.com.de/ratgeber/lackschaeden-ausbessern"
+        },
+        {
+          "name": "repareo: Smart Repair Kosten",
+          "url": "https://www.repareo.de/smart-repair-kosten-methoden/"
+        },
+        {
+          "name": "mobile.de: Smart Repair",
+          "url": "https://www.mobile.de/magazin/artikel/smart-repair-kleine-schaeden-ausbessern"
+        }
+      ]
+    },
+    {
+      "slug": "bumper-repair-cost",
+      "skip": false,
+      "title": "Stoßstange reparieren: Kosten 2026",
+      "description": "Stoßstange reparieren und lackieren 2026: Spot Repair 130 bis 150 €, Lackieren 300 bis 600 €, Austausch 1.200 bis 2.000 €.",
+      "h1": "Stoßstange reparieren: Kosten 2026",
+      "answer": "Eine Stoßstange zu reparieren kostet in Deutschland 2026 je nach Schaden etwa 130 bis 2.000 €. Spot Repair liegt bei etwa 130 bis 150 € pro Stelle, Lackieren bei 300 bis 600 €, ein Austausch mit Neuteil und Lackierung oft bei 1.200 bis 2.000 €.",
+      "rows": [
+        [
+          "Spot Repair (pro Stelle)",
+          130,
+          150
+        ],
+        [
+          "Stoßstange lackieren",
+          300,
+          600
+        ],
+        [
+          "Neuteil mit Lackierung (Austausch)",
+          1200,
+          2000
+        ],
+        [
+          "Gesamt, je nach Schadenstyp",
+          130,
+          2000
+        ]
+      ],
+      "factors": [
+        "Art des Schadens: Kratzer, Riss oder Delle",
+        "Ob die Stoßstange ausgebaut werden muss",
+        "Lackfarbe und Effektlack",
+        "Sensoren, Parkhilfe und Halterungen",
+        "Reparieren oder komplett tauschen",
+        "Vertragswerkstatt oder freie Werkstatt"
+      ],
+      "tips": [
+        "Reparatur kostet laut einem Portal 25 bis 50 % eines Austauschs, daher zuerst die Reparatur anfragen.",
+        "Für Kratzer nach Spot Repair fragen.",
+        "Mehrere Angebote einholen und Lackieren separat ausweisen lassen.",
+        "Gebrauchte Stoßstange in Wagenfarbe prüfen lassen.",
+        "Bei Parksensoren auf die Neukalibrierung achten und im Angebot nachfragen."
+      ],
+      "faq": [
+        [
+          "Was kostet es, eine Stoßstange zu reparieren?",
+          "Die Spanne ist groß: Spot Repair kostet etwa 130 bis 150 € pro Stelle, eine komplette Lackierung 300 bis 600 €. Ein Austausch kostet oft 1.200 bis 2.000 €."
+        ],
+        [
+          "Was kostet Stoßstange lackieren?",
+          "Eine Komplettlackierung liegt meist bei 380 bis 560 €, ein Rechner nennt 300 bis 600 €. Mit Demontage und Spachteln kann es bis etwa 720 € gehen."
+        ],
+        [
+          "Was kostet eine neue Stoßstange mit Lackierung?",
+          "Neuteil und Lackierung kosten oft 1.200 bis über 2.000 €. Bei Fahrzeugen mit Sensoren oder Kameras kann es mehr werden."
+        ],
+        [
+          "Reparieren oder tauschen?",
+          "Laut einem Portal liegen die Reparaturkosten bei 25 bis 50 % eines Austauschs. Bei Rissen oder gebrochenen Halterungen kann ein Austausch trotzdem sinnvoll sein, dann liegt der Preis bei 1.200 bis 2.000 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "FairGarage: Stoßstange reparieren",
+          "url": "https://www.fairgarage.com/de-de/stossstange-reparieren"
+        },
+        {
+          "name": "Meister-Job: Stoßstange lackieren",
+          "url": "https://meister-job.de/was-kosten-stossstange-lackieren/"
+        },
+        {
+          "name": "Rechner-Portal: Lackierung Kosten",
+          "url": "https://rechner-portal.de/auto/fahrzeugkosten/lackierung-kosten-rechner"
+        }
+      ]
+    },
+    {
+      "slug": "windshield-replacement-cost",
+      "skip": false,
+      "title": "Frontscheibe wechseln: Kosten 2026",
+      "description": "Frontscheibe wechseln 2026: meist 400 bis 1.000 €, mit Kamera bis 1.250 €. Steinschlag-Reparatur ab 100 €. Preise und Versicherung.",
+      "h1": "Frontscheibe wechseln: Kosten 2026",
+      "answer": "Eine neue Frontscheibe kostet in Deutschland 2026 in der Werkstatt meist 400 bis 1.000 €. Mit Regensensor oder Kamera sind bis etwa 1.250 € möglich, dazu kommt bei Assistenzsystemen die Kalibrierung mit 80 bis 300 €.",
+      "rows": [
+        [
+          "Scheibe (nur Teil)",
+          200,
+          600
+        ],
+        [
+          "Kalibrierung bei Assistenzsystemen",
+          80,
+          300
+        ],
+        [
+          "Gesamt, Frontscheibe wechseln",
+          400,
+          1250
+        ]
+      ],
+      "factors": [
+        "Fahrzeugmodell und Scheibentyp",
+        "Regensensor, Kamera, Head-up-Display oder Heizung",
+        "Kalibrierung der Fahrassistenten",
+        "Originalglas oder Nachbauglas",
+        "Teil- oder Vollkasko mit Glasbruch-Schutz",
+        "Werkstatt: Glasspezialist oder Vertragswerkstatt"
+      ],
+      "tips": [
+        "Bei kleinem Steinschlag sofort reparieren lassen, ab etwa 100 €.",
+        "Bei Kasko die Selbstbeteiligung und die Kooperationen mit Glasspezialisten prüfen.",
+        "Angebot mit FIN einholen, damit Sensoren korrekt berücksichtigt sind.",
+        "Bei der Versicherung nachfragen, ob eine Steinschlag-Reparatur ohne Selbstbeteiligung möglich ist.",
+        "Kalibrierung getrennt im Angebot ausweisen lassen."
+      ],
+      "faq": [
+        [
+          "Was kostet eine neue Frontscheibe?",
+          "In der Werkstatt kostet der Austausch meist 400 bis 1.000 €. Bei Scheiben mit Kamera sind bis etwa 1.250 € möglich."
+        ],
+        [
+          "Was kostet die Kalibrierung nach dem Scheibenwechsel?",
+          "Die Neukalibrierung wird meist als Pauschale abgerechnet und kostet etwa 80 bis 300 €. Sie ist bei Autos mit Kamera nötig."
+        ],
+        [
+          "Was kostet Steinschlag reparieren?",
+          "Die Reparatur eines kleinen Steinschlags kostet ab etwa 100 €. Ist die Scheibe schon gerissen, muss meist getauscht werden, was 400 bis 1.000 € kostet."
+        ],
+        [
+          "Zahlt die Versicherung die Frontscheibe?",
+          "Mit Teil- oder Vollkasko und Glasschutz trägt die Versicherung meist den Großteil. Man zahlt dann nur die Selbstbeteiligung, oft 150 €, bei Glasspezialisten teils nichts."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "bussgeldkatalog.org: Frontscheibe wechseln",
+          "url": "https://www.bussgeldkatalog.org/frontscheibe-wechseln/"
+        },
+        {
+          "name": "AutoScout24: Frontscheibe wechseln",
+          "url": "https://www.autoscout24.de/informieren/ratgeber/autoreparatur/frontscheibe-wechseln/"
+        },
+        {
+          "name": "Meister-Job: Autoscheiben einbauen",
+          "url": "https://meister-job.de/was-kosten-autoscheiben-einbauen/"
+        }
+      ]
+    },
+    {
+      "slug": "headlight-replacement-cost",
+      "skip": false,
+      "title": "Scheinwerfer wechseln: Kosten 2026",
+      "description": "Scheinwerfer wechseln 2026: Halogen 30 bis 50 €, Xenon 100 bis 300 €, LED-Einheit 300 bis 3.000 €. Preise und Einbau.",
+      "h1": "Scheinwerfer wechseln: Kosten 2026",
+      "answer": "Die Kosten für den Scheinwerferwechsel hängen in Deutschland 2026 stark vom Lichtsystem ab. Halogen liegt bei etwa 30 bis 50 €, Xenon bei 100 bis 300 € für das Teil, komplette LED-Scheinwerfer bei 300 bis 3.000 € plus Einbau von 50 bis 400 €.",
+      "rows": [
+        [
+          "Halogen-Lampe (pro Scheinwerfer)",
+          30,
+          50
+        ],
+        [
+          "Xenon (Teil, pro Scheinwerfer)",
+          100,
+          300
+        ],
+        [
+          "LED-Scheinwerfer komplett (Teil)",
+          300,
+          3000
+        ],
+        [
+          "Einbau in der Werkstatt",
+          50,
+          400
+        ],
+        [
+          "Gesamt, je nach Lichtsystem",
+          30,
+          3400
+        ]
+      ],
+      "factors": [
+        "Lichtsystem: Halogen, Xenon oder LED",
+        "Ob nur die Lampe oder der ganze Scheinwerfer getauscht wird",
+        "Adaptive oder Matrix-LED",
+        "Fahrzeugmodell und Hersteller",
+        "Einbauaufwand, zum Beispiel Ausbau der Stoßstange",
+        "Einstellen des Lichts nach dem Wechsel"
+      ],
+      "tips": [
+        "Bei Halogen die Lampe selbst wechseln, das spart Werkstattkosten.",
+        "Bei LED oder Xenon Angebote für die gesamte Einheit vergleichen.",
+        "Prüfen, ob Reparatur oder Politur reicht, bevor ein Neuteil gekauft wird.",
+        "Auf Kfz-Zulassung bei Nachrüst-LEDs achten.",
+        "Nach dem Wechsel Scheinwerfer einstellen lassen."
+      ],
+      "faq": [
+        [
+          "Was kostet es, einen Scheinwerfer zu wechseln?",
+          "Bei Halogen reichen oft 30 bis 50 €. Bei LED-Einheiten sind 300 bis 3.000 € für das Teil möglich, dazu 50 bis 400 € für den Einbau."
+        ],
+        [
+          "Was kostet ein LED-Scheinwerfer?",
+          "Neue LED-Scheinwerfer kosten laut AutoScout24 zwischen 300 und 3.000 €. Beim ADAC werden für Hightech-LED-Scheinwerfer in der Vertragswerkstatt 5.700 € und mehr genannt."
+        ],
+        [
+          "Was kostet ein Xenon-Scheinwerfer?",
+          "Ein Ratgeber nennt 100 bis 300 € pro Scheinwerfer für das Teil. Der Einbau dauert je nach Auto ein bis vier Stunden."
+        ],
+        [
+          "Kann ich die Scheinwerferlampe selbst wechseln?",
+          "Bei Halogen ja, bei Xenon und LED nicht wegen Hochspannung. Eine Halogen-Lampe kostet etwa 30 bis 50 €, ein Werkstattbesuch für den Einbau zusätzlich 50 bis 400 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "AutoScout24: Scheinwerfer wechseln Kosten",
+          "url": "https://www.autoscout24.at/informieren/ratgeber/autoreparatur/scheinwerfer-birne-wechseln/"
+        },
+        {
+          "name": "ADAC: LED-Leuchten",
+          "url": "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/licht-und-beleuchtung/led-leuchten/"
+        },
+        {
+          "name": "eBay Ratgeber: Xenon Scheinwerfer Kosten",
+          "url": "https://www.ebay.de/blog/motors/xenon-scheinwerfer-kosten"
+        }
+      ]
+    },
+    {
+      "slug": "toyota-camry-water-pump-replacement-cost",
+      "skip": true,
+      "title": "Toyota Camry Wasserpumpe wechseln: Kosten 2026",
+      "description": "Toyota Camry Wasserpumpe wechseln: meist 300 bis 800 € in Deutschland. Richtwerte aus Preisportalen, Hinweise zu Zahnriemen und Kosten.",
+      "h1": "Toyota Camry Wasserpumpe wechseln: Kosten 2026",
+      "answer": "Für die Wasserpumpe beim Toyota Camry in Deutschland gibt es keine verlässliche modellspezifische Preisliste. Üblich sind für Wasserpumpenwechsel bei Pkw 300 bis 800 € inklusive Teil und Arbeit, und das Teil selbst kostet laut Händlerlisten teils unter 50 €.",
+      "rows": [
+        [
+          "Wasserpumpe (nur Teil, allgemein)",
+          80,
+          400
+        ],
+        [
+          "Einbau und Kühlmittel",
+          100,
+          400
+        ],
+        [
+          "Gesamt, Richtwert für Pkw",
+          300,
+          800
+        ]
+      ],
+      "factors": [
+        "Motorvariante und Baujahr des Camry",
+        "Ob der Motor einen Zahnriemen oder eine Steuerkette hat",
+        "Hybrid oder Benziner",
+        "Ob Kühlmittel und Thermostat mitgetauscht werden",
+        "Teilequalität: Original oder Zubehör",
+        "Werkstatt und Stundensatz"
+      ],
+      "tips": [
+        "Angebot mit Fahrzeugdaten (Baujahr, Motor) einholen.",
+        "Beim Zahnriemenmodell die Pumpe zusammen mit dem Zahnriemen wechseln.",
+        "Freie Werkstatt und Toyota-Händler vergleichen.",
+        "Nach der Teilemarke fragen.",
+        "Bei Kühlmittelverlust früh reagieren."
+      ],
+      "faq": [
+        [
+          "Was kostet die Wasserpumpe beim Toyota Camry?",
+          "Eine modellgenaue Preisangabe habe ich nicht gefunden. Allgemein liegt der Wechsel bei Pkw in Deutschland bei etwa 300 bis 800 €."
+        ],
+        [
+          "Was kostet die Wasserpumpe als Teil?",
+          "Allgemein sind 80 bis 400 € üblich. Händlerlisten zeigen für ältere Camry-Modelle auch Pumpen für unter 50 €."
+        ],
+        [
+          "Muss beim Camry der Zahnriemen mitgewechselt werden?",
+          "Bei Motoren mit Zahnriemen raten viele Quellen, die Pumpe zusammen zu wechseln. Bei Steuerkette entfällt das, der Pumpenwechsel liegt dann bei etwa 300 bis 800 €."
+        ],
+        [
+          "Warum ist die Preisspanne so groß?",
+          "Motor, Zugänglichkeit und Stundensatz unterscheiden sich stark. Deshalb sollte man ein Angebot für den eigenen Camry einholen, der Richtwert liegt bei 300 bis 800 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "FairGarage: Wasserpumpe wechseln Kosten",
+          "url": "https://www.fairgarage.com/de-de/wasserpumpe-wechseln-kosten"
+        },
+        {
+          "name": "CarWiki: Toyota Camry Wasserpumpe",
+          "url": "https://carwiki.de/toyota-camry-wasserpumpe-wechseln"
+        },
+        {
+          "name": "Bumper: Wasserpumpe prüfen",
+          "url": "https://www.bumper.co/de/blog/wie-sie-ihre-wasserpumpe-auf-fehler-ueberpruefen"
+        }
+      ]
+    },
+    {
+      "slug": "toyota-corolla-brake-pad-replacement-cost",
+      "skip": false,
+      "title": "Toyota Corolla Bremsbeläge wechseln: Kosten 2026",
+      "description": "Toyota Corolla Bremsbeläge wechseln: etwa 120 bis 380 € pro Achse in Deutschland. Richtwerte aus Preisportalen, Hinweise zu Scheiben.",
+      "h1": "Toyota Corolla Bremsbeläge wechseln: Kosten 2026",
+      "answer": "Beim Toyota Corolla kosten neue Bremsbeläge in Deutschland je Achse etwa 120 bis 380 € inklusive Arbeit. Hinten startet der Preis bei etwa 123 €, vorne bei etwa 242 €, und Beispielrechnungen für die Vorderachse liegen bei rund 257 bis 375 €.",
+      "rows": [
+        [
+          "Bremsbeläge hinten (ab-Preis)",
+          123,
+          250
+        ],
+        [
+          "Bremsbeläge vorne (ab-Preis bis Beispiel)",
+          242,
+          375
+        ],
+        [
+          "Gesamt, Beläge pro Achse",
+          120,
+          380
+        ]
+      ],
+      "factors": [
+        "Baureihe und Motorisierung des Corolla",
+        "Vorder- oder Hinterachse",
+        "Ob Scheiben mitgetauscht werden",
+        "Teilequalität: Original oder Zubehör",
+        "Stundensatz der Werkstatt (Beispiel 50 bis 120 €)",
+        "Region und Werkstatttyp"
+      ],
+      "tips": [
+        "Mehrere Angebote mit Corolla-Baujahr einholen.",
+        "Nach dem Arbeitswert getrennt fragen, er liegt meist bei 50 bis 120 € pro Stunde.",
+        "Freie Werkstatt statt Vertragswerkstatt vergleichen.",
+        "Bremsscheiben nur wechseln, wenn sie verschlissen sind.",
+        "Zubehör-Beläge namhafter Hersteller prüfen."
+      ],
+      "faq": [
+        [
+          "Was kosten Bremsbeläge beim Toyota Corolla?",
+          "Pro Achse sind grob 120 bis 380 € üblich. Ein Preisportal nennt hinten ab etwa 123 € und vorne ab etwa 242 € für einen Corolla der E12-Reihe."
+        ],
+        [
+          "Was kostet der Bremsenwechsel vorne beim Corolla?",
+          "Beispielrechnungen für die Vorderachse liegen bei etwa 257 bis 375 € inklusive Arbeit. Je nach Baureihe können es mehr oder weniger sein."
+        ],
+        [
+          "Wie lange dauert der Wechsel?",
+          "Die Arbeitszeit liegt laut Beispielen bei etwa 0,8 bis 1,1 Stunden pro Achse. Mit einem Stundensatz von 80 € ergibt sich der Rahmen von 120 bis 380 € je Achse."
+        ],
+        [
+          "Was kostet es, wenn Scheiben mitgetauscht werden?",
+          "Beläge und Scheiben zusammen können je Achse deutlich mehr kosten. Ein regionales Beispiel für einen Corolla Verso nennt etwa 347 bis 498 € für die Vorderachse."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "FairGarage: Bremsen wechseln Toyota",
+          "url": "https://www.fairgarage.com/de-de/bremsen-wechseln-toyota"
+        },
+        {
+          "name": "repareo: Bremsen wechseln Toyota Corolla",
+          "url": "https://www.repareo.de/bremsen-wechseln-toyota-corolla/"
+        },
+        {
+          "name": "Auto Zeitung: Bremsbeläge Kosten",
+          "url": "https://www.autozeitung.de/bremsbelaege-wechseln-kosten-205027.html"
+        }
+      ]
+    },
+    {
+      "slug": "honda-civic-clutch-replacement-cost",
+      "skip": true,
+      "title": "Honda Civic Kupplung wechseln: Kosten 2026",
+      "description": "Honda Civic Kupplung wechseln: meist 600 bis 2.500 € in Deutschland. Arbeitszeit rund 4,3 Stunden. Richtwerte und Hinweise.",
+      "h1": "Honda Civic Kupplung wechseln: Kosten 2026",
+      "answer": "Für den Kupplungswechsel beim Honda Civic habe ich keine verlässliche modellspezifische Preisliste gefunden. Allgemein kostet ein Kupplungswechsel in Deutschland 600 bis 2.500 €, die Arbeitszeit beim Civic beträgt laut einem Portal etwa 4,3 Stunden.",
+      "rows": [
+        [
+          "Arbeit (4,3 Stunden bei 60 bis 120 € Stundensatz)",
+          258,
+          516
+        ],
+        [
+          "Zweimassenschwungrad (falls nötig, zusätzlich)",
+          400,
+          1200
+        ],
+        [
+          "Gesamt, Richtwert für Pkw",
+          600,
+          2500
+        ]
+      ],
+      "factors": [
+        "Baureihe und Motor (Benziner oder Diesel)",
+        "Ob das Schwungrad mitgetauscht wird",
+        "Teilequalität: Original oder Zubehör",
+        "Zusatzarbeiten an Hydraulik und Nehmerzylinder",
+        "Vertragswerkstatt oder freie Werkstatt",
+        "Stundensatz der Werkstatt"
+      ],
+      "tips": [
+        "Angebot mit Civic-Baujahr und Motor einholen.",
+        "Fragen, ob das Schwungrad im Preis enthalten ist.",
+        "Original- und Zubehör-Kupplungssatz vergleichen.",
+        "Freie Werkstatt anfragen.",
+        "Kupplungssatz als komplettes Set bestellen, nicht nur die Scheibe."
+      ],
+      "faq": [
+        [
+          "Was kostet der Kupplungswechsel beim Honda Civic?",
+          "Eine modellgenaue Preisangabe habe ich nicht gefunden. Allgemein sind 600 bis 2.500 € üblich, abhängig von Motor und Werkstatt."
+        ],
+        [
+          "Wie lange dauert der Kupplungswechsel beim Civic?",
+          "Ein Portal nennt im Regelfall 4,3 Stunden, mit Schwungrad etwa 4,5 Stunden. Der Wechsel ist laut einem Ratgeber meist an einem Arbeitstag erledigt."
+        ],
+        [
+          "Was kostet ein Kupplungssatz für den Civic?",
+          "Ein Beispiel-Kit eines Herstellers wird bei eBay für etwa 135 € geführt. Dazu kommen Arbeit und gegebenenfalls das Schwungrad."
+        ],
+        [
+          "Ist der Wechsel selbst machbar?",
+          "Das setzt Werkstattausrüstung voraus, weil Getriebe und Hydraulik ausgebaut werden. Die Werkstatt kostet allgemein 600 bis 2.500 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "repareo: Kupplung wechseln Honda Civic",
+          "url": "https://www.repareo.de/kupplung-wechseln-honda-civic/"
+        },
+        {
+          "name": "motor.com.de: Kupplung wechseln Kosten",
+          "url": "https://motor.com.de/ratgeber/kupplung-wechseln-kosten"
+        },
+        {
+          "name": "Meister-Job: Kupplung wechseln",
+          "url": "https://meister-job.de/was-kosten-kupplung-wechseln/"
+        }
+      ]
+    },
+    {
+      "slug": "hyundai-elantra-battery-replacement-cost",
+      "skip": true,
+      "title": "Hyundai Elantra Batterie wechseln: Kosten 2026",
+      "description": "Hyundai Elantra Batterie wechseln: meist 100 bis 340 € in Deutschland. Richtwerte für Batterie, Einbau und Anlernen.",
+      "h1": "Hyundai Elantra Batterie wechseln: Kosten 2026",
+      "answer": "Für den Hyundai Elantra habe ich in Deutschland keine modellspezifische Preisliste gefunden. Für Pkw kostet ein Batteriewechsel 2026 meist 100 bis 340 € inklusive Einbau, die Batterie allein 80 bis 250 €.",
+      "rows": [
+        [
+          "Autobatterie (nur Teil)",
+          80,
+          250
+        ],
+        [
+          "Einbau und Anlernen",
+          30,
+          100
+        ],
+        [
+          "Gesamt, Richtwert für Pkw",
+          100,
+          340
+        ]
+      ],
+      "factors": [
+        "Batterietyp und Kapazität des Elantra",
+        "Start-Stopp-System",
+        "Ob die Batterie angelernt werden muss",
+        "Vertragswerkstatt oder freie Werkstatt",
+        "Altbatterie-Pfand",
+        "Zubehör- oder Originalbatterie"
+      ],
+      "tips": [
+        "Batteriepreis und Einbau getrennt vergleichen.",
+        "Bei Start-Stopp auf AGM oder EFB achten.",
+        "Batterie vorher prüfen lassen.",
+        "Altbatterie zurückgeben.",
+        "Eine selbst gekaufte Batterie in einer freien Werkstatt einbauen lassen."
+      ],
+      "faq": [
+        [
+          "Was kostet der Batteriewechsel beim Hyundai Elantra?",
+          "Eine modellgenaue Preisangabe habe ich nicht gefunden. Für Pkw liegt der Preis meist bei 100 bis 340 € inklusive Einbau."
+        ],
+        [
+          "Was kostet die Batterie als Teil?",
+          "Allgemein sind 80 bis 250 € üblich. Ein Preisportal nennt Beispiele für Pkw zwischen 175 und 336 € inklusive Einbau."
+        ],
+        [
+          "Muss die Batterie beim Elantra angelernt werden?",
+          "Das hängt von Baujahr und Ausstattung ab. Anlernen kostet in der Werkstatt etwa 30 bis 50 €."
+        ],
+        [
+          "Wie lange hält die Batterie?",
+          "Im Schnitt hält eine Autobatterie mehrere Jahre. Ein Wechsel kostet meist 100 bis 340 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "FairGarage: Autobatterie wechseln Kosten",
+          "url": "https://www.fairgarage.com/de-de/autobatterie-wechsel"
+        },
+        {
+          "name": "Meister-Job: Autobatterie wechseln",
+          "url": "https://meister-job.de/was-kosten-autobatterie-wechseln/"
+        },
+        {
+          "name": "Auto Zeitung: Batterie anlernen",
+          "url": "https://www.autozeitung.de/batterie-anlernen-203656.html"
+        }
+      ]
+    },
+    {
+      "slug": "volkswagen-golf-timing-belt-replacement-cost",
+      "skip": false,
+      "title": "VW Golf Zahnriemen wechseln: Kosten 2026",
+      "description": "VW Golf Zahnriemen wechseln: etwa 840 bis 2.300 € je nach Modell, mit Wasserpumpe. Preise für Golf 6, 7 und 8.",
+      "h1": "VW Golf Zahnriemen wechseln: Kosten 2026",
+      "answer": "Der Zahnriemenwechsel beim VW Golf kostet in Deutschland je nach Modell etwa 840 bis 2.300 € inklusive Wasserpumpe. Beim Golf VI liegt er bei etwa 840 bis 1.220 €, beim Golf 8 laut einem Portal bei etwa 1.055 bis 2.310 €.",
+      "rows": [
+        [
+          "Golf VI (inkl. Wasserpumpe)",
+          840,
+          1220
+        ],
+        [
+          "Golf VII und Golf 8 (inkl. Wasserpumpe)",
+          947,
+          2310
+        ],
+        [
+          "Gesamt, Zahnriemenwechsel Golf VI bis 8",
+          840,
+          2310
+        ]
+      ],
+      "factors": [
+        "Golf-Baureihe und Motor",
+        "Ob die Wasserpumpe mitgetauscht wird",
+        "Zahnriemen im Ölbad oder trockener Riemen",
+        "Arbeitsaufwand, die Teilekosten schwanken wenig",
+        "Original- oder Zubehörteile",
+        "Werkstatt und Stundensatz"
+      ],
+      "tips": [
+        "Angebote für den eigenen Golf mit Motorcode einholen.",
+        "Wasserpumpe immer mit tauschen lassen, der Mehrpreis ist gering.",
+        "Wechselintervall im Serviceheft prüfen, nicht nach Gefühl wechseln.",
+        "Freie Werkstatt und Vertragswerkstatt vergleichen.",
+        "Nach einem Festpreis für Riemensatz, Pumpe und Kühlmittel fragen."
+      ],
+      "faq": [
+        [
+          "Was kostet der Zahnriemenwechsel beim VW Golf?",
+          "Je nach Modell kostet der Wechsel etwa 840 bis 2.300 € inklusive Wasserpumpe. Ältere Modelle wie der Golf V starten laut Portalen schon bei etwa 530 €."
+        ],
+        [
+          "Was kostet der Zahnriemenwechsel beim Golf 8?",
+          "Ein Portal nennt etwa 1.055 bis 2.310 € je nach Motor. Der Unterschied kommt vor allem aus dem Arbeitsaufwand."
+        ],
+        [
+          "Wann muss der Zahnriemen beim Golf gewechselt werden?",
+          "VW nennt beim Golf 8 ein Intervall von 210.000 km. Reißt der Riemen, entsteht ein Motorschaden, der den Wechsel von etwa 840 bis 2.300 € deutlich übersteigt."
+        ],
+        [
+          "Sollte die Wasserpumpe mitgewechselt werden?",
+          "Ja, laut den Quellen ist der Mehrpreis gering, weil der Arbeitsaufwand fast gleich bleibt. Der Gesamtpreis liegt dann etwa bei 840 bis 2.300 €."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "FairGarage: Zahnriemenwechsel Golf",
+          "url": "https://www.fairgarage.com/de-de/zahnriemenwechsel-golf"
+        },
+        {
+          "name": "repareo: Zahnriemenwechsel VW Golf 8",
+          "url": "https://www.repareo.de/zahnriemenwechsel-vw-golf-8/"
+        },
+        {
+          "name": "repareo: Zahnriemenwechsel VW Golf 6",
+          "url": "https://www.repareo.de/zahnriemenwechsel-vw-golf-6/"
+        }
+      ]
+    }
+  ]
+}

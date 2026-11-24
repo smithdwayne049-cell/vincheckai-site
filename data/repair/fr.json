@@ -1,0 +1,895 @@
+{
+  "lang": "fr",
+  "country": "France",
+  "price_format": "{n} €",
+  "thousands": " ",
+  "ui": {
+    "hub_title": "Prix des réparations auto 2026 : à quoi ressemble un prix juste",
+    "hub_description": "Fourchettes de prix pour les réparations auto courantes en France, des freins à la batterie en passant par le pare-brise. Pièces, main-d'œuvre, conseils.",
+    "hub_h1": "Prix des réparations auto",
+    "hub_intro": "Fourchettes de prix réelles pour les réparations courantes en France, avec la répartition pièces et main-d'œuvre quand les sources la donnent. Servez-vous-en pour vérifier si un devis est correct.",
+    "table_item": "Poste de la réparation",
+    "table_low": "Bas",
+    "table_high": "Haut",
+    "factors_title": "Ce qui fait varier le prix",
+    "tips_title": "Comment ne pas payer trop cher",
+    "cta_title": "Un doute sur votre devis ?",
+    "cta_text": "Prenez le problème en photo dans Vin AI. L'application indique ce qui est probablement en cause et combien coûte une réparation correcte. Votre première analyse photo est gratuite.",
+    "cta_button": "Télécharger Vin AI sur Google Play",
+    "faq_title": "Questions fréquentes",
+    "sources_label": "Sources des prix",
+    "disclaimer": "Estimations pour {country}, novembre 2026. Les prix réels dépendent du véhicule, de la région et du garage.",
+    "related_title": "Autres réparations",
+    "footer_link": "Prix des réparations auto",
+    "home": "Accueil"
+  },
+  "topics": [
+    {
+      "slug": "brake-pad-replacement-cost",
+      "skip": false,
+      "title": "Changement plaquettes de frein : prix 2026",
+      "description": "Changer les plaquettes de frein en France coûte de 60 à 500 € par essieu selon la voiture et le garage. Pièces, main-d'œuvre et conseils.",
+      "h1": "Changement de plaquettes de frein : prix",
+      "answer": "En France, le changement de plaquettes de frein coûte environ 60 à 500 € par essieu, pièces et main-d'œuvre comprises. Les prix moyens relevés par les plateformes de garages sont autour de 59 € à l'avant et 69 € à l'arrière, alors que d'autres guides annoncent 200 à 500 € à l'avant. Avec les disques, comptez en moyenne autour de 170 € chez idGarages, et davantage selon le modèle.",
+      "rows": [
+        [
+          "Total, plaquettes seules, un essieu",
+          60,
+          500
+        ]
+      ],
+      "factors": [
+        "Le changement ou non des disques en même temps, qui augmente nettement la facture.",
+        "Le modèle de la voiture : une citadine coûte moins qu'un SUV ou une sportive.",
+        "La qualité et la marque des plaquettes.",
+        "Le type d'atelier : centre auto, garage indépendant ou concession.",
+        "Le taux horaire local, souvent plus élevé en Île-de-France.",
+        "Les travaux annexes, comme la purge du liquide de frein."
+      ],
+      "tips": [
+        "Demandez si les disques doivent vraiment être changés ou s'ils peuvent être conservés.",
+        "Comparez un garage indépendant, un centre auto et la concession.",
+        "Exigez un devis détaillé avec pièces et main-d'œuvre séparées.",
+        "Demandez la marque des plaquettes proposées.",
+        "Ne laissez pas les plaquettes s'user jusqu'au métal, car les disques sont alors abîmés."
+      ],
+      "faq": [
+        [
+          "Combien coûte un changement de plaquettes de frein ?",
+          "En France, comptez environ 60 à 500 € par essieu, pièces et main-d'œuvre comprises. Les prix moyens des plateformes de garages se situent plutôt vers le bas de cette fourchette, et les concessions vers le haut."
+        ],
+        [
+          "Combien coûte le changement des plaquettes et des disques ?",
+          "Une plateforme de garages affiche environ 169 € en moyenne pour disques et plaquettes, mais le prix monte vite selon le modèle. Les disques seuls coûtent de 50 à 200 € pièce selon un guide."
+        ],
+        [
+          "Faut-il changer les plaquettes avant et arrière en même temps ?",
+          "Non. Chaque essieu se facture séparément, et l'avant s'use en général plus vite que l'arrière."
+        ],
+        [
+          "Quelle est la différence entre plaquettes avant et arrière ?",
+          "Les moyennes relevées sont proches, environ 59 € à l'avant et 69 € à l'arrière chez idGarages. Un guide annonce toutefois jusqu'à 500 € à l'avant et 400 € à l'arrière selon le véhicule."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "idGarages : prix des freins",
+          "url": "https://www.idgarages.com/fr-fr/prestations/freins"
+        },
+        {
+          "name": "BYmyCAR : prix des disques et plaquettes de frein",
+          "url": "https://www.bymycar.fr/webzine/quel-est-le-prix-des-disques-et-plaquettes-de-frein/"
+        },
+        {
+          "name": "AD : plaquette de frein",
+          "url": "https://www.ad.fr/guides/guide-conseil/freinage/plaquette-de-frein"
+        }
+      ]
+    },
+    {
+      "slug": "car-battery-replacement-cost",
+      "skip": false,
+      "title": "Changement batterie voiture : prix 2026",
+      "description": "Changer la batterie d'une voiture en France coûte de 80 à 300 € posée. Voyez ce qui fait varier le prix et comment ne pas payer trop cher.",
+      "h1": "Changement de batterie de voiture : prix",
+      "answer": "En France, le remplacement d'une batterie 12 V coûte environ 80 à 300 € posée. Une petite citadine reste vers 80 à 120 €, une batterie renforcée de diesel vers 150 à 220 €, et une batterie Start & Stop vers 180 à 300 €. La main-d'œuvre représente en général 30 à 50 € de plus.",
+      "rows": [
+        [
+          "Total, batterie posée",
+          80,
+          300
+        ]
+      ],
+      "factors": [
+        "Le type de batterie : standard, renforcée, AGM ou EFB pour le Start & Stop.",
+        "La motorisation : une batterie de diesel coûte plus qu'une batterie d'essence.",
+        "La capacité et la puissance de démarrage.",
+        "L'accès à la batterie, qui peut demander plus de main-d'œuvre.",
+        "Le lieu de pose : centre auto, garage ou concession.",
+        "La garantie proposée."
+      ],
+      "tips": [
+        "Faites tester la batterie avant de la changer, car une cosse desserrée ou l'alternateur peut donner les mêmes symptômes.",
+        "Comparez la pose en centre auto avec le devis d'un garage.",
+        "Vérifiez la durée de la garantie.",
+        "Demandez un devis qui sépare la batterie et la pose.",
+        "Ne payez pas une batterie AGM si votre voiture n'en demande pas."
+      ],
+      "faq": [
+        [
+          "Combien coûte une batterie de voiture posée ?",
+          "En France, comptez environ 80 à 300 € pose comprise. Le prix dépend du type de batterie et de la voiture."
+        ],
+        [
+          "Combien coûte une batterie Start & Stop ?",
+          "Une plateforme de garages annonce environ 180 à 300 € pour une batterie Start & Stop, et un réseau indique une pose à partir de 79 € main-d'œuvre comprise pour les batteries AGM et EFB."
+        ],
+        [
+          "Combien coûte la batterie seule ?",
+          "Une batterie coûte entre 60 et 250 € selon un guide de réseau de garages. Les batteries plus puissantes et celles des diesels sont plus chères."
+        ],
+        [
+          "Et la batterie d'une voiture électrique ?",
+          "Il s'agit d'une autre réparation, la batterie de traction, qui coûte plusieurs milliers d'euros. Cette page ne parle que de la batterie 12 V."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "idGarages : changer sa batterie, combien ça coûte",
+          "url": "https://www.idgarages.com/fr-fr/prestations/batterie/changer-sa-batterie-de-voiture-combien-ca-coute"
+        },
+        {
+          "name": "AD : prix d'une batterie de voiture",
+          "url": "https://www.ad.fr/guides/guide-conseil/batterie-alternateur-demarreur/quel-est-le-prix-d-une-batterie-de-voiture"
+        }
+      ]
+    },
+    {
+      "slug": "clutch-replacement-cost",
+      "skip": false,
+      "title": "Changement embrayage : prix 2026 en France",
+      "description": "Changer l'embrayage en France coûte de 375 à 2 100 € pose comprise, 449 € en moyenne chez idGarages. Détail des coûts et conseils.",
+      "h1": "Changement d'embrayage : prix",
+      "answer": "En France, le changement d'un kit d'embrayage coûte environ 375 à 2 100 € selon le véhicule, pièces et main-d'œuvre comprises. Le prix moyen relevé par idGarages est de 449 €, et l'opération prend 3 à 6 heures. Un volant moteur bi-masse ajoute environ 300 à 600 € pour la pièce.",
+      "rows": [
+        [
+          "Volant moteur bi-masse (supplément éventuel)",
+          300,
+          600
+        ],
+        [
+          "Total, kit d'embrayage posé",
+          375,
+          2113
+        ]
+      ],
+      "factors": [
+        "Le modèle et la motorisation : les voitures puissantes et les diesels coûtent plus.",
+        "Le volant moteur bi-masse, cher et souvent à changer avec le kit.",
+        "Les 3 à 6 heures de main-d'œuvre pour déposer la boîte de vitesses.",
+        "La marque du kit : origine ou équivalent.",
+        "Le type d'atelier et le taux horaire de la région.",
+        "La butée d'embrayage et la vidange de boîte, selon ce qui est inclus."
+      ],
+      "tips": [
+        "Faites confirmer l'usure de l'embrayage : un défaut de commande ou de câble coûte beaucoup moins.",
+        "Demandez si le volant moteur doit être changé et à quel prix.",
+        "Demandez un devis détaillé avec pièces et main-d'œuvre séparées.",
+        "Comparez au moins deux garages avant de décider.",
+        "Demandez la marque exacte du kit proposé."
+      ],
+      "faq": [
+        [
+          "Combien coûte le changement d'un embrayage ?",
+          "En France, le prix va d'environ 375 à 2 100 € selon le véhicule. Le prix moyen constaté chez idGarages est de 449 €."
+        ],
+        [
+          "Combien de temps dure le remplacement ?",
+          "L'opération prend en général 3 à 6 heures, car il faut déposer la boîte de vitesses."
+        ],
+        [
+          "Le volant moteur bi-masse se change-t-il avec l'embrayage ?",
+          "C'est souvent conseillé. Selon idGarages, il faut compter 300 à 600 € de plus pour la pièce, soit un total d'environ 750 à 1 400 €."
+        ],
+        [
+          "Pourquoi l'embrayage coûte-t-il cher ?",
+          "La main-d'œuvre pèse lourd, car la boîte de vitesses doit être démontée pour accéder au kit."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "idGarages : prix du changement d'embrayage",
+          "url": "https://www.idgarages.com/fr-fr/prestations/embrayage"
+        },
+        {
+          "name": "Mecazen : remplacement d'un kit d'embrayage",
+          "url": "https://mecazen.fr/reparation-mecanique/remplacement-d-embrayage"
+        }
+      ]
+    },
+    {
+      "slug": "shock-absorber-replacement-cost",
+      "skip": false,
+      "title": "Changement amortisseurs : prix 2026 en France",
+      "description": "Changer les amortisseurs en France coûte de 200 à 400 € le train avant et environ 430 à 735 € pour les quatre. Détail et conseils.",
+      "h1": "Changement d'amortisseurs : prix",
+      "answer": "En France, remplacer les quatre amortisseurs coûte environ 430 à 735 €, pièces et main-d'œuvre comprises. Un train avant revient en général à 200 à 400 €, et une plateforme de garages indique 289 € en moyenne pour l'avant et 145 € pour l'arrière. Les amortisseurs pilotés coûtent nettement plus cher.",
+      "rows": [
+        [
+          "Amortisseur hydraulique (pièce, l'unité)",
+          50,
+          150
+        ],
+        [
+          "Train avant, posé (la paire)",
+          200,
+          400
+        ],
+        [
+          "Total, quatre amortisseurs posés",
+          430,
+          735
+        ]
+      ],
+      "factors": [
+        "Un seul essieu ou les deux.",
+        "Le modèle de voiture : un SUV ou une berline coûte plus qu'une citadine.",
+        "Amortisseurs classiques ou pilotés, ces derniers à 200 à 300 € pièce ou davantage.",
+        "Les coupelles, remplacées avec l'amortisseur quand la voiture en a.",
+        "Le contrôle de géométrie après l'intervention, facturé en plus.",
+        "Le type de garage et le taux horaire local."
+      ],
+      "tips": [
+        "Changez les amortisseurs par paire sur un même essieu.",
+        "Demandez si les coupelles et butées sont incluses dans le devis.",
+        "Demandez un devis détaillé avec pièces et main-d'œuvre séparées.",
+        "Comparez au moins deux garages avant de décider.",
+        "Demandez si un contrôle de géométrie est prévu et son prix."
+      ],
+      "faq": [
+        [
+          "Combien coûte le changement des amortisseurs ?",
+          "En France, les quatre amortisseurs coûtent environ 430 à 735 € posés selon la voiture. Le train avant seul revient à 200 à 400 € le plus souvent."
+        ],
+        [
+          "Combien coûte la paire d'amortisseurs avant ?",
+          "Une plateforme de garages annonce 289 € en moyenne pour la paire avant, et une fourchette courante de 200 à 400 € pour un train avant."
+        ],
+        [
+          "Peut-on changer un seul amortisseur ?",
+          "Mieux vaut changer la paire, car un amortisseur neuf avec un ancien donne un comportement inégal. Les devis sont d'ailleurs établis par paire."
+        ],
+        [
+          "Faut-il refaire la géométrie après le changement ?",
+          "C'est souvent conseillé. Une plateforme de garages affiche environ 49 € en moyenne pour un contrôle de parallélisme."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "idGarages : prix des amortisseurs",
+          "url": "https://www.idgarages.com/fr-fr/prestations/amortisseurs"
+        },
+        {
+          "name": "L'Automobiliste : budget amortisseurs (octobre 2026)",
+          "url": "https://lautomobiliste.fr/13/10/2026/amortisseurs-de-voiture-budget-garagiste/"
+        }
+      ]
+    },
+    {
+      "slug": "water-pump-replacement-cost",
+      "skip": false,
+      "title": "Changement pompe à eau : prix 2026 en France",
+      "description": "Changer la pompe à eau en France coûte de 240 à 700 €, jusqu'à 1 200 € avec la distribution. Détail pièces et main-d'œuvre.",
+      "h1": "Changement de pompe à eau : prix",
+      "answer": "En France, le remplacement d'une pompe à eau coûte environ 240 à 700 €, pièces et main-d'œuvre comprises. La pièce seule revient à 40 à 120 € et la main-d'œuvre dépend de l'accès à la pompe. Si la courroie de distribution est changée en même temps, le total monte à environ 600 à 1 200 €.",
+      "rows": [
+        [
+          "Pompe à eau (pièce)",
+          40,
+          120
+        ],
+        [
+          "Main-d'œuvre",
+          60,
+          500
+        ],
+        [
+          "Total, pompe seule posée",
+          240,
+          700
+        ]
+      ],
+      "factors": [
+        "L'accès à la pompe, qui peut obliger à démonter beaucoup de pièces.",
+        "Une pompe entraînée par la courroie de distribution ou une pompe électrique.",
+        "La marque et la motorisation du véhicule.",
+        "Le changement simultané de la distribution.",
+        "Le liquide de refroidissement et le thermostat, souvent remplacés en même temps.",
+        "Le type de garage et le taux horaire local."
+      ],
+      "tips": [
+        "Si la pompe est entraînée par la courroie de distribution, changez les deux ensemble pour économiser de la main-d'œuvre.",
+        "Demandez un devis détaillé avec pièces et main-d'œuvre séparées.",
+        "Comparez au moins deux garages avant de décider.",
+        "Demandez la marque de la pompe et la garantie.",
+        "Faites confirmer la fuite ou la surchauffe avant d'accepter le devis."
+      ],
+      "faq": [
+        [
+          "Combien coûte le changement d'une pompe à eau ?",
+          "En France, comptez environ 240 à 700 € pose comprise. La pièce seule coûte 40 à 120 €."
+        ],
+        [
+          "Combien coûte une pompe à eau avec la courroie de distribution ?",
+          "Un site de garages indique un total d'environ 600 à 1 200 € quand la courroie de distribution est changée avec la pompe."
+        ],
+        [
+          "Quels sont les signes d'une pompe à eau défaillante ?",
+          "Une fuite de liquide de refroidissement, une température moteur qui monte ou un bruit de sifflement à l'avant du moteur. Arrêtez-vous si le moteur chauffe."
+        ],
+        [
+          "Pourquoi les prix varient-ils autant ?",
+          "Tout dépend de l'accès à la pompe. Sur certains moteurs, l'opération prend 2 à 4 heures, sur d'autres bien davantage."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "idGarages : prix de la pompe à eau",
+          "url": "https://www.idgarages.com/fr-fr/prestations/courroie-distribution/pompe-a-eau-voiture"
+        },
+        {
+          "name": "Pièces et Pneus : pompe à eau (novembre 2026)",
+          "url": "https://blog.piecesetpneus.com/?p=170945"
+        },
+        {
+          "name": "GoodMecano : remplacement pompe à eau",
+          "url": "http://www.goodmecano.com/blog/prestations/remplacement-pompe-a-eau"
+        }
+      ]
+    },
+    {
+      "slug": "car-dent-repair-cost",
+      "skip": false,
+      "title": "Débosselage voiture : prix 2026 en France",
+      "description": "Réparer une bosse de voiture coûte de 50 à 200 € avec le débosselage sans peinture. Prix par bosse, grêle et conseils pour ne pas payer trop.",
+      "h1": "Débosselage voiture : prix",
+      "answer": "En France, réparer une bosse de voiture coûte environ 50 à 200 € avec le débosselage sans peinture. Une petite bosse revient à 50 à 150 €, et idGarages annonce 80 à 200 € par élément de carrosserie. Les dégâts de grêle sur toute la voiture sont chiffrés à 400 à 800 € dans un guide.",
+      "rows": [
+        [
+          "Petite bosse (débosselage sans peinture)",
+          50,
+          150
+        ],
+        [
+          "Par élément de carrosserie (débosselage sans peinture)",
+          80,
+          200
+        ],
+        [
+          "Total, bosse simple",
+          50,
+          200
+        ]
+      ],
+      "factors": [
+        "La taille, la profondeur et la netteté de la bosse.",
+        "Une peinture fissurée, qui empêche le débosselage sans peinture.",
+        "Le nombre de bosses sur le même élément.",
+        "Un pli ou un bord de panneau, plus difficiles à traiter.",
+        "L'accès à l'intérieur du panneau.",
+        "L'emplacement et le type d'atelier."
+      ],
+      "tips": [
+        "Si la peinture est intacte, demandez d'abord un devis à un spécialiste du débosselage sans peinture.",
+        "Demandez un devis écrit qui précise la méthode : sans peinture ou avec mastic et peinture.",
+        "Comparez au moins deux devis.",
+        "Demandez une remise si vous faites réparer plusieurs bosses en une fois.",
+        "Vérifiez votre franchise avant de déclarer une petite bosse à l'assurance."
+      ],
+      "faq": [
+        [
+          "Combien coûte la réparation d'une bosse sur une voiture ?",
+          "En France, une bosse simple coûte environ 50 à 200 € avec le débosselage sans peinture. Le prix augmente avec la taille et la difficulté d'accès."
+        ],
+        [
+          "Le débosselage sans peinture est-il moins cher ?",
+          "Oui en général, quand la peinture est intacte, car il évite le mastic et la repeinte. idGarages le dit moins cher que le débosselage traditionnel."
+        ],
+        [
+          "Combien coûte la réparation des dégâts de grêle ?",
+          "Un guide chiffre les dégâts de grêle sur un véhicule entier à 400 à 800 € selon la gravité des impacts."
+        ],
+        [
+          "Toutes les bosses peuvent-elles se réparer sans peinture ?",
+          "Non. Une peinture fissurée, un pli très net ou certains bords demandent de la carrosserie traditionnelle et de la peinture."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "idGarages : débosselage sans peinture",
+          "url": "https://www.idgarages.com/fr-fr/prestations/renovation-piece-carrosserie/debosselage-sans-peinture"
+        },
+        {
+          "name": "Luko : débosselage sans peinture (2026)",
+          "url": "https://www.fr.luko.eu/assurance-auto/sinistre/debosselage-sans-peinture/"
+        },
+        {
+          "name": "Fiches-auto : débosselage sans peinture",
+          "url": "https://www.fiches-auto.fr/articles-auto/entretien-et-reparation-carrosserie/s-356-impact-debosselage-sans-peinture-d-une-carrosserie.php"
+        }
+      ]
+    },
+    {
+      "slug": "car-scratch-repair-cost",
+      "skip": false,
+      "title": "Réparation rayure voiture : prix 2026",
+      "description": "Réparer une rayure de voiture coûte de 100 à 400 € chez un carrossier, 10 à 20 € pour une retouche légère. Prix selon la profondeur.",
+      "h1": "Réparation de rayure sur voiture : prix",
+      "answer": "En France, la réparation d'une rayure de voiture chez un professionnel coûte environ 50 à 500 € selon la profondeur et la longueur. Une rayure légère revient à 100 à 150 €, une rayure importante à 150 à 300 €. Une retouche légère à faire soi-même coûte 10 à 20 €.",
+      "rows": [
+        [
+          "Rayure légère, produit de retouche (soi-même)",
+          10,
+          20
+        ],
+        [
+          "Rayure légère chez un professionnel",
+          100,
+          150
+        ],
+        [
+          "Rayure importante chez un carrossier",
+          150,
+          300
+        ],
+        [
+          "Total, réparation professionnelle",
+          50,
+          500
+        ]
+      ],
+      "factors": [
+        "La profondeur : vernis seul, peinture ou tôle.",
+        "La longueur de la rayure et le nombre d'éléments touchés.",
+        "La teinte : un nacré ou un métallisé coûte plus cher.",
+        "La réparation locale ou la peinture complète de l'élément.",
+        "Le type d'atelier : carrossier, réparation rapide ou concession.",
+        "La région et le taux horaire."
+      ],
+      "tips": [
+        "Passez l'ongle sur la rayure : s'il n'accroche pas, un polissage peut suffire.",
+        "Demandez un devis à un spécialiste de la réparation rapide avant un carrossier.",
+        "Demandez un devis détaillé.",
+        "Comparez au moins deux devis.",
+        "Demandez si seule la rayure est réparée ou si tout l'élément est repeint."
+      ],
+      "faq": [
+        [
+          "Combien coûte la réparation d'une rayure sur une voiture ?",
+          "En France, une rayure légère coûte environ 100 à 150 € chez un professionnel et une rayure importante 150 à 300 €. Un guide annonce de 50 à plus de 500 € selon la profondeur."
+        ],
+        [
+          "Peut-on faire disparaître une rayure avec un polish ?",
+          "Si la rayure ne traverse pas le vernis, souvent oui, avec un produit à 10 à 20 €. Une rayure qui atteint la tôle demande un professionnel."
+        ],
+        [
+          "Faut-il réparer une petite rayure ?",
+          "Oui si la tôle est visible, car la rouille peut s'installer. Pour une rayure superficielle, ce n'est pas urgent."
+        ],
+        [
+          "L'assurance couvre-t-elle les rayures ?",
+          "Cela dépend de votre contrat et de la franchise. Pour une petite rayure, la réparation coûte souvent moins que la franchise."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "BYmyCAR : réparer une rayure sur une voiture",
+          "url": "https://www.bymycar.fr/webzine/?p=51906"
+        },
+        {
+          "name": "AD : réparation carrosserie rapide",
+          "url": "https://www.ad.fr/prestation/reparation-carrosserie-rapide"
+        }
+      ]
+    },
+    {
+      "slug": "bumper-repair-cost",
+      "skip": false,
+      "title": "Réparation pare-chocs : prix 2026 en France",
+      "description": "Réparer ou remplacer un pare-chocs en France coûte de 100 à 1 000 €. Prix de la peinture, du remplacement et conseils pour comparer.",
+      "h1": "Réparation de pare-chocs : prix",
+      "answer": "En France, réparer ou remplacer un pare-chocs coûte environ 100 à 1 000 € selon les dégâts. La peinture d'un pare-chocs avant revient à 200 à 500 €, et un remplacement, pièce et pose comprises, à 150 à 350 € en moyenne selon un guide. Les capteurs de stationnement et les modèles haut de gamme font monter la facture.",
+      "rows": [
+        [
+          "Peinture du pare-chocs (préparation, peinture, vernis)",
+          200,
+          500
+        ],
+        [
+          "Remplacement, pièce et pose (moyenne)",
+          150,
+          350
+        ],
+        [
+          "Total, de la réparation au remplacement",
+          100,
+          1000
+        ]
+      ],
+      "factors": [
+        "Réparation ou remplacement, selon l'état de fissure du pare-chocs.",
+        "La teinte et la peinture des éléments voisins.",
+        "Les capteurs de stationnement et les caméras derrière le pare-chocs.",
+        "Le modèle : les pièces vont de moins de 100 € à plus de 1 000 €.",
+        "Une pièce neuve, d'occasion ou adaptable, les pièces d'occasion étant 50 à 70 % moins chères.",
+        "Le type d'atelier et le taux horaire."
+      ],
+      "tips": [
+        "Demandez si le pare-chocs peut être réparé plutôt que remplacé.",
+        "Demandez si des capteurs ou des caméras sont à vérifier et ce que cela ajoute.",
+        "Demandez un devis détaillé avec pièces, peinture et main-d'œuvre séparées.",
+        "Comparez au moins deux carrossiers.",
+        "Comparez une pièce neuve, adaptable et d'occasion."
+      ],
+      "faq": [
+        [
+          "Combien coûte la réparation d'un pare-chocs ?",
+          "En France, comptez environ 100 à 1 000 € selon que le pare-chocs est rayé, fissuré ou à remplacer. Un pare-chocs abîmé est chiffré 200 à 400 € dans un guide de réseau de garages."
+        ],
+        [
+          "Combien coûte la peinture d'un pare-chocs ?",
+          "Environ 200 à 500 € pour un pare-chocs avant, préparation, peinture et vernis compris."
+        ],
+        [
+          "Vaut-il mieux réparer ou remplacer un pare-chocs ?",
+          "La réparation convient aux rayures et aux fissures légères. Le remplacement s'impose quand la structure ou les fixations sont touchées."
+        ],
+        [
+          "Les capteurs de stationnement augmentent-ils le prix ?",
+          "Oui, leur remise en état s'ajoute au devis, mais les sources consultées ne donnent pas de prix précis pour cela."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "GoodMecano : peinture de pare-chocs",
+          "url": "https://www.goodmecano.com/blog/prestations/peinture-pare-chocs"
+        },
+        {
+          "name": "BYmyCAR : prix d'un pare-chocs",
+          "url": "https://www.bymycar.fr/webzine/?p=53847"
+        },
+        {
+          "name": "AD : réparation carrosserie rapide",
+          "url": "https://www.ad.fr/prestation/reparation-carrosserie-rapide"
+        }
+      ]
+    },
+    {
+      "slug": "windshield-replacement-cost",
+      "skip": false,
+      "title": "Changement pare-brise : prix 2026 en France",
+      "description": "Changer un pare-brise en France coûte de 400 à 1 200 € selon le modèle. Voyez ce qui fait le prix et comment économiser.",
+      "h1": "Changement de pare-brise : prix",
+      "answer": "En France, le remplacement d'un pare-brise coûte environ 400 à 1 200 € posé selon le modèle. La vitre seule revient à 350 à 550 € avant main-d'œuvre, et les voitures haut de gamme ou avec caméras dépassent souvent 1 000 €. La réparation d'un simple impact coûte environ 90 € et peut être prise en charge par l'assurance bris de glace.",
+      "rows": [
+        [
+          "Pare-brise (vitre seule, avant main-d'œuvre)",
+          350,
+          550
+        ],
+        [
+          "Total, pare-brise posé",
+          400,
+          1200
+        ]
+      ],
+      "factors": [
+        "Les options : capteur de pluie, vitre teintée ou chauffante.",
+        "Les caméras et aides à la conduite, qui demandent un réglage après la pose.",
+        "La marque, le modèle et l'année de la voiture.",
+        "Une vitre d'origine ou une vitre équivalente.",
+        "Le réseau choisi et la région.",
+        "Votre garantie bris de glace et la franchise."
+      ],
+      "tips": [
+        "Faites réparer l'impact avant qu'il ne s'étende : c'est bien moins cher qu'un remplacement.",
+        "Vérifiez votre contrat : la garantie bris de glace peut couvrir tout ou partie du coût.",
+        "Demandez si le recalibrage des caméras est inclus.",
+        "Comparez au moins deux devis.",
+        "Demandez si la vitre est d'origine ou équivalente."
+      ],
+      "faq": [
+        [
+          "Combien coûte le changement d'un pare-brise ?",
+          "En France, comptez environ 400 à 1 200 € posé selon le modèle. Une plateforme de garages indique 400 à 1 000 € en moyenne, et davantage pour les voitures haut de gamme."
+        ],
+        [
+          "Combien coûte la réparation d'un impact ?",
+          "Environ 90 € en moyenne selon un guide de réseau de garages, et l'assurance peut la prendre en charge entièrement avec une garantie bris de glace."
+        ],
+        [
+          "Le recalibrage des caméras est-il obligatoire ?",
+          "Sur les voitures avec caméra frontale, capteur de pluie ou aides à la conduite, il est nécessaire après le remplacement. Les sources consultées ne donnent pas de prix précis pour cela."
+        ],
+        [
+          "L'assurance rembourse-t-elle le pare-brise ?",
+          "Souvent oui avec une garantie bris de glace, avec ou sans franchise selon le contrat. Vérifiez votre contrat avant de prendre rendez-vous."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "AD : combien coûte un pare-brise",
+          "url": "https://www.ad.fr/guides/guide-conseil/vitrage-pare-brise/combien-coute-un-pare-brise"
+        },
+        {
+          "name": "idGarages : remplacement de pare-brise",
+          "url": "https://www.idgarages.com/fr-fr/prestations/remplacement-pare-brise"
+        }
+      ]
+    },
+    {
+      "slug": "headlight-replacement-cost",
+      "skip": false,
+      "title": "Changement phare voiture : prix 2026 en France",
+      "description": "Changer un phare ou un bloc optique en France coûte de 50 à plus de 1 000 €, selon halogène, xénon ou LED. Prix et conseils.",
+      "h1": "Changement de phare : prix",
+      "answer": "En France, le remplacement d'un bloc optique coûte environ 50 à 150 € pour un phare halogène, pose comprise, et environ 150 à 400 € pour une optique d'origine sur une voiture courante. Les phares xénon ou LED coûtent davantage, parfois plus de 1 000 €.",
+      "rows": [
+        [
+          "Phare halogène, pièce et pose",
+          50,
+          150
+        ],
+        [
+          "Phare xénon ou LED, pièce et pose",
+          200,
+          1000
+        ],
+        [
+          "Total, remplacement d'un bloc optique",
+          50,
+          1000
+        ]
+      ],
+      "factors": [
+        "La technologie : halogène, xénon ou LED.",
+        "Le modèle : les phares LED ou matriciels de haut de gamme coûtent beaucoup plus.",
+        "Le démontage éventuel du pare-chocs pour accéder au phare.",
+        "Une pièce d'origine, adaptable ou d'occasion.",
+        "Le réglage du faisceau et le recalibrage éventuel après la pose.",
+        "Le type d'atelier."
+      ],
+      "tips": [
+        "Vérifiez si seule l'ampoule est défaillante avant d'acheter un bloc optique complet.",
+        "Demandez une pièce adaptable homologuée pour votre voiture.",
+        "Demandez un devis détaillé avec pièce et main-d'œuvre séparées.",
+        "Comparez au moins deux garages.",
+        "Demandez si le réglage du faisceau est inclus."
+      ],
+      "faq": [
+        [
+          "Combien coûte le changement d'un phare ?",
+          "Environ 50 à 150 € pour un halogène et 200 à 400 € pour un xénon selon un guide de réseau, et jusqu'à 600 € pour un LED. Un autre site indique que les phares xénon ou LED peuvent dépasser 1 000 €."
+        ],
+        [
+          "Pourquoi les phares modernes coûtent-ils si cher ?",
+          "Beaucoup sont des blocs LED fermés qui se remplacent entièrement. Certains systèmes haut de gamme intègrent plusieurs fonctions et un recalibrage électronique."
+        ],
+        [
+          "Faut-il régler les phares après le changement ?",
+          "Souvent oui, surtout après le remplacement d'un bloc complet, pour que le faisceau soit bien orienté."
+        ],
+        [
+          "Peut-on polir un phare au lieu de le changer ?",
+          "Si l'optique est seulement jaunie, la rénovation coûte environ 50 à 100 € pour les deux phares selon Mecazen."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "BYmyCAR : changer ses phares de voiture",
+          "url": "https://www.bymycar.fr/webzine/ou-faire-changer-ses-phares-de-voiture-efficacement/"
+        },
+        {
+          "name": "GoodMecano : remplacement phare avant",
+          "url": "https://www.goodmecano.com/blog/prestations/remplacement-phare-avant"
+        },
+        {
+          "name": "Mecazen : changement des phares et optiques",
+          "url": "https://mecazen.fr/reparation-mecanique/changement-des-phares-et-optiques"
+        }
+      ]
+    },
+    {
+      "slug": "toyota-camry-water-pump-replacement-cost",
+      "skip": true
+    },
+    {
+      "slug": "toyota-corolla-brake-pad-replacement-cost",
+      "skip": false,
+      "title": "Toyota Corolla plaquettes de frein : prix 2026",
+      "description": "Changer les plaquettes avant d'une Toyota Corolla coûte environ 40 à 230 € en France, 159 € en moyenne chez idGarages. Prix et conseils.",
+      "h1": "Toyota Corolla : changement de plaquettes de frein, prix",
+      "answer": "En France, le changement des plaquettes avant d'une Toyota Corolla coûte environ 40 à 230 € selon la version et le garage. idGarages relève 159 € en moyenne, avec des prix de 83 à 228 € selon la motorisation, alors que Mecazen affiche 37 à 147 € pour une Corolla Break. Les disques, s'ils sont changés, augmentent la facture.",
+      "rows": [
+        [
+          "Total, plaquettes avant posées",
+          40,
+          230
+        ]
+      ],
+      "factors": [
+        "La version et la motorisation, hybride ou diesel comprises.",
+        "L'essieu : avant ou arrière.",
+        "Le changement ou non des disques.",
+        "La marque des plaquettes.",
+        "Le type de garage : concession ou indépendant.",
+        "Le taux horaire de la région."
+      ],
+      "tips": [
+        "Comparez un garage indépendant et la concession Toyota.",
+        "Demandez un devis détaillé avec pièces et main-d'œuvre séparées.",
+        "Demandez si les disques doivent vraiment être changés.",
+        "Demandez la marque des plaquettes proposées.",
+        "Vérifiez vous-même l'épaisseur des plaquettes avant d'accepter le remplacement."
+      ],
+      "faq": [
+        [
+          "Combien coûte le changement des plaquettes d'une Toyota Corolla ?",
+          "Environ 40 à 230 € pour les plaquettes avant en France, 159 € en moyenne chez idGarages. Le prix dépend de la version et du garage."
+        ],
+        [
+          "Quand changer les plaquettes d'une Corolla ?",
+          "Cela dépend de votre conduite. Un grincement ou un bruit de frottement indique qu'il est temps de les faire contrôler."
+        ],
+        [
+          "Faut-il changer les disques avec les plaquettes ?",
+          "Pas toujours. Les disques ne se changent que s'ils sont trop usés, voilés ou abîmés."
+        ],
+        [
+          "La Corolla hybride coûte-t-elle plus cher à freiner ?",
+          "Chez idGarages, les versions hybrides sont à 144 à 182 €, dans la même zone que les autres versions."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "idGarages : plaquettes avant Toyota Corolla",
+          "url": "https://www.idgarages.com/fr-fr/vehicules/toyota/toyota-corolla-plaquettes-avant"
+        },
+        {
+          "name": "Mecazen : plaquettes avant Toyota Corolla",
+          "url": "https://mecazen.fr/carnet-entretien-auto/toyota/corolla/changement-plaquettes-av"
+        }
+      ]
+    },
+    {
+      "slug": "honda-civic-clutch-replacement-cost",
+      "skip": false,
+      "title": "Honda Civic embrayage : prix du changement 2026",
+      "description": "Changer l'embrayage d'une Honda Civic coûte environ 440 à 1 000 € en France, 772 € en moyenne chez idGarages. Prix et conseils.",
+      "h1": "Honda Civic : changement d'embrayage, prix",
+      "answer": "En France, le changement du kit d'embrayage d'une Honda Civic coûte environ 440 à 1 004 € selon la génération et la motorisation. idGarages relève 772 € en moyenne, et Mecazen indique 440 à 602 € pour la 1.8 i-VTEC 141 ch et jusqu'à 1 004 € pour la Type R. L'opération prend environ 4 h 30 à 5 h 15.",
+      "rows": [
+        [
+          "Total, kit d'embrayage posé",
+          440,
+          1004
+        ]
+      ],
+      "factors": [
+        "La génération et la motorisation de la Civic, y compris la Type R.",
+        "La marque du kit : origine ou équivalent.",
+        "Le changement ou non du volant moteur.",
+        "Le taux horaire du garage.",
+        "La concession ou un garage indépendant.",
+        "La butée d'embrayage et la vidange de boîte incluses ou non."
+      ],
+      "tips": [
+        "Demandez si le volant moteur est rectifié ou remplacé, et à quel prix.",
+        "Demandez un devis détaillé avec pièces et main-d'œuvre séparées.",
+        "Comparez au moins deux garages avant de décider.",
+        "Demandez si la butée d'embrayage est incluse.",
+        "Demandez la marque du kit proposé."
+      ],
+      "faq": [
+        [
+          "Combien coûte le changement d'embrayage d'une Honda Civic ?",
+          "En France, environ 440 à 1 004 € selon la version. La moyenne relevée par idGarages est de 772 €."
+        ],
+        [
+          "Pourquoi la main-d'œuvre pèse-t-elle autant ?",
+          "La boîte de vitesses doit être déposée pour accéder au kit, et Mecazen compte environ 4 h 30 à 5 h 15 pour une Civic."
+        ],
+        [
+          "Le prix varie-t-il selon la région ?",
+          "Oui un peu. Les moyennes régionales d'idGarages vont d'environ 725 à 846 €."
+        ],
+        [
+          "Un diesel coûte-t-il plus cher ?",
+          "Selon Mecazen, la 1.6 i-DTEC est à 768 à 940 € et la 2.2 i-DTEC à 761 à 930 €, dans la même zone que l'essence."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "idGarages : kit d'embrayage Honda Civic",
+          "url": "https://www.idgarages.com/fr-fr/vehicules/honda/honda-civic-kit-d-embrayage"
+        },
+        {
+          "name": "Mecazen : embrayage Honda Civic 9",
+          "url": "https://mecazen.fr/carnet-entretien-auto/honda/civic-9/remplacement-d-embrayage"
+        }
+      ]
+    },
+    {
+      "slug": "hyundai-elantra-battery-replacement-cost",
+      "skip": true
+    },
+    {
+      "slug": "volkswagen-golf-timing-belt-replacement-cost",
+      "skip": false,
+      "title": "VW Golf kit de distribution : prix du changement 2026",
+      "description": "Changer le kit de distribution d'une Volkswagen Golf coûte environ 480 à 870 € en France, pompe à eau comprise. Prix et conseils.",
+      "h1": "Volkswagen Golf : changement du kit de distribution, prix",
+      "answer": "En France, le changement du kit de distribution d'une Volkswagen Golf coûte environ 480 à 870 €, pompe à eau et liquide de refroidissement compris. idGarages relève 479 à 719 € pour les Golf 5 et Golf Plus, et 673 à 867 € pour la Golf 7. Le prix dépend de la motorisation, la 2.0 TDI 4x4 étant la plus chère relevée.",
+      "rows": [
+        [
+          "Golf 5 et Golf Plus, kit complet posé",
+          479,
+          719
+        ],
+        [
+          "Golf 7, kit complet posé",
+          673,
+          867
+        ],
+        [
+          "Total, kit de distribution posé",
+          479,
+          867
+        ]
+      ],
+      "factors": [
+        "La motorisation : essence, TSI ou diesel TDI.",
+        "Le kit complet : courroie, galets, pompe à eau et liquide de refroidissement.",
+        "Les 3 à 4 heures de main-d'œuvre selon le moteur.",
+        "Les galets d'accessoires, parfois à changer en plus.",
+        "La concession ou un garage indépendant.",
+        "La région et le taux horaire."
+      ],
+      "tips": [
+        "Vérifiez dans le carnet d'entretien l'intervalle de remplacement de votre moteur.",
+        "Faites changer la pompe à eau avec la courroie, car la main-d'œuvre est la même.",
+        "Demandez un devis détaillé avec pièces et main-d'œuvre séparées.",
+        "Comparez au moins deux garages avant de décider.",
+        "Demandez si les galets d'accessoires sont inclus."
+      ],
+      "faq": [
+        [
+          "Combien coûte le changement du kit de distribution d'une Golf ?",
+          "En France, environ 480 à 870 € selon la version, pompe à eau comprise. Les prix relevés par idGarages vont de 479 à 867 €."
+        ],
+        [
+          "Que comprend le kit de distribution ?",
+          "Selon idGarages, la courroie de distribution, les galets, la pompe à eau, le liquide de refroidissement et la courroie d'accessoires."
+        ],
+        [
+          "Faut-il changer la pompe à eau avec la courroie ?",
+          "Oui sur la plupart des Golf où la pompe est entraînée par la courroie. La main-d'œuvre est commune, donc c'est moins cher qu'en deux fois."
+        ],
+        [
+          "Toutes les Golf ont-elles une courroie de distribution ?",
+          "Non. Certains moteurs utilisent une chaîne. Vérifiez le carnet d'entretien de votre moteur avant de demander un devis."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "idGarages : kit de distribution Golf 5",
+          "url": "https://www.idgarages.com/fr-fr/vehicules/volkswagen/volkswagen-golf-5-courroie-kit-de-distribution"
+        },
+        {
+          "name": "idGarages : kit de distribution Golf 7",
+          "url": "https://www.idgarages.com/fr-fr/vehicules/volkswagen/volkswagen-golf-7-courroie-kit-de-distribution"
+        }
+      ]
+    }
+  ]
+}

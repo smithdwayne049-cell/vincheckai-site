@@ -1,0 +1,417 @@
+{
+  "lang": "it",
+  "country": "Italia",
+  "price_format": "{n} €",
+  "thousands": ".",
+  "ui": {
+    "hub_title": "Costi riparazione auto 2026: quanto dovresti pagare",
+    "hub_description": "Fasce di prezzo per le riparazioni auto più comuni in Italia, da freni e batteria a pompa acqua e graffi. Ricambi, manodopera e come non pagare troppo.",
+    "hub_h1": "Costi di riparazione auto",
+    "hub_intro": "Fasce di prezzo per le riparazioni auto più comuni in Italia, divise in ricambi e manodopera dove le fonti lo permettono. Usale per capire se un preventivo è giusto.",
+    "table_item": "Voce del lavoro",
+    "table_low": "Minimo",
+    "table_high": "Massimo",
+    "factors_title": "Cosa fa cambiare il prezzo",
+    "tips_title": "Come non pagare troppo",
+    "cta_title": "Non sei sicuro che il preventivo sia giusto?",
+    "cta_text": "Fai una foto del problema con Vin AI. Ti dice cosa c'è probabilmente che non va e quanto costa una riparazione giusta. La prima verifica con foto è gratis.",
+    "cta_button": "Scarica Vin AI su Google Play",
+    "faq_title": "Domande frequenti",
+    "sources_label": "Fonti dei prezzi",
+    "disclaimer": "Stime per {country}, novembre 2026. I prezzi reali dipendono dall'auto, dalla zona e dall'officina.",
+    "related_title": "Altri costi di riparazione",
+    "footer_link": "Costi di riparazione auto",
+    "home": "Home"
+  },
+  "topics": [
+    {
+      "slug": "brake-pad-replacement-cost",
+      "skip": false,
+      "title": "Sostituzione pastiglie freni: prezzo 2026",
+      "description": "Sostituire le pastiglie dei freni in Italia costa di solito da 80 a 300 euro per asse. Vedi cosa incide sul prezzo e come non pagare troppo.",
+      "h1": "Sostituzione pastiglie freni: quanto costa",
+      "answer": "In Italia la sostituzione delle pastiglie dei freni costa di solito da 80 a 200 euro per asse, con ricambi e manodopera inclusi. Con pastiglie di fascia alta o interventi più complessi si può arrivare a circa 300 euro per asse. Se vanno cambiati anche i dischi, il conto parte da circa 160 euro per asse e sale in base ai componenti.",
+      "rows": [
+        [
+          "Totale, solo pastiglie, un asse",
+          80,
+          300
+        ]
+      ],
+      "factors": [
+        "Se si cambiano anche i dischi, che fa salire il totale.",
+        "Qualità e marca delle pastiglie: economiche, di marca o originali.",
+        "Tipo di auto: SUV e auto pesanti hanno impianti più grandi.",
+        "Freno di stazionamento elettrico e sensori di usura, che aggiungono tempo e ricambi.",
+        "Officina indipendente o rete ufficiale, con tariffe orarie diverse.",
+        "Extra come pulizia delle pinze, liquido freni e prova su strada."
+      ],
+      "tips": [
+        "Chiedi un preventivo scritto che separi pastiglie, manodopera ed extra, asse per asse.",
+        "Confronta almeno due preventivi per lo stesso tipo di pastiglie e lo stesso lavoro.",
+        "Chiedi di vedere lo spessore delle pastiglie e lo stato dei dischi prima di cambiarli.",
+        "Chiedi marca e qualità delle pastiglie proposte.",
+        "Non aspettare che le pastiglie finiscano: rovinano i dischi e la spesa aumenta."
+      ],
+      "faq": [
+        [
+          "Quanto costa cambiare le pastiglie dei freni su un asse?",
+          "In Italia di solito da 80 a 200 euro per asse, ricambi e manodopera inclusi. Con pastiglie di fascia alta o lavori più complessi si può arrivare a circa 300 euro."
+        ],
+        [
+          "Quanto costano pastiglie e dischi insieme?",
+          "Una guida di AutoScout24 indica che pastiglie e dischi partono da circa 160 euro per asse e il costo cresce in base ai componenti scelti."
+        ],
+        [
+          "Quanto costano le sole pastiglie come ricambio?",
+          "La stessa guida indica una media di circa 75 euro per le pastiglie di un asse e circa 50 euro di manodopera."
+        ],
+        [
+          "Devo cambiare i freni davanti e dietro insieme?",
+          "No, ogni asse si cambia a sé e viene quotato separatamente. Davanti di solito le pastiglie si consumano prima."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "AutoScout24: sostituzione pastiglie freni",
+          "url": "https://www.autoscout24.it/informare/consigli/riparazione-auto/sostituzione-pastiglie-freni/"
+        }
+      ]
+    },
+    {
+      "slug": "car-battery-replacement-cost",
+      "skip": false,
+      "title": "Sostituzione batteria auto: prezzo 2026",
+      "description": "Cambiare la batteria dell'auto in Italia costa circa 80-300 euro tra ricambio e manodopera. Scopri cosa cambia il prezzo e come risparmiare.",
+      "h1": "Sostituzione batteria auto: quanto costa",
+      "answer": "In Italia la batteria di un'auto costa da 50 a 200 euro come ricambio, e la manodopera in officina da 30 a 100 euro. Sommando le due voci, la sostituzione montata costa circa 80-300 euro. Il prezzo dipende da dimensioni, capacità, tecnologia e dall'auto.",
+      "rows": [
+        [
+          "Batteria (solo ricambio)",
+          50,
+          200
+        ],
+        [
+          "Manodopera in officina",
+          30,
+          100
+        ],
+        [
+          "Totale, montata (somma delle due voci)",
+          80,
+          300
+        ]
+      ],
+      "factors": [
+        "Dimensioni e capacità della batteria (Ah).",
+        "Corrente di spunto (CCA) richiesta dall'auto.",
+        "Tecnologia: standard, EFB o AGM per auto con start-stop.",
+        "Se la batteria va registrata con la centralina dell'auto.",
+        "Dove la monti: ricambista, officina o rete ufficiale.",
+        "Accesso difficile alla batteria, che richiede più manodopera."
+      ],
+      "tips": [
+        "Fai testare la batteria prima: a volte il problema è un morsetto allentato o l'alternatore.",
+        "Sulle auto con start-stop mantieni la stessa tecnologia della batteria originale.",
+        "Chiedi un preventivo che separi ricambio e montaggio.",
+        "Confronta il prezzo del ricambista con quello dell'officina.",
+        "Controlla la durata della garanzia."
+      ],
+      "faq": [
+        [
+          "Quanto costa cambiare la batteria dell'auto?",
+          "In Italia circa 80-300 euro tra batteria e montaggio, secondo le cifre di AutoScout24 sommate. Il ricambio costa da 50 a 200 euro e la manodopera da 30 a 100 euro."
+        ],
+        [
+          "Quanto costa solo la batteria?",
+          "Da 50 a 200 euro, in base a dimensioni, capacità, corrente di spunto e tecnologia."
+        ],
+        [
+          "Posso cambiare la batteria da solo?",
+          "Su molte auto sì e si risparmia la manodopera. Su altre la batteria va registrata con la centralina, quindi conviene l'officina."
+        ],
+        [
+          "Una batteria AGM costa di più?",
+          "In genere sì. Se l'auto è nata con una AGM o ha lo start-stop, conviene sostituirla con la stessa tecnologia."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "AutoScout24: sostituire la batteria dell'auto",
+          "url": "https://www.autoscout24.it/informare/consigli/riparazione-auto/come-scegliere-batteria-auto"
+        }
+      ]
+    },
+    {
+      "slug": "clutch-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "shock-absorber-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "water-pump-replacement-cost",
+      "skip": false,
+      "title": "Sostituzione pompa acqua auto: prezzo 2026",
+      "description": "La sostituzione della pompa dell'acqua in Italia costa indicativamente da 150 a 600 euro. Vedi cosa fa cambiare il prezzo e come non spendere troppo.",
+      "h1": "Sostituzione pompa acqua auto: quanto costa",
+      "answer": "In Italia la sostituzione della pompa dell'acqua costa indicativamente da 150 a 600 euro, ricambio e manodopera inclusi. Il prezzo dipende dall'auto, dai componenti sostituiti insieme alla pompa e dalla manodopera. Se la pompa è comandata dalla cinghia di distribuzione, di solito si cambia insieme ad essa e il totale sale.",
+      "rows": [
+        [
+          "Totale, ricambio e manodopera",
+          150,
+          600
+        ]
+      ],
+      "factors": [
+        "Modello e motore dell'auto.",
+        "Se la pompa è comandata dalla cinghia di distribuzione.",
+        "Componenti cambiati insieme alla pompa, come cinghia, tenditore o liquido.",
+        "Accessibilità della pompa e ore di manodopera.",
+        "Qualità e marca della pompa.",
+        "Tipo di officina e tariffa oraria."
+      ],
+      "tips": [
+        "Se la pompa è nella distribuzione, chiedi di cambiare tutto insieme per pagare la manodopera una sola volta.",
+        "Chiedi un preventivo scritto che separi pezzi e manodopera.",
+        "Fai confermare la perdita di liquido o il surriscaldamento prima di approvare il lavoro.",
+        "Chiedi marca della pompa e garanzia.",
+        "Confronta due o tre preventivi con il modello e il motore dell'auto."
+      ],
+      "faq": [
+        [
+          "Quanto costa cambiare la pompa dell'acqua?",
+          "Indicativamente da 150 a 600 euro in Italia, secondo una guida di Sicurauto. Il prezzo varia con l'auto e con i componenti sostituiti insieme."
+        ],
+        [
+          "Quali sono i segni di una pompa dell'acqua da cambiare?",
+          "Perdite di liquido di raffreddamento, motore che si scalda troppo o rumori dal lato anteriore del motore. Se la temperatura sale, fermati."
+        ],
+        [
+          "Conviene cambiarla con la distribuzione?",
+          "Se la pompa è comandata dalla cinghia di distribuzione sì, perché la manodopera in parte coincide e spesso costa meno che fare due lavori."
+        ],
+        [
+          "Perché i preventivi sono così diversi?",
+          "Dipende dall'auto: su alcuni motori la pompa è facile da raggiungere, su altri vanno smontati molti componenti."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Sicurauto: pompa acqua auto, consigli per la sostituzione",
+          "url": "https://www.sicurauto.it/ricambi-e-accessori/tecnica-e-manutenzione/pompa-acqua-auto-consigli-ed-errori-da-evitare-nella-sostituzione/"
+        }
+      ]
+    },
+    {
+      "slug": "car-dent-repair-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "car-scratch-repair-cost",
+      "skip": false,
+      "title": "Riparazione graffio auto: prezzo 2026",
+      "description": "Riparare un graffio sull'auto costa in Italia da circa 50 a 700 euro, secondo la profondità. Scopri i prezzi e come non pagare troppo.",
+      "h1": "Riparazione graffio auto: quanto costa",
+      "answer": "In Italia riparare un graffio sull'auto costa da circa 50 a 700 euro, secondo la profondità. Un graffio superficiale tolto con la lucidatura costa 50-100 euro, un graffio medio con riverniciatura parziale 200-300 euro. Un graffio profondo su vernice metallizzata va da 300 a 500 euro e la riverniciatura completa di un elemento da 400 a 700 euro.",
+      "rows": [
+        [
+          "Graffio superficiale, lucidatura",
+          50,
+          100
+        ],
+        [
+          "Ritocco vernice e lucidatura",
+          100,
+          200
+        ],
+        [
+          "Graffio medio, riverniciatura parziale",
+          200,
+          300
+        ],
+        [
+          "Graffio profondo su vernice metallizzata",
+          300,
+          500
+        ],
+        [
+          "Totale, dalla lucidatura alla riverniciatura di un elemento",
+          50,
+          700
+        ]
+      ],
+      "factors": [
+        "Profondità: solo vernice trasparente, vernice o fino alla lamiera.",
+        "Dimensione del graffio e numero di elementi coinvolti.",
+        "Tipo di vernice: metallizzata o perlata costa circa il 20-30% in più delle tinte pastello.",
+        "Se serve riverniciare e sfumare l'elemento.",
+        "Tipo di intervento: lucidatura, smart repair o carrozzeria.",
+        "Zona geografica: la differenza tra aree può arrivare al 15-25%."
+      ],
+      "tips": [
+        "Passa l'unghia sul graffio: se non si impunta, a volte basta una lucidatura.",
+        "Valuta prima lo smart repair, che interviene solo sulla zona danneggiata.",
+        "Chiedi se viene riparato solo il graffio o riverniciato tutto l'elemento.",
+        "Confronta almeno due preventivi prima di decidere.",
+        "Non lasciare la lamiera scoperta: può formarsi ruggine."
+      ],
+      "faq": [
+        [
+          "Quanto costa riparare un graffio sull'auto?",
+          "Da circa 50 a 700 euro in Italia, secondo la profondità. Un graffio superficiale costa 50-100 euro, uno profondo su vernice metallizzata 300-500 euro."
+        ],
+        [
+          "Quanto costa lo smart repair?",
+          "Una guida indica 200-350 euro per un intervento limitato all'area danneggiata."
+        ],
+        [
+          "Un graffio si può togliere con la lucidatura?",
+          "Se è solo nella vernice trasparente spesso sì. Se arriva alla vernice colorata o alla lamiera serve ritoccare o riverniciare."
+        ],
+        [
+          "Conviene il fai da te?",
+          "Per graffi leggeri esistono kit di riparazione da circa 30-50 euro, ma il risultato dipende dall'esperienza."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "BusinessOnline: costi per sistemare i graffi sull'auto (2025)",
+          "url": "https://www.businessonline.it/articoli/costi-per-sistemare-e-coprire-graffi-sullauto-i-prezzi-medi-da-carrozziere.html"
+        }
+      ]
+    },
+    {
+      "slug": "bumper-repair-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "windshield-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "headlight-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "toyota-camry-water-pump-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "toyota-corolla-brake-pad-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "honda-civic-clutch-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "hyundai-elantra-battery-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "volkswagen-golf-timing-belt-replacement-cost",
+      "skip": true,
+      "title": "",
+      "description": "",
+      "h1": "",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    }
+  ]
+}

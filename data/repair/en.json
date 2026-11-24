@@ -1,0 +1,1055 @@
+{
+  "lang": "en",
+  "country": "United States",
+  "price_format": "${n}",
+  "thousands": ",",
+  "ui": {
+    "hub_title": "Car repair costs 2026: what a fair price looks like",
+    "hub_description": "Fair price ranges for common US car repairs, from brakes and batteries to windshields. Parts, labor and ways not to overpay.",
+    "hub_h1": "Car repair costs",
+    "hub_intro": "Real price ranges for common car repairs in the United States, split into parts and labor where sources allow. Use them to check whether a quote is fair.",
+    "table_item": "Part of the job",
+    "table_low": "Low",
+    "table_high": "High",
+    "factors_title": "What changes the price",
+    "tips_title": "How not to overpay",
+    "cta_title": "Not sure your quote is fair?",
+    "cta_text": "Take a photo of the problem in Vin AI. It tells you what is likely wrong and what a fair repair costs. Your first photo check is free.",
+    "cta_button": "Get Vin AI on Google Play",
+    "faq_title": "FAQ",
+    "sources_label": "Price sources",
+    "disclaimer": "Estimates for {country}, November 2026. Real prices depend on the car, the region and the shop.",
+    "related_title": "Other repair costs",
+    "footer_link": "Car repair costs",
+    "home": "Home"
+  },
+  "topics": [
+    {
+      "slug": "brake-pad-replacement-cost",
+      "skip": false,
+      "title": "Brake Pad Replacement Cost 2026: Fair Price Guide",
+      "description": "Brake pad replacement in the US usually costs $150 to $450 per axle. See what parts and labor cost and how to avoid paying too much.",
+      "h1": "Brake pad replacement cost",
+      "answer": "Brake pad replacement in the United States usually costs $150 to $450 per axle, with parts and labor included. Independent shops are often near $150 to $300, while dealers can reach $250 to $450. Adding new rotors raises the bill to roughly $300 to $800 per axle.",
+      "rows": [
+        [
+          "Brake pads (one axle)",
+          25,
+          150
+        ],
+        [
+          "Labor (one axle)",
+          80,
+          300
+        ],
+        [
+          "Total, pads only, one axle",
+          150,
+          450
+        ]
+      ],
+      "factors": [
+        "Whether you also replace the rotors, which adds about $40 to $200 each.",
+        "Car type: trucks, luxury and performance cars cost more.",
+        "Pad quality: basic, ceramic or OEM pads have different prices.",
+        "Shop type: dealers charge more than independent shops.",
+        "Local labor rates, which are often $90 to $200 per hour.",
+        "Extra work such as caliper service or a brake fluid flush."
+      ],
+      "tips": [
+        "Ask whether the rotors really need replacing or can be left as they are.",
+        "Compare an independent shop with the dealer.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Ask about aftermarket pads from a known brand versus OEM pads.",
+        "Replace pads before they wear down to metal, because that damages the rotors and costs more."
+      ],
+      "faq": [
+        [
+          "How much does it cost to replace brake pads on one axle?",
+          "Most US shops charge about $150 to $450 per axle for pads only, parts and labor included. Independent shops are often at the lower end and dealers at the higher end."
+        ],
+        [
+          "How much to replace brake pads and rotors?",
+          "Pads and rotors together usually cost about $300 to $800 per axle. Trucks, luxury and performance cars can cost more."
+        ],
+        [
+          "Do I need to replace front and rear brake pads at the same time?",
+          "No. Front pads usually wear faster, so many cars need them replaced more often than the rear ones. Each axle is priced separately."
+        ],
+        [
+          "How long does a brake pad replacement take?",
+          "A pad job typically takes about 1 to 1.5 hours per axle at a shop."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "AAA: how much to replace brake pads",
+          "url": "https://ww1.aaa.com/autorepair/articles/how-much-to-replace-brake-pads"
+        },
+        {
+          "name": "Carfax: brake pad replacement",
+          "url": "https://www.carfax.com/blog/brake-pad-replacement"
+        },
+        {
+          "name": "Jerry: brake pad replacement estimates",
+          "url": "https://jerry.ai/car-repair/estimates/brake-pads-replacement/?make=ram"
+        }
+      ]
+    },
+    {
+      "slug": "car-battery-replacement-cost",
+      "skip": false,
+      "title": "Car Battery Replacement Cost 2026: What You Should Pay",
+      "description": "A new car battery in the US costs about $120 to $450 installed. See what a fair price looks like and how to save on a replacement.",
+      "h1": "Car battery replacement cost",
+      "answer": "Replacing a standard 12-volt car battery in the United States usually costs about $120 to $450 installed. A basic battery sits at the low end, while an AGM battery for a newer car sits at the high end. Hybrid and EV traction batteries are a different job and cost thousands.",
+      "rows": [
+        [
+          "Battery only",
+          45,
+          250
+        ],
+        [
+          "Total, installed",
+          120,
+          450
+        ]
+      ],
+      "factors": [
+        "Battery type: standard flooded or AGM, which costs more.",
+        "Vehicle: some cars need the new battery registered with the computer.",
+        "Where it is installed: retailers, independent shops and dealers differ.",
+        "Battery size and cold-cranking rating.",
+        "Hard-to-reach battery locations that need more labor.",
+        "Core charge and warranty length."
+      ],
+      "tips": [
+        "Have the battery tested first, since a loose terminal or the alternator can look like a dead battery.",
+        "Compare retail store installation with a shop quote.",
+        "Ask how long the warranty is and whether it is prorated.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Do not pay for an AGM battery if your car does not require one."
+      ],
+      "faq": [
+        [
+          "How much does a car battery cost installed?",
+          "Most drivers pay about $120 to $450 for a new battery installed in the US. Price depends on battery type and where you buy it."
+        ],
+        [
+          "How often should a car battery be replaced?",
+          "Many batteries last around 3 to 5 years, depending on climate and use. A weak battery often shows up as slow starting."
+        ],
+        [
+          "Is an AGM battery worth the extra money?",
+          "If your car came with an AGM battery, or has start-stop, replace it with an AGM one. Otherwise a standard battery is usually enough."
+        ],
+        [
+          "How much does a hybrid battery cost?",
+          "Hybrid drive batteries often cost about $2,000 to $6,000, though many are covered by a long warranty. The 12-volt battery in a hybrid is much cheaper."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Recharged: car battery replacement cost",
+          "url": "https://recharged.com/articles/car-battery-replacement-cost"
+        },
+        {
+          "name": "Batteries Plus: car battery cost",
+          "url": "https://www.batteriesplus.com/battery-tips/car-battery-cost"
+        },
+        {
+          "name": "KBB: Toyota Camry 2025 battery replacement",
+          "url": "https://www.kbb.com/toyota/camry/2025/battery-replacement/"
+        }
+      ]
+    },
+    {
+      "slug": "clutch-replacement-cost",
+      "skip": false,
+      "title": "Clutch Replacement Cost 2026: Fair Price Guide for the US",
+      "description": "Clutch replacement in the US usually costs $750 to $2,500. See the parts and labor split and what makes your quote higher or lower.",
+      "h1": "Clutch replacement cost",
+      "answer": "Clutch replacement in the United States usually costs about $750 to $2,500 for parts and labor, and many everyday cars land between $1,200 and $1,800. All-wheel-drive, luxury and performance cars can cost $1,500 to $3,000. Labor is often half or more of the bill because the transmission must come out.",
+      "rows": [
+        [
+          "Total, typical car",
+          750,
+          2500
+        ]
+      ],
+      "factors": [
+        "Car type: AWD, luxury and performance cars cost more.",
+        "Dual-mass flywheels are costly and often cannot be resurfaced.",
+        "Labor: the transmission has to be removed, which takes many hours.",
+        "Whether the flywheel and release bearing are replaced at the same time.",
+        "Shop type and local labor rates, often $75 to $125 per hour or more.",
+        "Parts brand: OEM kits cost more than aftermarket kits."
+      ],
+      "tips": [
+        "Ask the shop to confirm the clutch is really worn, not a hydraulic or cable fault that costs far less.",
+        "Ask to replace the flywheel work together with the clutch, which avoids paying labor twice.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Get a second quote from another shop before you agree.",
+        "Ask for the exact kit brand and whether it is OEM."
+      ],
+      "faq": [
+        [
+          "How much does a clutch replacement cost?",
+          "In the US most clutch replacements cost about $750 to $2,500, parts and labor included. Many mainstream cars are between $1,200 and $1,800."
+        ],
+        [
+          "Why is clutch replacement so expensive?",
+          "The mechanic has to remove the transmission to reach the clutch, so labor is half or more of the total. The clutch kit itself is a smaller part of the bill."
+        ],
+        [
+          "How long does a clutch last?",
+          "A clutch often lasts many years, but driving style and traffic make a big difference. Slipping, a high pedal bite or a burning smell are common signs it is wearing out."
+        ],
+        [
+          "Can I replace only the clutch disc?",
+          "Shops usually recommend a full kit, with pressure plate and release bearing, because the labor is the same and it avoids a repeat job."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "ConsumerAffairs: clutch replacement cost",
+          "url": "https://www.consumeraffairs.com/automotive/how-much-does-it-cost-to-replace-a-clutch.html"
+        },
+        {
+          "name": "Sunbit: clutch replacement cost",
+          "url": "https://sunbit.com/?p=249750"
+        },
+        {
+          "name": "RepairPal: Volkswagen GTI clutch replacement",
+          "url": "https://repairpal.com/estimator/volkswagen/gti/clutch-replacement-cost"
+        }
+      ]
+    },
+    {
+      "slug": "shock-absorber-replacement-cost",
+      "skip": false,
+      "title": "Shock Absorber Replacement Cost 2026: What to Pay",
+      "description": "Shock and strut replacement in the US usually costs $500 to $2,500. See parts and labor prices and how to avoid overpaying.",
+      "h1": "Shock absorber replacement cost",
+      "answer": "Replacing shocks or struts in the United States typically costs about $500 to $2,500, depending on the car and whether you do one axle or all four. Parts run roughly $80 to $250 for a pair of shocks and $300 to $760 for a pair of struts, with labor of $100 to $300 per assembly. An alignment is often recommended afterward.",
+      "rows": [
+        [
+          "Parts, shocks (pair)",
+          80,
+          250
+        ],
+        [
+          "Parts, struts (pair)",
+          300,
+          760
+        ],
+        [
+          "Labor, per assembly",
+          100,
+          300
+        ],
+        [
+          "Total, typical job",
+          500,
+          2500
+        ]
+      ],
+      "factors": [
+        "Shocks or struts: struts cost more and take more labor.",
+        "One axle or all four wheels.",
+        "Car type: trucks and luxury cars cost more.",
+        "Parts brand and whether the strut comes as a full assembly.",
+        "Whether an alignment is added, which is often recommended.",
+        "Shop type and local labor rates."
+      ],
+      "tips": [
+        "Replace shocks or struts in pairs on the same axle so the car handles evenly.",
+        "Ask whether a full strut assembly or just the shock insert is quoted.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Get a second quote from another shop before you agree.",
+        "Ask if the alignment is included in the price."
+      ],
+      "faq": [
+        [
+          "How much does it cost to replace shocks and struts?",
+          "Most US jobs cost about $500 to $2,500 depending on the car and the number of wheels. All four corners can cost more."
+        ],
+        [
+          "How much does one strut cost to replace?",
+          "One estimate puts front struts at about $300 to $700 each and rear struts at about $220 to $580 each, parts and labor included."
+        ],
+        [
+          "Do I need an alignment after replacing struts?",
+          "Often yes. Many shops recommend a four-wheel alignment after strut work because it can change the alignment angles."
+        ],
+        [
+          "Can I replace just one shock absorber?",
+          "It is better to replace both on the same axle. A mismatched pair can make the car handle unevenly."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "SoFi: shocks and struts replacement costs",
+          "url": "https://www.sofi.com/learn/content/shocks-and-struts-replacement-costs"
+        },
+        {
+          "name": "J.D. Power: strut replacement cost",
+          "url": "https://www.jdpower.com/cars/shopping-guides/how-much-does-it-cost-to-replace-the-struts-on-a-car"
+        },
+        {
+          "name": "RepairPal: shock or strut replacement",
+          "url": "https://repairpal.com/estimator/suspension-shock-or-strut-replacement-cost"
+        }
+      ]
+    },
+    {
+      "slug": "water-pump-replacement-cost",
+      "skip": false,
+      "title": "Water Pump Replacement Cost 2026: Fair Price Guide",
+      "description": "Water pump replacement in the US usually costs about $250 to $1,400. See why prices vary so much and how to avoid overpaying.",
+      "h1": "Water pump replacement cost",
+      "answer": "Water pump replacement in the United States usually costs about $250 to $1,400, parts and labor included. A pump that is easy to reach costs less, and a pump buried under other parts costs more. Electric pumps cost more than belt-driven ones.",
+      "rows": [
+        [
+          "Total, parts and labor",
+          250,
+          1400
+        ]
+      ],
+      "factors": [
+        "Labor: on some engines the radiator, hoses and pulleys must come off first.",
+        "Pump type: belt-driven pumps are cheaper than electric ones.",
+        "Car make and engine.",
+        "Whether the timing belt is replaced at the same time.",
+        "Coolant, thermostat and hoses that are often replaced with it.",
+        "Shop type and local labor rates."
+      ],
+      "tips": [
+        "If the pump is driven by the timing belt, ask to replace both together to save labor.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Get a second quote from another shop before you agree.",
+        "Ask about the pump brand, since cheap pumps may wear out faster.",
+        "Ask whether a coolant flush is included or extra."
+      ],
+      "faq": [
+        [
+          "How much does a water pump replacement cost?",
+          "In the US most jobs cost about $250 to $1,400 depending on the car. Labor is often the biggest part of the bill."
+        ],
+        [
+          "What are the signs of a failing water pump?",
+          "Common signs are a coolant leak, an engine that runs hot, or a whining noise from the front of the engine. Check the temperature gauge and stop driving if it climbs."
+        ],
+        [
+          "Should I replace the water pump with the timing belt?",
+          "If the water pump is driven by the timing belt, yes. The same labor covers both, so doing them together usually costs less than two separate jobs."
+        ],
+        [
+          "How long does a water pump last?",
+          "Many pumps last many years, but cheaper replacement pumps may wear out sooner, in some cases after about 30,000 miles."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Kelley Blue Book: Mercedes C-Class 2025 water pump replacement",
+          "url": "https://www.kbb.com/mercedes-benz/c-class/2025/water-pump-replacement"
+        },
+        {
+          "name": "YourMechanic: Toyota Camry water pump replacement",
+          "url": "https://www.yourmechanic.com/estimates/toyota/camry/water-pump-replacement"
+        },
+        {
+          "name": "Kelley Blue Book: Toyota Camry 2022 water pump replacement",
+          "url": "https://www.kbb.com/toyota/camry/2022/water-pump-replacement/"
+        }
+      ]
+    },
+    {
+      "slug": "car-dent-repair-cost",
+      "skip": false,
+      "title": "Car Dent Repair Cost 2026: Fair Price Guide for the US",
+      "description": "Fixing a car dent in the US costs about $75 to $600, depending on the size. See paintless repair prices and how to avoid overpaying.",
+      "h1": "Car dent repair cost",
+      "answer": "Fixing a single car dent in the United States usually costs about $75 to $600. Small door dings repaired with paintless dent repair run about $75 to $300, while larger or more complex dents cost about $250 to $600. Dents that need body filler and paint, or hail damage across a whole car, cost much more.",
+      "rows": [
+        [
+          "Small door ding (paintless)",
+          75,
+          300
+        ],
+        [
+          "Larger or complex dent (paintless)",
+          250,
+          600
+        ],
+        [
+          "Total, typical single dent",
+          75,
+          600
+        ]
+      ],
+      "factors": [
+        "Dent size, depth and sharpness.",
+        "Whether the paint is cracked, which rules out paintless repair.",
+        "Panel material: aluminum costs more than steel.",
+        "Dents near a panel edge or crease are harder.",
+        "Number of dents on the same panel.",
+        "Local labor rates and shop type."
+      ],
+      "tips": [
+        "Ask a paintless dent repair specialist first if the paint is not cracked.",
+        "Get a written quote that names the method, paintless or filler and paint.",
+        "Get a second quote from another shop before you agree.",
+        "Ask about a discount when fixing several dents in one visit.",
+        "Check your insurance deductible before using a claim for a small dent."
+      ],
+      "faq": [
+        [
+          "How much does it cost to fix a dent in a car?",
+          "A single dent usually costs about $75 to $600 in the US. Small dings are at the low end, and bigger dents need more time and skill."
+        ],
+        [
+          "Is paintless dent repair cheaper?",
+          "Usually yes, if the paint is intact and the dent is in a reachable spot. It avoids body filler and repainting."
+        ],
+        [
+          "How much does hail damage repair cost?",
+          "Hail repair on a whole vehicle can run about $1,000 to $5,000 or more, depending on how many dents there are."
+        ],
+        [
+          "Can every dent be fixed without paint?",
+          "No. Cracked paint, very sharp creases and some edges need traditional bodywork and paint."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Chase: how much to fix a dent in a car",
+          "url": "https://www.chase.com/personal/auto/education/maintenance/how-much-to-fix-a-dent-in-a-car"
+        },
+        {
+          "name": "Lemonade: cost to repair a car dent",
+          "url": "https://www.lemonade.com/car/explained/how-much-does-it-cost-to-repair-a-car-dent/"
+        },
+        {
+          "name": "ThePricer: paintless dent repair cost",
+          "url": "https://www.thepricer.org/paintless-dent-repair-cost/"
+        }
+      ]
+    },
+    {
+      "slug": "car-scratch-repair-cost",
+      "skip": false,
+      "title": "Car Scratch Repair Cost 2026: What Is a Fair Price?",
+      "description": "Car scratch repair in the US costs about $50 to $1,500, depending on depth. See what a fair price is and how to avoid overpaying.",
+      "h1": "Car scratch repair cost",
+      "answer": "Car scratch repair in the United States costs about $50 to $1,500 depending on how deep the scratch is. A light surface scratch that can be buffed out may cost $50 to $150, while a deep scratch that needs repainting costs several hundred dollars or more. Panel size, paint type and shop all change the price.",
+      "rows": [
+        [
+          "Light scratch, buff or polish",
+          50,
+          150
+        ],
+        [
+          "Total, typical professional repair",
+          50,
+          1500
+        ]
+      ],
+      "factors": [
+        "Depth: clear coat only, through the paint, or down to metal.",
+        "Size of the scratch and number of panels.",
+        "Paint type: pearl, metallic and tri-coat colors cost more.",
+        "Whether the panel must be repainted and blended.",
+        "Shop type: detailer, mobile repair or body shop.",
+        "Local labor rates."
+      ],
+      "tips": [
+        "Run a fingernail across the scratch. If it does not catch, polishing may be enough.",
+        "Ask a detailer or mobile repair service before a full body shop.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Get a second quote from another shop before you agree.",
+        "Ask whether only the scratch is fixed or the whole panel is repainted."
+      ],
+      "faq": [
+        [
+          "How much does it cost to fix a scratch on a car?",
+          "Prices run from about $50 for a light scratch to $1,500 for a large or deep one, according to one US guide. The depth of the scratch is the main factor."
+        ],
+        [
+          "Can a scratch be buffed out?",
+          "If the scratch is only in the clear coat, often yes. A scratch that goes through to the paint or metal needs repainting."
+        ],
+        [
+          "Is it worth fixing a small scratch?",
+          "Fixing a scratch early stops rust on bare metal, so it is usually worth it if the metal is exposed."
+        ],
+        [
+          "Does insurance cover scratches?",
+          "It depends on your policy and deductible. For small scratches the repair is often cheaper than the deductible."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "CarXplorer: how much for a scratch repair on a car",
+          "url": "https://carxplorer.com/how-much-for-a-scratch-repair-on-a-car/"
+        }
+      ]
+    },
+    {
+      "slug": "bumper-repair-cost",
+      "skip": false,
+      "title": "Bumper Repair Cost 2026: Repair vs Replace Prices",
+      "description": "Bumper repair in the US costs about $150 to $2,500, depending on damage and sensors. See repair and replace prices and how to save.",
+      "h1": "Bumper repair cost",
+      "answer": "Bumper repair in the United States usually costs about $150 to $600 for the cover, with refinishing often $250 to $600 more. A painted bumper replacement runs about $800 to $2,500 for mainstream cars. Sensor and driver-assistance recalibration can add $300 to $800, and luxury or EV models can cost more.",
+      "rows": [
+        [
+          "Repair a scuffed or cracked cover",
+          150,
+          600
+        ],
+        [
+          "Refinish (paint)",
+          250,
+          600
+        ],
+        [
+          "Sensor or ADAS calibration, if needed",
+          300,
+          800
+        ],
+        [
+          "Total, repair to painted replacement",
+          150,
+          2500
+        ]
+      ],
+      "factors": [
+        "Repair or replace, which depends on how badly the cover is cracked.",
+        "Paint color and blending into nearby panels.",
+        "Parking sensors, cameras and radar behind the bumper.",
+        "Car type: luxury, truck and EV models cost more.",
+        "Parts: OEM, aftermarket or used covers.",
+        "Shop type and labor rates."
+      ],
+      "tips": [
+        "Ask if the bumper can be repaired instead of replaced.",
+        "Ask which sensors need recalibration and what it adds to the quote.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Get a second quote from another shop before you agree.",
+        "Compare OEM, aftermarket and used cover prices."
+      ],
+      "faq": [
+        [
+          "How much does it cost to repair a bumper?",
+          "Most repairs cost about $150 to $600, and refinishing adds more. A full painted replacement costs about $800 to $2,500."
+        ],
+        [
+          "Is it cheaper to repair or replace a bumper?",
+          "Repair is cheaper for scuffs and light cracks. Replacement makes sense when the cover is badly cracked or the mounts are broken."
+        ],
+        [
+          "Do parking sensors raise bumper repair costs?",
+          "Yes. Sensors, cameras and radar may need repair or recalibration, which can add $300 to $800 or more."
+        ],
+        [
+          "How long does bumper repair take?",
+          "Simple repairs can often be done in a day. Replacement with paint often takes a few days."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "ThePricer: cost to replace a rear bumper",
+          "url": "https://www.thepricer.org/cost-to-replace-a-rear-bumper/"
+        },
+        {
+          "name": "MechanicBase: bumper repair and replacement cost",
+          "url": "https://mechanicbase.com/paint/bumper-repair-replacement-cost/"
+        },
+        {
+          "name": "Synchrony: car bumper replacement cost",
+          "url": "https://www.synchrony.com/blog/automotive/car-bumper-replacement-cost.html"
+        }
+      ]
+    },
+    {
+      "slug": "windshield-replacement-cost",
+      "skip": false,
+      "title": "Windshield Replacement Cost 2026: Fair Price Guide",
+      "description": "Windshield replacement in the US costs about $250 to $1,500. See what drives the price, including camera calibration, and how to save.",
+      "h1": "Windshield replacement cost",
+      "answer": "Windshield replacement in the United States typically costs about $250 to $1,500 or more. A basic windshield is at the low end, while a car with cameras and driver-assistance sensors costs more because it needs calibration, often $250 to $600 extra. Check with your insurer, since some policies cover glass.",
+      "rows": [
+        [
+          "Windshield glass and fitting",
+          250,
+          550
+        ],
+        [
+          "ADAS calibration, if needed",
+          250,
+          600
+        ],
+        [
+          "Total, typical replacement",
+          250,
+          1500
+        ]
+      ],
+      "factors": [
+        "Whether the car has cameras and driver-assistance sensors that need calibration.",
+        "Glass type: rain sensor, heated or acoustic glass costs more.",
+        "Car make, model and year.",
+        "OEM or aftermarket glass.",
+        "Mobile service or in-shop replacement.",
+        "Insurance coverage and deductible."
+      ],
+      "tips": [
+        "Ask if a chip can be repaired first, which costs less than replacement.",
+        "Ask whether calibration is included in the quote.",
+        "Check your insurance, since some policies include glass cover.",
+        "Get a second quote from another shop before you agree.",
+        "Ask about OEM versus aftermarket glass."
+      ],
+      "faq": [
+        [
+          "How much does it cost to replace a windshield?",
+          "In the US most windshields cost about $250 to $1,500 to replace. The price rises when the car has cameras and sensors that need calibration."
+        ],
+        [
+          "How much does ADAS calibration cost after a windshield replacement?",
+          "One source lists calibration at about $250 to $600 or more. AAA reported an average of $360 for the driver-assistance parts and calibration."
+        ],
+        [
+          "Is windshield replacement covered by insurance?",
+          "Some policies cover glass, and some do not cover the calibration separately. Check your policy before booking."
+        ],
+        [
+          "Can I repair a chip instead?",
+          "Small chips can often be repaired for about $130 to $150, which is far cheaper than replacing the whole windshield."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "AAA: windshield repair or replacement cost",
+          "url": "https://www.aaa.com/autorepair/articles/how-much-does-windshield-repair-or-replacement-cost"
+        },
+        {
+          "name": "Safelite: windshield replacement cost",
+          "url": "https://safelite.com/auto-glass-repair-replacement-cost"
+        },
+        {
+          "name": "Kelley Blue Book: windshield replacement may cost more than you think",
+          "url": "https://www.kbb.com/car-news/it-may-cost-more-than-you-think-to-replace-windshield/"
+        }
+      ]
+    },
+    {
+      "slug": "headlight-replacement-cost",
+      "skip": false,
+      "title": "Headlight Replacement Cost 2026: Bulb or Assembly",
+      "description": "Headlight replacement in the US costs $30 to $1,500, from a simple bulb to a full LED assembly. See fair prices and how to save.",
+      "h1": "Headlight replacement cost",
+      "answer": "Headlight replacement in the United States costs about $30 to $1,500 depending on the type. A bulb swap by a shop can cost $30 to $300, a halogen assembly about $200 to $500, and a modern LED assembly about $750 to $1,500. Some luxury and matrix systems cost far more.",
+      "rows": [
+        [
+          "Bulb replacement by a shop",
+          30,
+          300
+        ],
+        [
+          "Halogen headlight assembly",
+          200,
+          500
+        ],
+        [
+          "LED headlight assembly",
+          750,
+          1500
+        ],
+        [
+          "Total, typical job",
+          30,
+          1500
+        ]
+      ],
+      "factors": [
+        "Bulb or full sealed assembly.",
+        "Halogen, HID or LED lighting.",
+        "Car make: luxury and matrix headlights cost far more.",
+        "Whether the bumper has to come off for access.",
+        "OEM, aftermarket or used assembly.",
+        "Whether the headlights need aiming afterward."
+      ],
+      "tips": [
+        "Check if only the bulb is bad before buying an assembly.",
+        "Ask if a used or aftermarket assembly is approved for your car.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Get a second quote from another shop before you agree.",
+        "Ask whether headlight aiming is included."
+      ],
+      "faq": [
+        [
+          "How much does it cost to replace a headlight?",
+          "A bulb swap by a shop costs about $30 to $300. A full assembly costs about $200 to $500 for halogen and about $750 to $1,500 for LED."
+        ],
+        [
+          "Why are modern headlights so expensive?",
+          "Many cars use sealed LED units that cannot be opened, so the whole assembly must be replaced. Some luxury systems can cost thousands."
+        ],
+        [
+          "Can I replace a headlight bulb myself?",
+          "On many cars yes, and it saves labor. On some cars the bumper or other parts must come off, so a shop may be the better choice."
+        ],
+        [
+          "Do headlights need to be aimed after replacement?",
+          "Often yes, especially after replacing a full assembly, so the beam points the right way."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Kelley Blue Book: replace a burned out headlamp",
+          "url": "https://www.kbb.com/car-advice/how-much-does-it-cost-to-replace-a-burned-out-headlamp/"
+        },
+        {
+          "name": "Synchrony: headlight replacement cost",
+          "url": "https://www.synchrony.com/blog/automotive/headlight-replacement-cost"
+        },
+        {
+          "name": "Motor1: why replacing a modern headlight can cost thousands",
+          "url": "https://www.motor1.com/news/814393/why-replacing-a-headlight-can-cost-thousands-of-dollars/"
+        }
+      ]
+    },
+    {
+      "slug": "toyota-camry-water-pump-replacement-cost",
+      "skip": false,
+      "title": "Toyota Camry Water Pump Replacement Cost 2026 Guide",
+      "description": "Toyota Camry water pump replacement in the US usually costs about $500 to $1,400. See the price range and how to avoid overpaying.",
+      "h1": "Toyota Camry water pump replacement cost",
+      "answer": "Replacing the water pump on a Toyota Camry in the United States usually costs about $500 to $1,400, parts and labor included, based on estimates for several model years. Older Camrys with an easy-to-reach pump can come in lower, and the price depends on the year, engine and your area.",
+      "rows": [
+        [
+          "Total, parts and labor",
+          500,
+          1400
+        ]
+      ],
+      "factors": [
+        "Model year and engine, such as four-cylinder or V6.",
+        "Pump design: belt-driven or electric.",
+        "Local labor rates and shop type.",
+        "Whether coolant, thermostat or belts are replaced with the pump.",
+        "Dealer or independent shop.",
+        "Parts brand."
+      ],
+      "tips": [
+        "Ask for an itemized quote and compare an independent shop with the Toyota dealer.",
+        "Get a second quote from another shop before you agree.",
+        "Ask if the thermostat and belts are worth replacing at the same time.",
+        "Ask which pump brand is used and the warranty length.",
+        "Have the leak or overheating confirmed before approving the job."
+      ],
+      "faq": [
+        [
+          "How much does a Toyota Camry water pump replacement cost?",
+          "Estimates run about $500 to $1,400 in the US, parts and labor included. Your exact quote depends on year, engine and area."
+        ],
+        [
+          "What are signs of a bad Camry water pump?",
+          "Look for a coolant leak near the front of the engine, a rising temperature gauge or a whining noise. Stop driving if the engine overheats."
+        ],
+        [
+          "Does the Camry water pump need replacing often?",
+          "Not usually, but a pump can leak or wear out with age, and cheaper replacement pumps may wear out sooner."
+        ],
+        [
+          "Should I replace other parts with the pump?",
+          "Many shops suggest replacing coolant and checking the thermostat and belts at the same time, since the labor overlaps."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Kelley Blue Book: Toyota Camry 2022 water pump replacement",
+          "url": "https://www.kbb.com/toyota/camry/2022/water-pump-replacement/"
+        },
+        {
+          "name": "Kelley Blue Book: Toyota Camry 2018 water pump replacement",
+          "url": "https://www.kbb.com/toyota/camry/2018/water-pump-replacement"
+        },
+        {
+          "name": "YourMechanic: Toyota Camry water pump replacement",
+          "url": "https://www.yourmechanic.com/estimates/toyota/camry/water-pump-replacement"
+        }
+      ]
+    },
+    {
+      "slug": "toyota-corolla-brake-pad-replacement-cost",
+      "skip": false,
+      "title": "Toyota Corolla Brake Pad Replacement Cost 2026",
+      "description": "Toyota Corolla brake pad replacement in the US usually costs about $100 to $350 per axle. See what is fair and how to save.",
+      "h1": "Toyota Corolla brake pad replacement cost",
+      "answer": "Replacing brake pads on a Toyota Corolla in the United States usually costs about $100 to $350 per axle, parts and labor included. Independent shops are often at the lower end, and rotors add more if they also need replacing. Dealers usually charge more.",
+      "rows": [
+        [
+          "Total, pads, one axle",
+          100,
+          350
+        ]
+      ],
+      "factors": [
+        "Front or rear axle.",
+        "Whether the rotors are replaced as well.",
+        "Pad type and brand.",
+        "Dealer or independent shop.",
+        "Model year and trim, including hybrid.",
+        "Local labor rates."
+      ],
+      "tips": [
+        "Compare an independent shop with the Toyota dealer.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Ask if the rotors really need replacing.",
+        "Ask which pad brand is used.",
+        "Check pad thickness yourself before a shop says they are worn."
+      ],
+      "faq": [
+        [
+          "How much does it cost to replace brake pads on a Toyota Corolla?",
+          "About $100 to $350 per axle in the US for pads, parts and labor included. Estimates vary by year, shop and area."
+        ],
+        [
+          "How often do Corolla brake pads need replacing?",
+          "It depends on how you drive. Squealing or grinding are signs it is time."
+        ],
+        [
+          "Do I need new rotors with new pads?",
+          "Not always. Rotors only need replacing if they are worn thin, warped or damaged."
+        ],
+        [
+          "Is the Corolla Hybrid brake job more expensive?",
+          "Estimates for the Hybrid are in a similar range."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "YourMechanic: Toyota Corolla brake pads replacement",
+          "url": "https://www.yourmechanic.com/estimates/toyota/corolla/brake-pads-replacement"
+        },
+        {
+          "name": "Kelley Blue Book: Toyota Corolla 2025 brake repair",
+          "url": "https://www.kbb.com/toyota/corolla/2025/brake-repair/"
+        },
+        {
+          "name": "Bruisers: Corolla sedan brake pad",
+          "url": "https://bruisers.com/repairs/Brake%20Pad/Toyota/Corolla%20Sedan"
+        }
+      ]
+    },
+    {
+      "slug": "honda-civic-clutch-replacement-cost",
+      "skip": false,
+      "title": "Honda Civic Clutch Replacement Cost 2026: US Prices",
+      "description": "Honda Civic clutch replacement in the US usually costs about $1,000 to $2,200. See the price range and how to avoid overpaying.",
+      "h1": "Honda Civic clutch replacement cost",
+      "answer": "Replacing the clutch on a Honda Civic in the United States usually costs about $1,000 to $2,200, parts and labor included. One guide puts a typical Civic job at $1,000 to $1,500, and a similar Honda model was estimated near $1,800 to $2,200. The OEM clutch kit alone is about $600 to $700.",
+      "rows": [
+        [
+          "OEM clutch kit",
+          600,
+          700
+        ],
+        [
+          "Total, parts and labor",
+          1000,
+          2200
+        ]
+      ],
+      "factors": [
+        "Model year and engine, including Si models.",
+        "OEM or aftermarket clutch kit.",
+        "Whether the flywheel is resurfaced or replaced.",
+        "Shop labor rates.",
+        "Dealer or independent shop.",
+        "Extra parts such as the release bearing and fluid."
+      ],
+      "tips": [
+        "Ask whether the flywheel is resurfaced or replaced and what it costs.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Get a second quote from another shop before you agree.",
+        "Ask if the kit includes the release bearing.",
+        "Ask about OEM kit and aftermarket kit prices."
+      ],
+      "faq": [
+        [
+          "How much does a Honda Civic clutch replacement cost?",
+          "Most jobs cost about $1,000 to $2,200 in the US, parts and labor included. Many Civics fall near $1,000 to $1,500."
+        ],
+        [
+          "How much is a Honda Civic clutch kit alone?",
+          "One guide says the OEM clutch kit usually costs about $600 to $700 before labor."
+        ],
+        [
+          "Why is labor so much of a clutch job?",
+          "The transmission has to be removed to get to the clutch, so labor is often half or more of the total."
+        ],
+        [
+          "Is a simple clutch adjustment cheaper?",
+          "RepairPal lists a clutch adjustment for a Civic at about $58 to $85, but that is not a replacement."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Jerry: Honda Civic clutch replacement cost",
+          "url": "https://getjerry.com/car-repair/honda-civic-clutch-replacement-cost"
+        },
+        {
+          "name": "RepairPal: Honda CR-Z clutch replacement",
+          "url": "https://repairpal.com/estimator/honda/cr-z/clutch-replacement-cost"
+        },
+        {
+          "name": "ConsumerAffairs: clutch replacement cost",
+          "url": "https://www.consumeraffairs.com/automotive/how-much-does-it-cost-to-replace-a-clutch.html"
+        }
+      ]
+    },
+    {
+      "slug": "hyundai-elantra-battery-replacement-cost",
+      "skip": false,
+      "title": "Hyundai Elantra Battery Replacement Cost 2026 Guide",
+      "description": "Hyundai Elantra battery replacement in the US costs about $290 to $490 installed. See what is fair and how to avoid overpaying.",
+      "h1": "Hyundai Elantra battery replacement cost",
+      "answer": "Replacing the battery in a Hyundai Elantra in the United States usually costs about $290 to $490 installed. One estimate averages $289, and Kelley Blue Book ranges for several model years run from about $294 to $489. A bare battery is much cheaper than a full installation at a shop.",
+      "rows": [
+        [
+          "Battery only",
+          45,
+          250
+        ],
+        [
+          "Total, installed",
+          290,
+          490
+        ]
+      ],
+      "factors": [
+        "Model year and battery size.",
+        "Standard or AGM battery.",
+        "Shop type: retailer, independent or dealer.",
+        "Whether labor is included.",
+        "Warranty length.",
+        "Local labor rates."
+      ],
+      "tips": [
+        "Compare retailer installation with a shop quote.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Ask how long the warranty is.",
+        "Have the battery tested before replacing it.",
+        "Check that the quote matches your Elantra's battery size."
+      ],
+      "faq": [
+        [
+          "How much does an Elantra battery replacement cost?",
+          "Most owners pay about $290 to $490 installed in the US. Prices depend on the year, battery type and shop."
+        ],
+        [
+          "How much is just the battery for an Elantra?",
+          "A standard car battery generally costs about $45 to $250 depending on quality and size, before any labor."
+        ],
+        [
+          "How long does an Elantra battery last?",
+          "Many batteries last around 3 to 5 years, depending on climate and use."
+        ],
+        [
+          "Is the Elantra Hybrid battery different?",
+          "The Hybrid also has a regular 12-volt battery, and its high-voltage pack is a separate, far costlier part."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "YourMechanic: Hyundai Elantra battery replacement",
+          "url": "https://www.yourmechanic.com/estimates/hyundai/elantra/battery-replacement"
+        },
+        {
+          "name": "Kelley Blue Book: Hyundai Elantra 2023 battery replacement",
+          "url": "https://www.kbb.com/hyundai/elantra/2023/battery-replacement"
+        },
+        {
+          "name": "Kelley Blue Book: Hyundai Elantra 2019 battery replacement",
+          "url": "https://www.kbb.com/hyundai/elantra/2019/battery-replacement/"
+        }
+      ]
+    },
+    {
+      "slug": "volkswagen-golf-timing-belt-replacement-cost",
+      "skip": false,
+      "title": "VW Golf Timing Belt Replacement Cost 2026 Guide",
+      "description": "Volkswagen Golf timing belt replacement in the US usually costs about $420 to $1,400, with diesel higher. See how to avoid overpaying.",
+      "h1": "Volkswagen Golf timing belt replacement cost",
+      "answer": "Replacing the timing belt on a Volkswagen Golf in the United States commonly costs about $420 to $1,400, parts and labor included. Estimates vary a lot by engine, and a diesel Golf SportWagen was estimated near $1,900 to $3,000. Many newer Golf engines use a chain instead of a belt.",
+      "rows": [
+        [
+          "Parts, belt kit",
+          151,
+          437
+        ],
+        [
+          "Labor",
+          266,
+          866
+        ],
+        [
+          "Total, parts and labor",
+          420,
+          1400
+        ]
+      ],
+      "factors": [
+        "Engine: gasoline or diesel.",
+        "Whether the water pump and tensioner are replaced at the same time.",
+        "Labor, since many parts must come off to reach the belt.",
+        "Dealer or independent shop.",
+        "Model year, because some Golf engines use a timing chain.",
+        "Parts brand."
+      ],
+      "tips": [
+        "Check your owner's manual: some Golfs have a chain and need no belt.",
+        "Ask to replace the tensioner, pulleys and water pump together.",
+        "Ask for an itemized quote that lists parts and labor separately.",
+        "Get a second quote from another shop before you agree.",
+        "Ask for the interval your engine really needs."
+      ],
+      "faq": [
+        [
+          "How much does a Golf timing belt replacement cost?",
+          "In the US it usually costs about $420 to $1,400. Diesel models can cost more, near $1,900 to $3,000 in one estimate."
+        ],
+        [
+          "How often should a Golf timing belt be replaced?",
+          "Intervals vary by engine, commonly between 60,000 and 100,000 miles. Check the owner's manual for your engine."
+        ],
+        [
+          "Does my Golf have a timing belt or a chain?",
+          "Some Golf engines use a belt and others a chain. A chain tensioner job is different and was estimated at about $1,300 to $1,700 for a 2018 Golf."
+        ],
+        [
+          "Should I replace the water pump with the belt?",
+          "If it is driven by the belt, yes. The labor overlaps, and one source says doing it in the same job adds only about $100."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "YourMechanic: Volkswagen Golf timing belt replacement",
+          "url": "https://www.yourmechanic.com/estimates/volkswagen/golf/timing-belt-replacement"
+        },
+        {
+          "name": "YourMechanic: Golf SportWagen timing belt replacement",
+          "url": "https://www.yourmechanic.com/estimates/volkswagen/golf-sportwagen/timing-belt-replacement"
+        },
+        {
+          "name": "ConsumerAffairs: timing belt replacement cost",
+          "url": "https://www.consumeraffairs.com/automotive/timing-belt-replacement-cost.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "lang": "tr",
+  "country": "Türkiye",
+  "price_format": "{n} TL",
+  "thousands": ".",
+  "ui": {
+    "hub_title": "Araba tamir fiyatları 2026: adil fiyat nedir",
+    "hub_description": "Türkiye'de sık yapılan araba tamirlerinin fiyat aralıkları: fren balatası, akü, göçük, tampon ve daha fazlası. Parça, işçilik ve fazla ödememenin yolları.",
+    "hub_h1": "Araba tamir fiyatları",
+    "hub_intro": "Türkiye'de sık yapılan araba tamirleri için, kaynakların izin verdiği ölçüde parça ve işçilik olarak ayrılmış gerçek fiyat aralıkları. Teklifinizin adil olup olmadığını kontrol etmek için kullanın.",
+    "table_item": "İşin kalemi",
+    "table_low": "En düşük",
+    "table_high": "En yüksek",
+    "factors_title": "Fiyatı ne değiştirir",
+    "tips_title": "Fazla ödememek için",
+    "cta_title": "Teklifin adil olup olmadığından emin değil misiniz?",
+    "cta_text": "Sorunun fotoğrafını Vin AI'da çekin. Olası arızayı ve adil bir tamir fiyatını söyler. İlk fotoğraf kontrolünüz ücretsizdir.",
+    "cta_button": "Vin AI'ı Google Play'den indirin",
+    "faq_title": "Sık sorulan sorular",
+    "sources_label": "Fiyat kaynakları",
+    "disclaimer": "{country} için tahmini fiyatlardır, Kasım 2026. Gerçek fiyat araca, bölgeye ve servise göre değişir.",
+    "related_title": "Diğer tamir fiyatları",
+    "footer_link": "Araba tamir fiyatları",
+    "home": "Ana sayfa"
+  },
+  "topics": [
+    {
+      "slug": "brake-pad-replacement-cost",
+      "skip": false,
+      "title": "Fren balatası değişimi fiyatı 2026: bir aks için",
+      "description": "Fren balatası değişimi bir aks için yaklaşık 2.500 TL ile 5.000 TL arasında. Parça ve işçilik ayrımı, fiyatı etkileyenler ve fazla ödememenin yolları.",
+      "h1": "Fren balatası değişimi fiyatı",
+      "answer": "Türkiye'de fren balatası değişimi, parça ve işçilik dahil bir aks için yaklaşık 2.500 TL ile 5.000 TL arasında. Balata takımının kendisi araca göre 730 TL ile 2.000 TL civarındayken, işçilik servis sınıfına göre 1.750 TL ile 3.000 TL arasında değişiyor. Disk de değişecekse toplam belirgin biçimde artar.",
+      "rows": [
+        [
+          "Balata takımı, bir aks (parça)",
+          730,
+          2000
+        ],
+        [
+          "İşçilik, bir aks",
+          1750,
+          3000
+        ],
+        [
+          "Toplam, yalnızca balata, bir aks",
+          2500,
+          5000
+        ]
+      ],
+      "factors": [
+        "Araç modeli ve balata kalitesi: yan sanayi, Bosch gibi bilinen marka veya orijinal parça.",
+        "Servis sınıfı: büyük markalı servisler, bağımsız servislerden daha yüksek işçilik ister.",
+        "Disklerin de değişip değişmeyeceği, çünkü disk ayrı bir maliyettir.",
+        "Ön veya arka aks: elektrikli el frenli arka balata işçiliği daha pahalıdır.",
+        "Bulunduğunuz şehir ve semt.",
+        "Fren hidroliği veya sensör gibi ek işlemler."
+      ],
+      "tips": [
+        "Parça ve işçilik ücretini ayrı ayrı yazan bir teklif isteyin.",
+        "Disklerin gerçekten aşınıp aşınmadığını sorun, aşınmamışsa değişmesine gerek olmayabilir.",
+        "En az iki serviste fiyat sorun.",
+        "Hangi marka balata takılacağını önceden öğrenin.",
+        "Balata bitip metal metale sürtmeden değiştirin, aksi halde disk de gider ve fatura büyür."
+      ],
+      "faq": [
+        [
+          "Fren balatası değişimi ne kadar tutar?",
+          "Parça ve işçilik dahil bir aks için yaklaşık 2.500 TL ile 5.000 TL arasında. Araç, balata markası ve servis sınıfı fiyatı belirler."
+        ],
+        [
+          "Fren balatası işçiliği ne kadar?",
+          "Nisan 2026 tarihli iki işçilik listesinde ön veya arka balata değişimi için 1.750 TL ile 3.000 TL arası ortalama işçilik görülüyor. Parça bedeli bunun üzerine eklenir."
+        ],
+        [
+          "Disk ve balata birlikte kaç TL tutar?",
+          "Bir Haziran 2026 rehberi dört tekerlek disk ve balata için 8.000 TL ile 18.000 TL aralığını veriyor. Rakam kalitede ve araçta büyük farklar gösterebilir."
+        ],
+        [
+          "Balata ne zaman değişir?",
+          "Kullanıma göre değişir, bir rehber ortalama 50.000 km civarını belirtiyor. Fren sırasında ses veya titreme gelirse kontrol ettirmek gerekir."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Cimri: Bosch VW Taigo ön fren balatası",
+          "url": "https://www.cimri.com/fren-balatasi/en-ucuz-bosch-vw-taigo-2021-2024-modelleri-icin-on-fren-balatasi-fiyatlari,2554079628"
+        },
+        {
+          "name": "Cimri: Bosch Toyota C-HR ön fren balatası",
+          "url": "https://www.cimri.com/frenler/en-ucuz-bosch-toyota-c-hr-2016-2019-on-fren-balatasi-fiyatlari,2384704000"
+        },
+        {
+          "name": "İşin Olsa: 2026 oto servis işçilik ücretleri",
+          "url": "https://www.isinolsa.com/2026-oto-servis-iscilik-ucretleri-aciklandi/"
+        }
+      ]
+    },
+    {
+      "slug": "car-battery-replacement-cost",
+      "skip": false,
+      "title": "Akü değişimi fiyatı 2026: binek araç akü fiyatları",
+      "description": "Binek araç aküsü 2026'da yaklaşık 4.000 TL ile 9.500 TL arasında. Akü boyutu, fiyatı etkileyenler ve fazla ödememenin yolları.",
+      "h1": "Akü değişimi fiyatı",
+      "answer": "Türkiye'de binek araç aküsü 2026'da gördüğümüz listelerde yaklaşık 4.000 TL ile 9.500 TL arasında. 60 Ah'lik bir akü 4.000 TL civarından, 100 Ah'lik büyük bir akü 9.500 TL civarından başlıyor. Montaj ücreti bu rakamlara dahil olmayabilir, satıcıya ayrıca sorun.",
+      "rows": [
+        [
+          "Akü, 60 Ah civarı",
+          4000,
+          4000
+        ],
+        [
+          "Akü, 80 ile 100 Ah",
+          8500,
+          9500
+        ],
+        [
+          "Toplam, akü bedeli (montajı ayrıca sorun)",
+          4000,
+          9500
+        ]
+      ],
+      "factors": [
+        "Akü kapasitesi (Ah) ve marş akımı.",
+        "Akü tipi: standart, EFB veya AGM, start-stop araçlarda daha pahalısı gerekir.",
+        "Marka ve garanti süresi.",
+        "Satış kanalı: akü bayisi, oto servis veya internet.",
+        "Montajın ücretli olup olmadığı.",
+        "Eski akünün iade edilip edilmediği."
+      ],
+      "tips": [
+        "Önce akünün gerçekten bittiğini test ettirin, bazen kutup başı veya şarj dinamosu sorunu olur.",
+        "Aracınızın start-stop sistemi varsa uygun tipte akü alın.",
+        "Garanti süresini ve fatura şartlarını sorun.",
+        "Montaj ücretini baştan öğrenin.",
+        "Birkaç satıcıdan fiyat alın."
+      ],
+      "faq": [
+        [
+          "Akü değişimi ne kadar tutar?",
+          "Gördüğümüz 2026 listelerinde binek araç aküleri yaklaşık 4.000 TL ile 9.500 TL arasında. Montaj ücreti ayrıca sorulmalı."
+        ],
+        [
+          "Akü kaç yıl dayanır?",
+          "Genellikle 3 ile 5 yıl arası. İklim ve kullanım süreyi etkiler."
+        ],
+        [
+          "Akü bittiğinde nasıl anlarım?",
+          "Zor marş, silik farlar veya gösterge panelindeki akü uyarısı işaret olabilir. Emin olmak için test yaptırın."
+        ],
+        [
+          "Küçük bir akü daha ucuz mu?",
+          "Daha düşük kapasiteli aküler daha ucuz olabilir, ama aracınızın gerektirdiği kapasitenin altına inmemelisiniz."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Cimri: Mutlu 60 Ah akü",
+          "url": "https://www.cimri.com/aku/en-ucuz-mutlu-2024-12-v-60-ah-540a-sfb-aku-fiyatlari,2492768937"
+        },
+        {
+          "name": "Cimri: Yiğit 80 Ah akü",
+          "url": "https://www.cimri.com/aku/en-ucuz-yigit-aku-ygt-12-v-80-amper-aku-fiyatlari,2497921802"
+        },
+        {
+          "name": "Cimri: Turbo 100 Ah akü",
+          "url": "https://www.cimri.com/aku/en-ucuz-turbo-2025-12-v-100-ah-900a-aku-fiyatlari,2493367178"
+        }
+      ]
+    },
+    {
+      "slug": "clutch-replacement-cost",
+      "skip": true,
+      "title": "Debriyaj seti değişimi fiyatı",
+      "description": "",
+      "h1": "Debriyaj seti değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "shock-absorber-replacement-cost",
+      "skip": true,
+      "title": "Amortisör değişimi fiyatı",
+      "description": "",
+      "h1": "Amortisör değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "water-pump-replacement-cost",
+      "skip": true,
+      "title": "Devirdaim değişimi fiyatı",
+      "description": "",
+      "h1": "Devirdaim değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "car-dent-repair-cost",
+      "skip": false,
+      "title": "Göçük düzeltme fiyatı 2026: boyasız onarım",
+      "description": "Boyasız göçük düzeltme 2026'da yaklaşık 800 TL ile 12.000 TL arasında. Göçük boyutuna göre fiyatlar ve fazla ödememenin yolları.",
+      "h1": "Göçük düzeltme fiyatı",
+      "answer": "Türkiye'de tek bir göçüğün boyasız düzeltilmesi 2026'da büyüklüğe göre yaklaşık 800 TL ile 12.000 TL arasında. Bozuk para büyüklüğünde küçük bir göçük 800 TL ile 1.500 TL, yumruk büyüklüğünde bir göçük ise 4.000 TL ile 7.500 TL civarında. Fiyatlar İstanbul Avrupa Yakası'ndaki servislerin ortalama tahminlerine dayanıyor.",
+      "rows": [
+        [
+          "Bozuk para büyüklüğünde (1-3 cm)",
+          800,
+          1500
+        ],
+        [
+          "Ceviz büyüklüğünde",
+          1800,
+          3000
+        ],
+        [
+          "Yumruk büyüklüğünde",
+          4000,
+          7500
+        ],
+        [
+          "Derin ezik veya gövde çizgisi hasarı",
+          6500,
+          12000
+        ],
+        [
+          "Toplam, tek göçük",
+          800,
+          12000
+        ]
+      ],
+      "factors": [
+        "Göçüğün çapı ve derinliği.",
+        "Göçüğün gövde çizgisinde veya kenarında olması.",
+        "Panelin sac mı alüminyum mu olduğu.",
+        "Boyanın çatlak olup olmadığı, çatlaksa boyasız onarım mümkün olmayabilir.",
+        "Aynı panelde kaç göçük olduğu.",
+        "Şehir ve atölye türü."
+      ],
+      "tips": [
+        "Boya çatlamadıysa önce boyasız göçük düzeltme uzmanından teklif alın.",
+        "Teklifin yöntemi (boyasız mı, macun ve boyalı mı) yazılı olsun.",
+        "Birden fazla göçük için paket fiyat isteyin.",
+        "En az iki yerden fiyat alın.",
+        "Hasarı sigortaya bildirmeden önce muafiyet tutarını kontrol edin."
+      ],
+      "faq": [
+        [
+          "Boyasız göçük düzeltme ne kadar tutar?",
+          "Küçük göçükler yaklaşık 800 TL ile 3.000 TL, yumruk büyüklüğündekiler 4.000 TL ile 7.500 TL civarında. Derin ezikler 12.000 TL'ye çıkabilir."
+        ],
+        [
+          "Dolu hasarı onarımı kaç TL?",
+          "Aynı kaynağa göre hafif dolu hasarı tüm araçta 25.000 TL ile 40.000 TL, ağır hasar 50.000 TL ve üzeri."
+        ],
+        [
+          "Her göçük boyasız düzelir mi?",
+          "Hayır. Boyası çatlamış, çok keskin kıvrımlı veya kenara yakın göçüklerde boyalı onarım gerekebilir."
+        ],
+        [
+          "Onarım ne kadar sürer?",
+          "Küçük bir göçük yaklaşık 30 dakika ile 2 saat, büyük göçükler birkaç saat sürebilir. Dolu hasarı günler alabilir."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Webtekno: İstanbul Avrupa Yakası boyasız göçük düzeltme 2026",
+          "url": "https://www.webtekno.com/istanbul-avrupa-boyasiz-gocuk-duzeltme-yerleri-h217308.html"
+        }
+      ]
+    },
+    {
+      "slug": "car-scratch-repair-cost",
+      "skip": true,
+      "title": "Araba çizik giderme fiyatı",
+      "description": "",
+      "h1": "Araba çizik giderme fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "bumper-repair-cost",
+      "skip": false,
+      "title": "Tampon tamiri ve değişimi fiyatı 2026",
+      "description": "Tampon değişimi parça, boya ve takma dahil yaklaşık 5.000 TL ile 28.000 TL arasında. Segmente göre fiyatlar ve fazla ödememenin yolları.",
+      "h1": "Tampon tamiri ve değişimi fiyatı",
+      "answer": "Türkiye'de tampon değişimi, parça artı boya ve takma işçiliği dahil yaklaşık 5.000 TL ile 28.000 TL arasında. 2025 tarihli bir parça rehberi tampon parçasını ekonomik araçlarda 2.000 TL ile 6.000 TL, üst segmentte 8.000 TL ile 20.000 TL olarak veriyor, boya ve takma ise 3.000 TL ile 8.000 TL ekliyor. Plastik onarım mümkünse daha ucuza gelebilir. Rakamlar enflasyon nedeniyle hızla eskiyebilir.",
+      "rows": [
+        [
+          "Tampon parçası (ekonomi ile üst segment)",
+          2000,
+          20000
+        ],
+        [
+          "Boya ve takma",
+          3000,
+          8000
+        ],
+        [
+          "Toplam, parça, boya ve takma",
+          5000,
+          28000
+        ]
+      ],
+      "factors": [
+        "Araç segmenti: ekonomik, orta veya üst segment.",
+        "Orijinal, OEM veya yan sanayi parça.",
+        "Tamponun onarılıp onarılamayacağı veya değişmesi gerektiği.",
+        "Boya rengi ve çevre panellere geçiş.",
+        "Park sensörü, kamera ve radar gibi tampon arkasındaki parçalar.",
+        "Atölye türü ve şehir."
+      ],
+      "tips": [
+        "Tamponun plastik onarımla düzelip düzelmeyeceğini sorun.",
+        "Parça, boya ve işçilik kalemlerini ayrı yazan teklif isteyin.",
+        "Orijinal, OEM ve yan sanayi parça fiyatlarını karşılaştırın.",
+        "En az iki atölyeden teklif alın.",
+        "Sensör varsa bunların teklife dahil olup olmadığını öğrenin."
+      ],
+      "faq": [
+        [
+          "Tampon değişimi ne kadar tutar?",
+          "Parça, boya ve takma dahil yaklaşık 5.000 TL ile 28.000 TL arasında. Segment ve parça türü farkı belirler."
+        ],
+        [
+          "Tampon boyama kaç TL?",
+          "Bir rehber boya ve takmayı 3.000 TL ile 8.000 TL olarak veriyor. Armut'ta tampon boyama talepleri 4.000 TL ile 30.000 TL arasında değişiyor."
+        ],
+        [
+          "Tampon tamir mi edilir değişir mi?",
+          "Hasar küçükse plastik onarım yeterli olabilir. Parçanın büyük bölümü hasarlıysa değişim daha sağlıklı olur."
+        ],
+        [
+          "Parça fiyatı ne kadar?",
+          "2025 tarihli rehbere göre ekonomik araçlarda 2.000 TL ile 6.000 TL, orta segmentte 4.000 TL ile 10.000 TL, üst segmentte 8.000 TL ile 20.000 TL."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Xen Otomotiv: araç tamponu fiyatları 2025",
+          "url": "https://www.xenotomotiv.com/blog/arac-tamponu-fiyatlar-2025-orijinal-oem-ve-yan-sanayi-karsilastirma"
+        },
+        {
+          "name": "Armut: tampon boyama",
+          "url": "https://armut.com/tampon-boyama"
+        }
+      ]
+    },
+    {
+      "slug": "windshield-replacement-cost",
+      "skip": true,
+      "title": "Ön cam değişimi fiyatı",
+      "description": "",
+      "h1": "Ön cam değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "headlight-replacement-cost",
+      "skip": true,
+      "title": "Far değişimi fiyatı",
+      "description": "",
+      "h1": "Far değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "toyota-camry-water-pump-replacement-cost",
+      "skip": true,
+      "title": "Toyota Camry devirdaim değişimi fiyatı",
+      "description": "",
+      "h1": "Toyota Camry devirdaim değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "toyota-corolla-brake-pad-replacement-cost",
+      "skip": true,
+      "title": "Toyota Corolla fren balatası değişimi fiyatı",
+      "description": "",
+      "h1": "Toyota Corolla fren balatası değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "honda-civic-clutch-replacement-cost",
+      "skip": true,
+      "title": "Honda Civic debriyaj değişimi fiyatı",
+      "description": "",
+      "h1": "Honda Civic debriyaj değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "hyundai-elantra-battery-replacement-cost",
+      "skip": true,
+      "title": "Hyundai Elantra akü değişimi fiyatı",
+      "description": "",
+      "h1": "Hyundai Elantra akü değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    },
+    {
+      "slug": "volkswagen-golf-timing-belt-replacement-cost",
+      "skip": true,
+      "title": "Volkswagen Golf triger seti değişimi fiyatı",
+      "description": "",
+      "h1": "Volkswagen Golf triger seti değişimi fiyatı",
+      "answer": "",
+      "rows": [],
+      "factors": [],
+      "tips": [],
+      "faq": [],
+      "sources": []
+    }
+  ]
+}

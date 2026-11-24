@@ -145,3 +145,8 @@ revision9(ROOT)
 localize(ROOT)
 from halo_pricing import revise as halo_pricing
 halo_pricing(ROOT)
+
+from seo_titles import main as seo_titles
+seo_titles()
+from repair_pages import main as repair_pages
+repair_pages()
