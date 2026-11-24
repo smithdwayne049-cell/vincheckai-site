@@ -144,29 +144,135 @@
     },
     {
       "slug": "clutch-replacement-cost",
-      "skip": true,
-      "title": "",
-      "description": "",
-      "h1": "",
-      "answer": "",
-      "rows": [],
-      "factors": [],
-      "tips": [],
-      "faq": [],
-      "sources": []
+      "skip": false,
+      "title": "Sostituzione frizione auto: prezzo 2026",
+      "description": "La sostituzione della frizione in Italia costa di solito da 300 a 1.200 euro, manodopera inclusa. Scopri cosa cambia il prezzo e come non pagare troppo.",
+      "h1": "Sostituzione frizione auto: quanto costa",
+      "answer": "In Italia la sostituzione della frizione costa di solito da 400 a 1.200 euro, manodopera inclusa, secondo il modello e se si cambia solo il disco o il kit completo. Un gruppo frizione normale, senza volano, può costare circa 300-500 euro. Con il volano bimassa, da cambiare quasi sempre insieme alla frizione, si arriva a circa 1.000 euro.",
+      "rows": [
+        [
+          "Gruppo frizione normale, senza volano, manodopera inclusa",
+          300,
+          500
+        ],
+        [
+          "Partenza indicata per disco o kit completo, secondo il modello",
+          400,
+          1200
+        ],
+        [
+          "Totale, dalla frizione semplice al kit completo con volano",
+          300,
+          1200
+        ]
+      ],
+      "factors": [
+        "Modello e tipo di cambio: i cambi robotizzati o a doppia frizione costano di più.",
+        "Volano bimassa: se va sostituito insieme alla frizione, il totale sale.",
+        "Solo il disco o il kit completo con spingidisco e cuscinetto.",
+        "Ore di manodopera: bisogna smontare parte della trasmissione.",
+        "Qualità e marca del kit: economico, di marca o originale.",
+        "Officina indipendente o rete ufficiale, con tariffe orarie diverse."
+      ],
+      "tips": [
+        "Chiedi un preventivo scritto che indichi se il kit è completo e se il volano è compreso.",
+        "Confronta almeno due preventivi per lo stesso kit e lo stesso lavoro.",
+        "Chiedi se il volano va cambiato davvero o si può controllare e tenere.",
+        "Chiedi marca del kit e garanzia sul lavoro.",
+        "Non aspettare che la frizione slitti del tutto: rischi di restare fermo e di danneggiare altri pezzi."
+      ],
+      "faq": [
+        [
+          "Quanto costa cambiare la frizione dell'auto?",
+          "In Italia di solito da 400 a 1.200 euro, secondo Sicurauto (giugno 2025). Dipende dal modello e dal kit scelto."
+        ],
+        [
+          "Quanto costa con il volano bimassa?",
+          "AlVolante indica che con il volano bimassa si può arrivare a circa 1.000 euro, mentre per un gruppo normale senza volano parla di circa 300-500 euro con manodopera."
+        ],
+        [
+          "Perché la manodopera pesa così tanto?",
+          "Per arrivare alla frizione bisogna smontare parte della trasmissione, quindi servono diverse ore di lavoro."
+        ],
+        [
+          "Come capisco che la frizione è da cambiare?",
+          "Segnali tipici: il motore sale di giri ma l'auto non accelera, il pedale è duro o molle, si sente odore di bruciato. Fai controllare l'auto prima che il problema peggiori."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Sicurauto: frizione auto che slitta, cosa fare (giugno 2025)",
+          "url": "https://www.sicurauto.it/ricambi-e-accessori/tecnica-e-manutenzione/frizione-auto-che-slitta-cosa-fare-per-evitare-il-problema/"
+        },
+        {
+          "name": "AlVolante: frizione auto, a cosa serve e cosa fare quando si guasta (settembre 2022)",
+          "url": "https://www.alvolante.it/da_sapere/tecnica/frizione-auto-cosa-serve-e-cosa-fare-quando-si-guasta-379648"
+        }
+      ]
     },
     {
       "slug": "shock-absorber-replacement-cost",
       "skip": true,
-      "title": "",
-      "description": "",
-      "h1": "",
-      "answer": "",
-      "rows": [],
-      "factors": [],
-      "tips": [],
-      "faq": [],
-      "sources": []
+      "title": "Sostituzione ammortizzatori auto: prezzo 2026",
+      "description": "Cambiare gli ammortizzatori in Italia costa da circa 25 a 350 euro l'uno più manodopera. Per tutti e quattro si sale oltre 1.000 euro. Ecco i dettagli.",
+      "h1": "Sostituzione ammortizzatori auto: quanto costa",
+      "answer": "In Italia un ammortizzatore costa da circa 25 a 350 euro come ricambio, secondo qualità, modello e marca, e la manodopera richiede da 2 a 5 ore a 50-120 euro l'ora. Cambiarli tutti e quattro in officina costa di solito oltre 1.000 euro e, secondo AutoScout24, al massimo circa 1.500 euro.",
+      "rows": [
+        [
+          "Singolo ammortizzatore (solo ricambio)",
+          25,
+          350
+        ],
+        [
+          "Manodopera, 2-5 ore a 50-120 euro l'ora (calcolo dalle due voci)",
+          100,
+          600
+        ],
+        [
+          "Totale, tutti e quattro in officina (da oltre 1.000 a circa 1.500)",
+          1000,
+          1500
+        ]
+      ],
+      "factors": [
+        "Qualità e marca degli ammortizzatori: economici, di marca o originali.",
+        "Modello dell'auto: le sospensioni di SUV e auto di fascia alta costano di più.",
+        "Se si cambiano due o quattro ammortizzatori.",
+        "Ore di manodopera, tra 2 e 5, e tariffa oraria dell'officina.",
+        "Pezzi collegati da sostituire insieme, come molle, supporti e cuffie.",
+        "Assetto o convergenza dopo il lavoro, da pagare a parte."
+      ],
+      "tips": [
+        "Chiedi un preventivo scritto che separi ricambi e manodopera per ogni asse.",
+        "Chiedi marca e modello degli ammortizzatori proposti.",
+        "Cambiali sempre in coppia sullo stesso asse.",
+        "Fai verificare le perdite d'olio e il rimbalzo prima di accettare il lavoro.",
+        "Confronta almeno due preventivi, anche di officine indipendenti."
+      ],
+      "faq": [
+        [
+          "Quanto costa cambiare gli ammortizzatori?",
+          "Secondo AutoScout24 un ammortizzatore costa da circa 25 a 350 euro. Per tutti e quattro in officina si va oltre 1.000 euro, con un massimo ragionevole di circa 1.500 euro."
+        ],
+        [
+          "Quanto costa la manodopera?",
+          "La guida indica da 2 a 5 ore di lavoro e tariffe orarie tra 50 e 120 euro."
+        ],
+        [
+          "Posso cambiarli da solo?",
+          "Il fai da te, secondo AutoScout24, costa circa 150-250 euro, ma serve esperienza e attrezzatura. Sbagliare riguarda la sicurezza di guida."
+        ],
+        [
+          "Ogni quanto vanno cambiati?",
+          "La stessa guida indica in media circa 80.000 km, ma dipende da uso e strade."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "AutoScout24: ammortizzatori auto scarichi, quando cambiarli, costo (maggio 2022)",
+          "url": "https://www.autoscout24.it/informare/consigli/componenti-auto/sostituzione-ammortizzatori/"
+        }
+      ]
     },
     {
       "slug": "water-pump-replacement-cost",
@@ -324,16 +430,70 @@
     },
     {
       "slug": "windshield-replacement-cost",
-      "skip": true,
-      "title": "",
-      "description": "",
-      "h1": "",
-      "answer": "",
-      "rows": [],
-      "factors": [],
-      "tips": [],
-      "faq": [],
-      "sources": []
+      "skip": false,
+      "title": "Sostituzione parabrezza auto: prezzo 2026",
+      "description": "Il parabrezza in Italia costa da circa 350 a oltre 1.000 euro da sostituire e 60-90 euro per riparare una scheggiatura. Cosa cambia il prezzo.",
+      "h1": "Sostituzione parabrezza auto: quanto costa",
+      "answer": "In Italia la sostituzione del parabrezza costa da circa 350 euro a oltre 1.000 euro, secondo AutoScout24, a seconda del modello e delle dotazioni. Una piccola scheggiatura si ripara invece con circa 60-90 euro. Con telecamere e sensori la ricalibrazione può far salire il conto.",
+      "rows": [
+        [
+          "Riparazione di una scheggiatura",
+          60,
+          90
+        ],
+        [
+          "Totale, sostituzione del parabrezza (da circa 350 a oltre 1.000)",
+          350,
+          1000
+        ]
+      ],
+      "factors": [
+        "Modello dell'auto: le utilitarie costano meno di SUV e auto di fascia alta.",
+        "Sensori pioggia, vetro riscaldato e telecamere dei sistemi di assistenza.",
+        "Ricalibrazione di telecamere e sensori dopo il montaggio.",
+        "Vetro originale o equivalente omologato.",
+        "Se la polizza cristalli copre il costo, con franchigia e massimale.",
+        "Riparazione o sostituzione: una scheggiatura piccola si ripara."
+      ],
+      "tips": [
+        "Se la scheggiatura è piccola, ripara subito: costa molto meno della sostituzione.",
+        "Controlla se hai una polizza cristalli e che cosa copre.",
+        "Chiedi se il prezzo comprende la ricalibrazione dei sensori.",
+        "Chiedi se il vetro è originale o equivalente omologato.",
+        "Confronta almeno due preventivi con modello e dotazioni indicati."
+      ],
+      "faq": [
+        [
+          "Quanto costa cambiare il parabrezza dell'auto?",
+          "Da circa 350 euro a oltre 1.000 euro in Italia, secondo AutoScout24. Unipol Move parla di qualche centinaio di euro fino a poco più di mille."
+        ],
+        [
+          "Quanto costa riparare una scheggiatura?",
+          "Circa 60-90 euro, secondo AutoScout24."
+        ],
+        [
+          "La ricalibrazione dei sensori costa di più?",
+          "Sì, sulle auto con telecamere e sensori il lavoro è più lungo. Uno studio dell'ADAC, riportato da BusinessOnline nel marzo 2026, indica per una VW Golf circa 2.500 euro in Germania con calibrazione, quindi il caso è estremo."
+        ],
+        [
+          "La polizza cristalli copre il parabrezza?",
+          "In molti casi sì, in tutto o in parte, ma dipende dal contratto: controlla franchigia e massimale."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Unipol Move: sostituzione cristalli auto, costi e tempi (gennaio 2025)",
+          "url": "https://www.unipolmove.it/?p=2277"
+        },
+        {
+          "name": "AutoScout24: sostituzione parabrezza, costo (giugno 2022)",
+          "url": "https://www.autoscout24.it/informare/consigli/riparazione-auto/sostituzione-parabrezza-costo/"
+        },
+        {
+          "name": "BusinessOnline: riparazioni auto sempre più difficili e costose (marzo 2026)",
+          "url": "https://www.businessonline.it/news/riparazioni-auto-sempre-pi-difficili-con-tempi-lunghi-e-costi-elevati-cosa-sapere-per-non-sbagliare_n83144.html"
+        }
+      ]
     },
     {
       "slug": "headlight-replacement-cost",
@@ -403,15 +563,75 @@
     {
       "slug": "volkswagen-golf-timing-belt-replacement-cost",
       "skip": true,
-      "title": "",
-      "description": "",
-      "h1": "",
-      "answer": "",
-      "rows": [],
-      "factors": [],
-      "tips": [],
-      "faq": [],
-      "sources": []
+      "title": "Cinghia distribuzione Golf: prezzo 2026",
+      "description": "Cinghia di distribuzione su Volkswagen Golf: in Italia una berlina compatta spende di solito da 200 a 700 euro. Ricambi, manodopera e pompa acqua spiegati.",
+      "h1": "Sostituzione cinghia distribuzione Volkswagen Golf: quanto costa",
+      "answer": "Le guide italiane non indicano un prezzo specifico per la Golf, ma per una compatta o berlina media come lei la sostituzione della cinghia di distribuzione costa di solito da 200 a 700 euro, kit e manodopera inclusi. AutoScout24 indica 300-700 euro, Cronoshare 200-500 euro. Se si cambia anche la pompa dell'acqua si aggiungono circa 50-100 euro.",
+      "rows": [
+        [
+          "Kit distribuzione (cinghia, tenditore, rulli), utilitaria o berlina media",
+          120,
+          300
+        ],
+        [
+          "Manodopera, utilitaria o berlina media",
+          200,
+          400
+        ],
+        [
+          "Pompa dell'acqua, se cambiata insieme",
+          50,
+          100
+        ],
+        [
+          "Totale, kit e manodopera (le due guide danno fasce diverse)",
+          200,
+          700
+        ]
+      ],
+      "factors": [
+        "Motore della Golf: alcuni motori hanno la catena e non la cinghia, quindi chiedi il codice motore.",
+        "Kit completo con tenditore e rulli o solo la cinghia.",
+        "Pompa dell'acqua cambiata insieme, che di solito conviene.",
+        "Ore di manodopera, tra 2 e 5, e tariffa oraria dell'officina.",
+        "Marca del kit: economico, di marca o originale.",
+        "Officina indipendente o rete ufficiale Volkswagen."
+      ],
+      "tips": [
+        "Chiedi un preventivo scritto con kit, pompa dell'acqua e manodopera separati.",
+        "Controlla sul libretto di manutenzione l'intervallo di km e anni per il tuo motore.",
+        "Chiedi di cambiare la pompa dell'acqua insieme, per pagare la manodopera una sola volta.",
+        "Chiedi marca del kit e garanzia sul lavoro.",
+        "Non rimandare: una cinghia rotta può danneggiare il motore con spese di oltre 2.000 euro."
+      ],
+      "faq": [
+        [
+          "Quanto costa cambiare la cinghia di distribuzione della Golf?",
+          "Non c'è una fonte italiana che indichi la Golf. Per una berlina media AutoScout24 (ottobre 2025) indica 300-700 euro, Cronoshare (gennaio 2026) 200-500 euro."
+        ],
+        [
+          "Quanto costa solo il kit?",
+          "AutoScout24 indica 120-300 euro per cinghia, tenditore e rulli su un'auto di questo tipo."
+        ],
+        [
+          "Conviene cambiare anche la pompa dell'acqua?",
+          "Sì, di solito si cambia insieme perché per raggiungerla bisogna già smontare la cinghia. Cronoshare indica circa 50-100 euro in più."
+        ],
+        [
+          "Ogni quanto si cambia?",
+          "Dipende dal motore, dai km e dagli anni: segui il libretto di manutenzione e verifica se la tua Golf ha cinghia o catena."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "AutoScout24: cinghia di distribuzione, funzione, manutenzione e costi (ottobre 2025)",
+          "url": "https://www.autoscout24.it/informare/consigli/componenti-auto/cinghia-di-distribuzione-funzione-manutenzione-e-costi/"
+        },
+        {
+          "name": "Cronoshare: quanto costa cambiare la cinghia di distribuzione (gennaio 2026)",
+          "url": "https://www.cronoshare.it/quanto-costa/cambio-cinghia-di-distribuzione-auto"
+        }
+      ]
     }
   ]
 }
